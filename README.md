@@ -43,7 +43,7 @@ The Sveltia CMS admin is available at `/admin/`.
 Before deployment, edit `public/admin/config.yml`:
 
 - Confirm `repo: Leo-Kate/astro-product-showcase` matches your GitHub repository.
-- Replace `https://example.com` with the production domain.
+- Production Pages URL is `https://astro-product-showcase.pages.dev`.
 - Keep `media_folder: public/images/uploads` and `public_folder: /images/uploads`.
 
 For GitHub OAuth, use a deployed OAuth proxy such as Decap CMS OAuth Server on Cloudflare Workers, then add its endpoint to the Sveltia backend config. Token login is also enabled for early testing.

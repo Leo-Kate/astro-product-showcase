@@ -8,4 +8,6 @@
 - Product Markdown lives in `src/content/products/`; frontmatter stores title, brand, image, price, and stock state, while Markdown body is the product description.
 - Sveltia media paths are intentionally set to `public/images/uploads` and `/images/uploads`.
 - GitHub repository is `Leo-Kate/astro-product-showcase`; `public/admin/config.yml` already points Sveltia CMS at that repo.
-- Before production, update `public/admin/config.yml` `site_url`, `display_url`, and OAuth proxy settings.
+- Cloudflare Pages project `astro-product-showcase` was created under account `61ba3d79bf14e63bd504fe379ddbfbe4`.
+- Production Pages URL is `https://astro-product-showcase.pages.dev`; `public/admin/config.yml` `site_url` and `display_url` point there.
+- Before using OAuth login, add OAuth proxy settings to `public/admin/config.yml`.

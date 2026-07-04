@@ -6,8 +6,8 @@ backend:
     - oauth
     - token
 
-site_url: https://example.com
-display_url: https://example.com
+site_url: https://astro-product-showcase.pages.dev
+display_url: https://astro-product-showcase.pages.dev
 logo_url: /favicon.svg
 
 media_folder: public/images/uploads
