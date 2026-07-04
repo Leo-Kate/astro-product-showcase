@@ -5,8 +5,8 @@ backend:
   auth_methods:
     - token
 
-site_url: https://astro-product-showcase.pages.dev
-display_url: https://astro-product-showcase.pages.dev
+site_url: https://mirck.co
+display_url: https://mirck.co
 logo_url: /favicon.svg
 
 media_folder: public/images/uploads
