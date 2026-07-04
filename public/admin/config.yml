@@ -1,0 +1,60 @@
+backend:
+  name: github
+  repo: Leo-Kate/astro-product-showcase
+  branch: main
+  auth_methods:
+    - oauth
+    - token
+
+site_url: https://example.com
+display_url: https://example.com
+logo_url: /favicon.svg
+
+media_folder: public/images/uploads
+public_folder: /images/uploads
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  lowercase: true
+
+collections:
+  - name: products
+    label: Products
+    label_singular: Product
+    folder: src/content/products
+    create: true
+    delete: true
+    extension: md
+    format: frontmatter
+    identifier_field: title
+    slug: "{{slug}}"
+    preview_path: /products/{{slug}}
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Brand
+        name: brand
+        widget: string
+        required: true
+      - label: Main image
+        name: image
+        widget: image
+        required: true
+      - label: Price
+        name: price
+        widget: number
+        value_type: float
+        min: 0
+        required: true
+      - label: In stock
+        name: in_stock
+        widget: boolean
+        default: true
+        required: true
+      - label: Description
+        name: body
+        widget: markdown
+        required: true
