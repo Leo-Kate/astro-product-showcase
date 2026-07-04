@@ -21,11 +21,11 @@ const collections = [...collectionCounts.entries()].sort((a, b) => b[1].count - 
 	<main class="page-shell catalogue-page">
 		<section class="catalogue-hero" aria-labelledby="catalogue-title">
 			<div>
-				<p class="kicker">Full Catalogue</p>
-				<h1 id="catalogue-title" class="display-title">{products.length.toLocaleString('en-US')} Richard Mille references.</h1>
+				<p class="kicker">Full catalogue</p>
+				<h1 id="catalogue-title" class="display-title">{products.length.toLocaleString('en-US')} RM references</h1>
 			</div>
 			<p class="lead">
-				Every product from the new Richard Mille catalogue is available here. Use collection links for a tighter client presentation.
+				The full Richard Mille catalogue, organized for collection browsing and product-link inquiry.
 			</p>
 		</section>
 
@@ -54,9 +54,9 @@ const collections = [...collectionCounts.entries()].sort((a, b) => b[1].count - 
 	.catalogue-hero {
 		display: grid;
 		grid-template-columns: minmax(0, 1fr) minmax(280px, 430px);
-		gap: clamp(24px, 5vw, 80px);
+		gap: 72px;
 		align-items: end;
-		padding: clamp(52px, 8vw, 106px) 0 34px;
+		padding: 92px 0 34px;
 	}
 
 	.catalogue-hero .lead {
@@ -83,19 +83,23 @@ const collections = [...collectionCounts.entries()].sort((a, b) => b[1].count - 
 	}
 
 	.collection-rail span {
+		font-family: "Inter Tight", Inter, Arial, sans-serif;
 		font-size: 0.78rem;
-		font-weight: 800;
+		font-weight: 700;
 		text-transform: uppercase;
 	}
 
 	.collection-rail strong {
 		color: var(--red);
+		font-family: "Inter Tight", Inter, Arial, sans-serif;
 		font-size: 0.78rem;
+		font-weight: 700;
 	}
 
 	@media (max-width: 760px) {
 		.catalogue-hero {
 			grid-template-columns: 1fr;
+			gap: 18px;
 			padding-top: 42px;
 		}
 	}

@@ -17,6 +17,7 @@ artifacts-*.png
 # local operational backups
 backups/
 .wrangler/
+.codegraph/
 
 
 # environment variables

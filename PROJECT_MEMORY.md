@@ -63,3 +63,14 @@
 - Live `/admin/` returns `401` anonymously, confirming Basic Auth protection is active before Sveltia CMS.
 - Live `/cdn-image/...` proxy returned `200 image/jpeg` for both `GET` and `HEAD`.
 - Live browser QA across 390px mobile and 1440px desktop found no horizontal overflow, no visible broken images, active WhatsApp links, and clean browser console output.
+
+## 2026-07-05 - Codex
+
+- Installed missing Codex UI skill `ui-ux-pro-max` into `C:\Users\leo\.codex\skills\ui-ux-pro-max` from the local `.cc-switch` skill source; restart Codex sessions before expecting the skill to appear in the startup skill list.
+- Reworked the Mirck Richard Mille public UI away from the earlier serif/black-gold treatment into a more restrained Richard Mille-inspired precision catalogue: Inter Tight/Inter typography, monochrome paper base, red accents, dense image-first product cards, and cleaner responsive layouts.
+- Updated homepage hero spacing and caption treatment so the product and title appear earlier in the first viewport; hero product caption now has a translucent light backing for readability.
+- Reduced oversized product detail typography and tightened the product detail commerce/actions/facts layout.
+- Replaced the floating WhatsApp text placeholder with an inline SVG icon and kept WhatsApp inquiry links on desktop, mobile, and product detail pages.
+- Improved catalogue sorting in `src/lib/catalog.ts` so explicit RM families and clean PMS SKU products appear before generic `Richard Mille` items, accessories, boxes, screws, and title-heavy "best/replica/factory" entries.
+- Verification: `npm run build` generated 1,631 pages successfully. Local Pages dev checks returned HTTP 200 for `/`, `/products/`, `/collections/rm-011/`, and sample PMS011 detail page; anonymous `/admin/` returned 401; `/cdn-image/...` returned `200 image/jpeg`.
+- Visual QA was performed at 1440x900 and 390x844 for home, product catalogue, RM 011 collection, and PMS011 detail pages. Checked no horizontal overflow, no visible broken images, functional menu open/Escape close focus state, and active WhatsApp links.

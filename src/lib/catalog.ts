@@ -59,9 +59,23 @@ export function compareProductsForDisplay(
 	a: { data: { title: string; category?: string; sku?: string } },
 	b: { data: { title: string; category?: string; sku?: string } },
 ) {
-	const accessorySort = Number(isAccessoryProduct(a)) - Number(isAccessoryProduct(b));
-	if (accessorySort !== 0) {
-		return accessorySort;
+	const score = (product: { data: { title: string; category?: string; sku?: string } }) => {
+		const collection = collectionName(product.data.category).toLowerCase();
+		const title = product.data.title.toLowerCase();
+		let value = 0;
+
+		if (isAccessoryProduct(product)) value += 1000;
+		if (collection === 'richard mille') value += 80;
+		if (/^pms\d+/i.test(product.data.sku ?? '')) value -= 120;
+		if (/\brm\s*0?\d/i.test(collection)) value -= 70;
+		if (/\b(best|replica|super|top|factory)\b/i.test(title)) value += 24;
+
+		return value;
+	};
+
+	const prioritySort = score(a) - score(b);
+	if (prioritySort !== 0) {
+		return prioritySort;
 	}
 
 	return collectionName(a.data.category).localeCompare(collectionName(b.data.category)) || a.data.title.localeCompare(b.data.title);

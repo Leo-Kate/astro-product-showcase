@@ -33,7 +33,7 @@ const heroProduct = products.find((product) => product.data.image) ?? products[0
 				<p class="kicker">Collection</p>
 				<h1 id="collection-title" class="display-title">{name}</h1>
 				<p class="lead">
-					{products.length.toLocaleString('en-US')} references in this Richard Mille family, prepared for private selection and direct inquiry.
+					{products.length.toLocaleString('en-US')} references in this Richard Mille family, prepared for private selection.
 				</p>
 				<div class="button-row">
 					<a class="button" href="/products/">Full Catalogue</a>
@@ -49,8 +49,8 @@ const heroProduct = products.find((product) => product.data.image) ?? products[0
 
 		<section id="collection-products" class="page-shell collection-products">
 			<div class="section-head">
-				<h2>{name} references.</h2>
-				<p>Open a product page for gallery images, SKU, availability, and a WhatsApp inquiry button carrying the product link.</p>
+				<h2>{name} references</h2>
+				<p>Open a product page for gallery images, SKU, availability, and WhatsApp inquiry with product link.</p>
 			</div>
 			<div class="product-grid">
 				{products.map((product, index) => <ProductCard product={product} priority={index < 8} />)}
@@ -63,10 +63,10 @@ const heroProduct = products.find((product) => product.data.image) ?? products[0
 	.collection-hero {
 		display: grid;
 		grid-template-columns: minmax(0, 1fr) minmax(300px, 0.55fr);
-		gap: clamp(24px, 6vw, 90px);
+		gap: 86px;
 		align-items: center;
 		min-height: min(760px, calc(100svh - 73px));
-		padding: clamp(44px, 7vw, 90px) clamp(18px, 4vw, 54px);
+		padding: 86px 54px;
 		background: linear-gradient(180deg, #ffffff, var(--paper));
 		border-bottom: 1px solid var(--line);
 	}
@@ -100,7 +100,9 @@ const heroProduct = products.find((product) => product.data.image) ?? products[0
 	@media (max-width: 840px) {
 		.collection-hero {
 			grid-template-columns: 1fr;
+			gap: 26px;
 			min-height: auto;
+			padding: 42px 18px;
 		}
 
 		.collection-hero__image {
