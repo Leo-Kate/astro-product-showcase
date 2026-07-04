@@ -30,3 +30,5 @@
 - Expanded product schema with optional `sku`, `category`, `images`, `source_id`, and `excerpt`.
 - Rebuilt the frontend into a high-end watch catalogue: new dark/gold Mirck homepage, full `/products/` catalogue, and gallery-style product detail pages.
 - Local verification: `npm run build` generated 1,524 pages successfully; Playwright screenshots checked desktop/mobile home, catalogue, and product detail layouts.
+- Deployed the catalogue import and redesign to GitHub commit `f043c3c`; GitHub Actions run `28714947761` completed successfully and deployed to Cloudflare Pages.
+- Live verification returned HTTP 200 for `https://mirck.co/`, `/products/`, `/admin/`, and a sample product detail page. Browser checks confirmed `/products/` shows `1,522 watches`, the sample product detail page renders, and `/admin/` shows the Sveltia CMS GitHub sign-in button.
