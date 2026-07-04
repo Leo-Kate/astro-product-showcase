@@ -1,0 +1,11 @@
+---
+title: "Omega Super Series Moon Dark Face"
+brand: "Omega"
+category: "Omega"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b3bc1d6fd00347d8bddd8d053cafcf55mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b3bc1d6fd00347d8bddd8d053cafcf55mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_3337c3ebccf34df98db40e7430957337mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_632d0651f57b45258a0d92f772a507c6mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_105efe22a57f45e28df7fbcd41822c27mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_0dc39a5e6f7c4609a177ba3d7e0b6ec5mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_3d6d76b948974c6589406de6daa809bcmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_ab7f3951e6d2408fa25a3adacc48aa75mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b2e45b1d8a114216b5a238f70fc7f2b8mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_e76562cf72cf4108b1391c888d974b46mv2.jpg"]
+in_stock: true
+source_id: "15812"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Omega Super Series Moon Dark Face reference number 431.53.41.21.01.001 is a 1:1 Superclone watch that is made to very high standards. It is powered by the automatic Omega Co-Axial Master Chronometer Calibre 9300, which has a power reserve of 60 hours. The watch has a 41mm case made of stainless steel, a black dial with a moon phase complication, and a sapphire crystal. It is water resistant to 50 meters.</p><p>Here are some of the specifications of the Omega Super Series Moon Dark Face reference number 431.53.41.21.01.001:</p><p>Case: 41mm stainless steel</p><p>Dial: Black with moon phase complication</p><p>Movement: Automatic Omega Co-Axial Master Chronometer Calibre 9300</p><p>Power reserve: 60 hours</p><p>Crystal: Sapphire</p><p>Water resistance: 50 meters</p><p>The VS Factory Omega Super Series Moon Dark Face is a high-quality Superclone watch that is a great option for those who are looking for a watch that looks and feels like the real thing. It is well-made and has a number of features that make it a great value for the price.</p></pre> </div>

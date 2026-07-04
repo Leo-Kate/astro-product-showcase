@@ -1,0 +1,11 @@
+---
+title: "Patek Philippe Nautilus 5726A- 1:1 Superclone"
+brand: "Patek Philippe"
+category: "Patek Philippe"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_91a63d9ae84b46f992769f86f5c4a4d3mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_91a63d9ae84b46f992769f86f5c4a4d3mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8e51958bdb734b838e51635466d361c0mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8b8fc75125bf47da85bac4671336f71cmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_9d003529858b44099be511aefb622fb2mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_7f929e4871644d5988b92e8bcb077baamv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_d49ddfebafbf44dc938edfccb4e4c57emv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_415c219cef8545768b48fb186ce31614mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_0223b937b9cf460eb0047ab4d57f688fmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_80dc18bd5c9e41b4b8f8495f842a5937mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_abb6acec2f684fb5907b2b0223ca6864mv2.jpg"]
+in_stock: true
+source_id: "15233"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Patek Philippe Nautilus 5726A- 1:1 Superclone<br><br>Code name "Patek Philippe Annual Calendar"<br><br>Genuine Swiss 330 SC Movement - Alinged exactly like the Original Patek Philippe Movements with Updated Rotor<br><br>904L Solid Stainless Steel Case with Open Case Back.<br><br>White Gradated Dial with functional Sub dial at 6 O'Clock, Day and Month Indicator and Functional Moon Phase Indicator for Day/Night Function.<br><br>Sapphire Scratch Proof Crystals with Double Layer Anti Reflective Coating<br><br>904L Stainless Steel Strap linked with Screws complete with Patek Philippe Folding Clasps as per the original<br><br>Case Diameter : 40.5MM x 11.3MM Thick<br><br>Water Resistant and Water Proof up to 50 Meters.<br><br>Free Shipping on this item worldwide - For more information please contact us<br><br>The Images you see are of Actual Watches, You will get exactly the same watch you see in the Images</p></pre> </div>

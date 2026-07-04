@@ -1,0 +1,23 @@
+---
+title: "1:1 super clone Rolex Submariner 16613 1:1 Superclone"
+brand: "Rolex"
+sku: "199-29877872"
+category: "Rolex > Submariner"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/04/1月7日-310-1.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/04/1月7日-310-1.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_79bad65323c4423086f9d701131cf1admv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_6a6130f7c37d445ab16406e2145c6766mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_56c2f98fe1ba4c36a1cac13df225694bmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_191e386f97d349d798842fb28430b01emv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_928c5684b280445e92667bbe8da4c5acmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_77bafd6941934ba6a66bde74cbbc477fmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_90e8d4415c57402f8c42e60173ca753bmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_438d55a83f594468996422054004fa26mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_ceaf7aeea2b34201a412ab7a68117ceemv2.jpg"]
+in_stock: true
+source_id: "7172"
+---
+
+<div>
+<p>Rolex Submariner blue dial two toned is a high-quality 1:1 Superclone watch that is made to closely resemble the original. It has a 40mm stainless steel case with a yellow gold bezel and fluted edges. The dial is blue with applied hour markers and a date window at 3 o’clock. The hands and hour markers are coated with lume to glow in the dark. The watch is powered by an 3235 automatic movement that is decorated to look like the original Rolex movement. It comes with a two-tone stainless steel and yellow gold Oyster bracelet with a deployant clasp.</p>
+<p>Here are the specific details of the watch:</p>
+<p>Case: 40mm stainless steel</p>
+<p>Bezel: Yellow gold. fluted</p>
+<p>Dial: Blue. with applied hour markers and date window</p>
+<p>Hands: Luminous</p>
+<p>Movement: Automatic</p>
+<p>Bracelet: Two-tone stainless steel and yellow gold Oyster bracelet with deployant clasp</p>
+<p>The Rolex Submariner blue dial two toned is a great option for those who want a high-quality Superclone watch that looks and feels like the original. It is also a more affordable option than the genuine watch.</p>
+<pre data-hook="description"></pre>
+</div>

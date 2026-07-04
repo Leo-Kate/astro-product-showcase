@@ -1,0 +1,11 @@
+---
+title: "Omega Seamaster 300 -1:1 Superclone"
+brand: "Omega"
+category: "Omega"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_56a74014e34644ba80c77b8e7e47f12emv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_56a74014e34644ba80c77b8e7e47f12emv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_d5482b58b783411cb4689ebc08db5ffdmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_d5e6bd0241c04d4b8a0e0944dca1d269mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_d7cff7ebd7b34daab905652128b2310amv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_cdbd23cad28644d087e3b3db0cf32c28mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_89d2e8a579674adbb4bbec2cdc73577cmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_598f12394cce40b48d10a661b3c73231mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_746a3555d3ef4c99a0c997115030e86amv2.jpg"]
+in_stock: true
+source_id: "15912"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>New Omega's  Seamaster 300 </p><p>Highest version of the timed watch on the market</p><p>1: Equipped with a re-engraved 9900/9901 timing core (non-9300 hammer plate) with genuine black swing wheel, natural imported rubber strap, strap can be exchanged with the original</p><p>2: Between the rose gold with genuine in the 12 o'clock outer ring with precious metal imprint: AU750, dog head mark, balance scale, Eurologo</p><p>3: The shell body pulls sand delicate white light thin slope angle reclining with the genuine, 904 steel case 44 mm</p><p>4: The ingenuity of the bright porcelain plate with 18k white gold carefully crafted small moment, black, blue, gray three-color calendar plate and the original consistent</p><p>5: The scale and word on the ceramic ring, using the "white" process, not easy to turn yellow, shiny</p><p>6: Night light material for the Swiss Super-lumiNova c3 non-radioactive super night light filled, Omega special design, hour hand with minute hand, night pearl two-color night light 7: complex craft, ingenuity, genuine 1:1 mold, four yards in one, full of details</p><ul></ul></pre> </div>

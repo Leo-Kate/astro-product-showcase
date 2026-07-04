@@ -1,0 +1,11 @@
+---
+title: "1:1 Superclone-Omega Snoopy 150th Anniversary (Snoopy)"
+brand: "Omega"
+category: "Omega"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b77066e4b6ff4eec88418c0ec111a8b3mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b77066e4b6ff4eec88418c0ec111a8b3mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_70b79d3729a04c31aa8b8ed97538d539f003.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_a32abb21b70442d1860201648bdac2d5mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_414244bad5d44274884628775272d8b9mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b491b06e32a740e38e350544c1e7dbccmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_97c708e6b50b443bbd5bf30953dee055mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_e87b538786a94f8d932629c25af96f01mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_0fc837fa44e94976980754a56c056474mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_e86a971add78433f882dc55482b1f5f1mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b90c26fc588b46098638660ba1f91343mv2.jpg"]
+in_stock: true
+source_id: "15863"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Omega Snoopy 150th Anniversary watch with strap is a high-quality 1:1 Superclone of the original watch. It features a 42mm stainless steel case, a black dial with a blue Snoopy flying through the clouds, and a date window at 6 o'clock. The watch is powered by a Swiss ETA 3861 automatic movement, and it comes with a black leather strap with a white contrast stitching.</p><p>Here are some of the specifications of the VS Factory Omega Snoopy 150th Anniversary watch with strap:</p><p>Case: 42mm stainless steel</p><p>Dial: Black with blue Snoopy flying through the clouds</p><p>Date window at 6 o'clock</p><p>Movement: Swiss ETA 3861 automatic</p><p>Strap: Black leather with white contrast stitching</p><p>Waterproof 60m</p><p>The VS Factory Omega Snoopy 150th Anniversary watch with strap is a great choice for watch collectors who are looking for a high-quality Superclone of the original watch. It is also a great gift for fans of Snoopy and the Peanuts comics.</p></pre> </div>

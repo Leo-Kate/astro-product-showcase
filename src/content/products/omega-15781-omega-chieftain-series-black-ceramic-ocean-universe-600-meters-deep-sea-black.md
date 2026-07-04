@@ -1,0 +1,11 @@
+---
+title: "Omega Chieftain Series Black Ceramic Ocean Universe 600 meters (Deep Sea Black)"
+brand: "Omega"
+category: "Omega"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_dd8b48956d494efe8b865f1c5dc53a0bmv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_dd8b48956d494efe8b865f1c5dc53a0bmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_0bddafebbcb54b7ea892b5d2da022ee1mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_35b72fd0d6ca41c7ad0db6b0f5c4e8dfmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_5c5f6bdc764043a39adf78cefbde6cacmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_45c55a63a2c442dd91294800be605190mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_11c3c184ac5b49ceb460204f51f045camv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_4f732ef7b261498e8c3a475c2f7a4dddmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_9f398271d0774330965b33b4ef534fe9mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_60c3088ac8254dc98c130d0afaad5a13mv2.jpg"]
+in_stock: true
+source_id: "15781"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Omega Chieftain Series All Black Ceramic Ocean Universe 600 meters "Deep Sea Black" 1:1 Superclone has the following specifications:</p><p>Case:44mm diameter, 16.8mm thickness, 50mm lug to lug, 20mm lug width. Solid 904L stainless steel case with polished and brushed finishing. Black ceramic bezel with polished diving scale.</p><p>Crystal:Sapphire crystal with anti-reflective coating.</p><p>Movement:Automatic Swiss Eta movement with 28800 vph beat rate, 48 hours power reserve, and decorated rotor and bridges.</p><p>Dial:Black dial with applied polished hour markers and hands. Date window at 3 o'clock.</p><p>Water resistance:600 meters.</p><p>Strap:Black rubber strap with stainless steel deployant buckle.</p><p>The VS factory's Omega Chieftain Series All Black Ceramic Ocean Universe 600 meters "Deep Sea Black" is a high-quality Superclone watch that is very close to the genuine watch in terms of looks and performance. It is a great choice for watch enthusiasts who are looking for an affordable alternative to the genuine watch.</p></pre> </div>

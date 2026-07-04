@@ -1,0 +1,11 @@
+---
+title: "Panerai Carbotech Marina Militare Submersible,PAM961-1:1 Superclone"
+brand: "Panerai"
+category: "Panerai"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_f32d952381294831a06d5c6fa37f7bacmv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_f32d952381294831a06d5c6fa37f7bacmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_842c4be13f504aa38e05e58fd3b7322cmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_e48c467abcd2474da3b17f78f87ff090mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_f639daf81fe343a9bccd17d12fa9dbb9mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_84c1e7696fb84c16b4bc4ff5abc3b661mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_bfb91ff1f5014db3938e75abf7676864mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_6ee12365686648329d6ba5439ff97595mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_e76edff49c144c0b8aaafc42ff0bf651mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_bcdcf811f10842b9b445477173871339mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_c5ff53f4257e48749331b16829d3be53mv2.jpg"]
+in_stock: true
+source_id: "15511"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Panerai Carbotech Marina Militare Submersible,PAM961-1:1 Superclone<br><br>P.9010 31 Jewels Swiss Movement with Platinum Plated Movement Plate with Original Style Platinum Plated Plate and Rotor<br><br>Movement has been assembled to resemble the Authentic P9010 Movement.<br><br>Black Dial with Seconds hands Sub Dial and Date Window at 3O'Clock. Unidirectional Rotating Brushed Steel Bezel<br><br>Super Lumed Green Hour Markers and Bezel Pearl <br><br>Scratch Proof Sapphire Crystal with Double Sided Anti-Reflective Coating<br><br>Black Rubber Strap with Steel Tang Buckle complete with Panerai Markings and Engravings.<br><br>Open Case back with Sapphire Crystals with Panerai Markings/Engravings and Serial numbers matching the originals<br><br>47MM<br>Water Resistant up to 100 Meters<br><br>Free Shipping on this item worldwide with 1 year Warranty - For more information please contact us<br><br>The Images you see are of Actual Watches, You will get exactly the same watch you see in the Images</p></pre> </div>

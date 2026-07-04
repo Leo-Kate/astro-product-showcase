@@ -1,0 +1,11 @@
+---
+title: "1:1 Superclone Rolex 40MM (Rose gold yacht master)"
+brand: "Rolex, Rolex"
+category: "Rolex, Rolex > Yacht-Master"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8346bb4f52124ef09f3d8bd2113c52f7mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8346bb4f52124ef09f3d8bd2113c52f7mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_84623d045a3a400baf75f2f4c41dc52amv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_393d6f334aeb405086b9040dfbf5e7f9mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_55875ccebf434679a6f36c87a19d767emv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_bf634f131d69424baa8b309e9faf1491mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_e0f1a6e09f7f40d0a9e9164a0dfc3736mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_52cadf88e700440288aa1226a1ba8706mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_65598251d95c4fa18b52ccc64557832cmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_703beb12c0804d0989970a803b64b006mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_ec32e69dfb104fba8ca4eda20f12446fmv2.jpg"]
+in_stock: true
+source_id: "14519"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Rolex Yacht-Master 40 Oyster 40MM<br><br>Genuine Swiss 2836-2 ETA automatic Movement with Smooth Sweeping Seconds hands - 28,800 VPH Movement<br><br>18K Gold Wrapped on 904L Stainless Steel Case<br><br>Black dial with Superlumed Hour Markers and Bi-Directional Rotating Bezel in Matt Black Cerachrom Ceramic Insert with Polished and Raised Numerals on Bezel<br><br>ROLEX exactly like the originals, Rolex Crown etched in Crystal at 6 O'Clock Position, Correct Date Magnification, Oyster Caseback which can be opened with the Original Rolex Tool<br><br>Scratch Proof Sapphire Crystal with Double Sided Anti-Reflective Coating<br><br>Black Rubber Strap with  Folding Clasp<br><br>Solid Case back with Rolex Markings/Engravings<br><br>40MM Wide x 16MM Thick<br><br>Water Resistant and Water Proof up to 50 Meters.<br><br>Free Shipping on this item worldwide - For more information please contact us<br><br>The Images you see are of Actual Watches, You will get exactly the same watch you see in the Images</p></pre> </div>

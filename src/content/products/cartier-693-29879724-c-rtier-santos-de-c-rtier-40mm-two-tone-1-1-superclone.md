@@ -1,0 +1,14 @@
+---
+title: "C@rtier Santos De C@rtier 40MM Two Tone – 1:1 Superclone"
+brand: "Cartier"
+sku: "693-29879724"
+category: "Cartier > Santos"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_cbf03fc82ed44295822db0f45556f308mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_cbf03fc82ed44295822db0f45556f308mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_1607c0c555b04706ad91fc45e43250e8mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_7a4addf72686449dbb68f863c009f86cmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_c66de367352944ffaf1f73e21cda9c8dmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_4ae1449abaf94f1d9cddc762c7a086d9mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_22aaf2b52f6e429cb7df3ebd11d3e86dmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_80a1b5681126415592963c0459fced2bmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/04/4d39d6_22f9e350375b458d81770ef9175ebd39mv2.jpg"]
+in_stock: true
+source_id: "8123"
+---
+
+<div>
+<pre data-hook="description"><p>C@rtier Santos De C@rtier 1:1 Mirror Replica - 40MM Two Tone Steel Watch<br/><br/>REF# W2SA0007<br/><br/>1:1 Mirror Casing Exterior - The exact casing found on our Swiss Watches with the best update on this model in years.<br/><br/>Genuine Swiss Platinum Plated ETA 2836-2 Automatic Movement with very smooth sweeping seconds hands.<br/><br/>904L Stainless Steel Casing with complete with C@rtier Markings as per the Originals. Rose Gold Plated Bezel with Rose Gold Screws<br/><br/>White Dial with Roman Hour Numerals. Date Window at 6 O'Clock and Signature Cartier Markings at the 7 O'Clock Counter. Blue Sapphires on Stem Tip<br/><br/>Anti Reflective Scratch Proof Sapphire Crystal Glass<br/><br/>Solid Case back with Complete Cartier Markings and Engravings.<br/><br/>904L Steel Strap linked with Screws with Folding Clasps complete with Cartier Markings and Engravings. Quick Release System as per the Originals. Rose Gold Plated Screws on Strap<br/><br/>40MM Wide x 47.00MM Tall x 9MM Thick<br/><br/>Exact Weight and Dimensions to the Authentic Watches<br/><br/>Water Resistant and Waterproof up to 50 Meters - We however do not recommend taking watches for a swim. be it an Original or a Replica.<br/><br/>Free Shipping on this item worldwide - For more information please contact us<br/><br/>The Images you see are of Actual Watches. You will get exactly the same watch you see in the Images</p><ul></ul></pre>
+</div>

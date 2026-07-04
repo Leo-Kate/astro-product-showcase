@@ -1,0 +1,11 @@
+---
+title: "Omega Super Series Moonphase reference number 431.53.41.21.01.001"
+brand: "Omega"
+category: "Omega"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8f1de0323f3349bcb2f38d086d0b2f18mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8f1de0323f3349bcb2f38d086d0b2f18mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_419c8930f0b7444dac9a438004946f0fmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_9f7eab3d684446de9993272f1a1c8c1amv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_d5929ee24835464599147ad89c65e7d5mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_20670eafcf244f5e918cd6480f509fa4mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_28dd33d1194447d698da7b94a5ccaecemv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_dd83919b0c3c4d169391383eda9cfb32mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_11631f907ef04c9787b0944d40db9a53mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b94bc3e3fbc9459d8dd5161f955a18f7mv2.jpg"]
+in_stock: true
+source_id: "15822"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Omega Super Series Moon Dark Face reference number 431.53.41.21.01.001 is a 1:1 Superclone watch that is made to very high standards. It is powered by the automatic Omega Co-Axial Master Chronometer Calibre 9300, which has a power reserve of 60 hours. The watch has a 41mm case made of stainless steel, a black dial with a moon phase complication, and a sapphire crystal. It is water resistant to 50 meters.</p><p>Here are some of the specifications of the Omega Super Series Moon Dark Face reference number 431.53.41.21.01.001:</p><p>Case: 41mm stainless steel</p><p>Dial: Black with moon phase complication</p><p>Movement: Automatic Omega Co-Axial Master Chronometer Calibre 9300</p><p>Power reserve: 60 hours</p><p>Crystal: Sapphire</p><p>Water resistance: 50 meters</p><p>The VS Factory Omega Super Series Moon Dark Face is a high-quality Superclone watch that is a great option for those who are looking for a watch that looks and feels like the real thing. It is well-made and has a number of features that make it a great value for the price.</p></pre> </div>

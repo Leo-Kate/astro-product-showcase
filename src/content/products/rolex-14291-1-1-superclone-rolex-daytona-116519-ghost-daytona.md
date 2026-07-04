@@ -1,0 +1,11 @@
+---
+title: "1:1 Superclone-Rolex Daytona 116519(Ghost daytona)"
+brand: "Rolex"
+category: "Rolex > Daytona, Rolex"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8d9ddbc871974163b9222c59db9e80e6mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8d9ddbc871974163b9222c59db9e80e6mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_5ef5d675e3c940dcbc3c847c5171d358f003.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_80647f4cc05b45a8b2b37ac7515fd6bfmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b54953e129de43d8b86a2c8a719ca8b8mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_79efaffcf12a47b9bace84b598fc23ffmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_ed36d6539c944c76a7bc14cd653abda7mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_cb45cc0dfdc04d03984cba3031d049e8mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_188d774c89bc4383bdcf79a5c0c591cemv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_9c52b3cc49ce43788ca5e7230b5157dfmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_177a3aa090e64a0781d410a17eb8bef4mv2.jpg"]
+in_stock: true
+source_id: "14291"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>The Rolex Daytona 116519 1:1 Superclone quality with a silver dial and rubber strap. It is a 40mm watch that is made of white gold polished on 904L stainless steel. The dial is silver with black subdials and features Chroma Light lume. The watch is powered by the Rolex calibre 4130 automatic movement. It has a water resistance of 60 meters.</p><p>Here are some of the specifications of the Rolex Daytona with a silver dial and rubber strap:</p><p>Case material: White gold and stainless steel</p><p>Case diameter: 40mm</p><p>Dial color: Silver</p><p>Subdials: Black</p><p>Lume: Chroma Light</p><p>Movement: Rolex calibre 4130 automatic</p><p>Water resistance: 60 meters</p><p>Strap: Oyster Flex rubber strap</p><p>The Rolex Daytona with a silver dial and rubber strap is a popular watch among collectors and enthusiasts. It is a versatile watch that can be dressed up or down. It is also a very comfortable watch to wear.</p></pre> </div>

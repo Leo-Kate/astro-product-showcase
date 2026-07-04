@@ -1,0 +1,11 @@
+---
+title: "1:1 Super Clone Audemars Piguet Royal (Oak Offshore 26470)"
+brand: "Audemars Piguet, Audemars Piguet"
+category: "Audemars Piguet, Audemars Piguet > Royal Oak Offshore"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_064d466fc0e341ca82764075133a4a04mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_064d466fc0e341ca82764075133a4a04mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_937d227e28254da980b8947f6dc32cddmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_fd18821b4d684927a8b4a814bedb2cfamv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_3a18f0f22e764c4b8da5d4a07070b047mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_2c97b42d63f9405eb4eadd5163ef22b0mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_0a621bd875594f5b91c8ebd329f58b4amv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_3a51e139093d45c680f1bf71e6bee444mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_3b68962a0ae0417796290cb6b997c533mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_868a2d00a6324e8e99244d219709f596mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_4a0a854c88304d24b047869803ed625cmv2.jpg"]
+in_stock: true
+source_id: "16683"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Size    44mm x 16mm</p><p>Movement    Base Movement: SWISS 3120 automatic chronograph movement at 28800vph; Decoration: Platinum plated movement plate and rotor which are made according to the genuine movement, the best looking AP Calibre 3126 Movement Clone at the moment.</p><p>Functions   Hours, minutes, sub-seconds and date display; chronograph</p><p>Case    18k rose gold plated solid 904L stainless steel case</p><p>Crystal     Scratch-proof sapphire crystal with the colorless anti-reflection coating (Swiss standard, single-sided, same as genuine)</p><p>Dial    Superlumed black textured dial and hands (lumed with genuine Super-LumiNova) New Cyclops making the DW size look closer to the genuine!</p><p>Bezel   Black brushed/polished ceramic bezel (same as genuine)</p><p>Strap   Black rubber strap /Leather</p><p>Clasp   Tang buckle with correct engravings</p><p>Water resistance    >50 Meters</p></pre> </div>

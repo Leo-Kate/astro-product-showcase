@@ -1,0 +1,11 @@
+---
+title: "Patek Philippe Nautilus 5712/1A-001 -1:1 Superclone"
+brand: "Patek Philippe"
+category: "Patek Philippe"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_274956d099de4456ab16ccfb9529b67dmv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_274956d099de4456ab16ccfb9529b67dmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b05463f132cb43c5b5c2f706fb45695bmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_def91910ac6f46de8cca72b4ca6672famv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_9354e864d37f422183ec9dc4e4d75ba1mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_4fcd93caf8514bf0a0cb3a99851f520emv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_4d3b722037374dbaa0d61d135164ded9mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_42c9edce9fa24f22bd93b67f65021070mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_a0a9fc2a52bf49bc8d3577c7dd552f9cmv2.jpg"]
+in_stock: true
+source_id: "15196"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Patek Philippe Nautilus Series nautilus 5712/1A-001 (Overlord President) V3 Plus! 1 all functions with genuine (10-word momentum display, 7-word calendar and moon phase 4-bit small second hand), and the original with horizontal fraction pattern, with fluorescent scale! Pair with alligator skin straps.The upper left corner is the momentum display (power storage for 48 hours), the lower left corner is the calendar display (the head is out of second gear down can be manually adjusted) the lower right corner is the second hand. 2 40 mm diameter, manual chain movement, Waterproof upto 50M ,904L stainless steel gold-plated case, sapphire glass mirror. 3 5712 and 5724 models of the outer drill for Swarova Sage drill, through the shiny, extraordinary temperament. As close as possible to the original in the current technical context, this watch lets you navigate all occasions<br><br>Genuine Swiss 330 SC Movement - Alinged exactly like the Original Patek Philippe Movements with Updated Rotor<br><br>Free Shipping on this item worldwide - For more information please contact us<br><br>The Images you see are of Actual Watches, You will get exactly the same watch you see in the Images</p></pre> </div>

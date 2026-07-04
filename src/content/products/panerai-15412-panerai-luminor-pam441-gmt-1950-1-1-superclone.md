@@ -1,0 +1,11 @@
+---
+title: "Panerai Luminor PAM441 GMT 1950 -1:1 Superclone"
+brand: "Panerai"
+category: "Panerai"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_3870e80b5f3c4ef7948ea4da909f695cmv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_3870e80b5f3c4ef7948ea4da909f695cmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_67b4a6f9e60e41baa44c74b3dca7c90dmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_f6923677e8c648379c3b6b5ed913c7d3mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_2f07ee7ed36c4e74a45a5f45e9697635mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_d6ac74d37d6c4c299549f1ac0e5cc912mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_199bf74a870e424da614619d41f5dbdemv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_fef17638a22341d48d69bab416b8c580mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_0040ec4fc0924483be33814447b541bcmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_18eb0ac832614d6b953bed83e80989a4mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_d10b9c9d6e2b480cb080ec189026e0a0mv2.jpg"]
+in_stock: true
+source_id: "15412"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Panerai Luminor PAM441 GMT 1950 3 Days Power Reserve Swiss Watch in Ceramic Case<br><br>Genuine Swiss 7750 Movement - Cut out Design Rotor like the Authentic, Functional Regulator and GMT Feature<br><br>Double DLC Coating on Solid Stainless Steel Case (Coating Guaranteed not to Fade)<br><br>Black Dial with C3 SuperLuminous Hour Markers on Dial and Needles and Functional Sub dial for Seconds hand and Functional GMT Feature<br><br>Domed Anti Reflective Scratch Proof Sapphire Crystal<br><br>Genuine Leather Strap equipped with Stainless Steel V Buckle with Panerai Markings/Engravings. Flush Lug Screws<br><br>Sapphire Crystal Back Glass with Anti Reflective Coating and Random OXXXX Series Serial 0000/1500 Engraving<br><br>44MM Wide x 18.5MM Thick<br><br>Water Resistant and Water Proof up to 100M<br><br>Free Shipping on this item worldwide - For more information please contact us<br><br>The Images you see are of Actual Watches, You will get exactly the same watch you see in the Images</p><ul></ul></pre> </div>

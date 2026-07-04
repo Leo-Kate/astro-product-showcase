@@ -1,0 +1,11 @@
+---
+title: "Richard Mille RM 12-01 Tourbillon"
+brand: "Richard Mille"
+category: "Richard Mille"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_5c6cd34c95b444b9adb4412a36b2ad6dmv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_5c6cd34c95b444b9adb4412a36b2ad6dmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_7b5600c086074a088385885f6dd8f962f003.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_58518dc6077f49d989ed62f63ef2cd41mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_db846b4594c1467cbd8970c4dbb69968mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_2c47d480b2564aacac8c5743e0841fa6mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_4ef71ef135d54e4fb3c60213b670a5a5mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_6b11fe258f404fe4bfeba3ad81c193dcmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_0cc3aad14ada48e5bc085438b8675109mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_38010936603341fcbab01d66a5f8e31fmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_5d493150f5994b378f4d6b942e2a0984mv2.jpg"]
+in_stock: true
+source_id: "14079"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>here are the specifications of the Richard Mille??s RM 12-01 Tourbillon is a 1:1 Superclone watch that is based on the original Richard Mille RM 12-01 Tourbillon. It has the following specifications:</p><p>Case:39.3mm in diameter, made of Carbon TPT</p><p>Kv factory Richard Mille??s RM 12-01 Tourbillon</p><p>Movement: Swiss eta movement with a power reserve of 70 hours</p><p>** complications:** Tourbillon, hours, minutes, seconds</p><p>Dial:Black dial with skeletonized hands and hour markers</p><p>Strap:Black rubber strap with a titanium deployant buckle</p><p>The watch is water resistant to 50 meters. It is a limited-edition watch, with only 18 pieces being made.</p><p>Here are some additional details about the watch:</p><p>The case is made of Carbon TPT, which is a composite material that is made from layers of carbon fiber that are fused together under high pressure. This makes the case very strong and lightweight.</p></pre> </div>

@@ -1,0 +1,11 @@
+---
+title: "Patek Philippe Nautilus 5712GR-001 18K Rose Gold"
+brand: "Patek Philippe"
+category: "Patek Philippe"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_72b22b4d80a6485b8d5d64e1caf5e917mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_72b22b4d80a6485b8d5d64e1caf5e917mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_b70eb09effbb47018a8cf3f9daf4d4a7mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_3553bdd34c2e40438f82d26412867a44mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_df508d6ff04f4249a7a625aff5a4a5a8mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_6267b3a664764c8d874cbddb257642c5mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_0fd4c90c101941ff9a465c17d0937830mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_00b1667c03c140079ef953d0adc02389mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_f6c5314858134fe4849a9b72ed876c01mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_1e3f2b0397d8492b8d278578a9e03653mv2.jpg"]
+in_stock: true
+source_id: "14941"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Patek Philippe Nautilus 5712R-001 18K Rose Gold. It is made with the same materials and to the same specifications as the genuine watch, except for the movement, which is a cloned movement instead of the genuine Patek Philippe Calibre 240 PS IRM C LU.</p><p>Here are the specifications of the watch:</p><p>Movement: 1:1 Superclone Patek Philippe Calibre 240 PS IRM C LU</p><p>Case: 40mm 18K Rose Gold </p><p>Case Thickness: 11.2mm</p><p>Dial: Rose gold Dial with Index Hour Markers and Hands</p><p>Bezel: Fixed. Rounded Octagonal Shape 18K Rose Gold bezel</p><p>Crystal: Flat, double anti-reflective sapphire crystal</p><p>Strap: 18K Rose Gold with Nautilus fold-over clasp lock</p><p>Water Resistance: 120 Meters</p><p>The watch is powered by a 1:1 Superclone Patek Philippe Calibre 240 PS IRM C LU. This movement is based on the genuine Patek Philippe Calibre 240 PS IRM C LU, but it has been modified to be more accurate and reliable. The movement is also COSC certified, which means that it has been tested and certified to meet the highest standards of accuracy.</p></pre> </div>

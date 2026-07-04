@@ -1,0 +1,11 @@
+---
+title: "Omega Seamaster 300 -1:1 Superclone"
+brand: "Omega"
+category: "Omega"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_0c7ab72127da4bf9ac5fa5da33fc0669mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_0c7ab72127da4bf9ac5fa5da33fc0669mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_ac84b9ad7f3f45088af92ef523bb21bbmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8a257e08b2ed422aa55a7b6309e0794cmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_610b72ef1ffb4bb29296d5957e9e7629mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_f449604c930b4bb5839fce25c829ad25mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_d39419085fb949488d3571da175f71d4mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_27d3242b5ef241118d54fa8df98e4c01mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_27ef275a4bc74fe48bc9e71db4ecea0dmv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8cb129a93436410f8d8b69e9144bd88emv2.jpg"]
+in_stock: true
+source_id: "15921"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>New Omega's  Seamaster 300 </p><p>Highest version of the timed watch on the market</p><p>1: Equipped with a re-engraved 9900/9901 timing core (non-9300 hammer plate) with genuine black swing wheel, natural imported rubber strap, strap can be exchanged with the original</p><p>2: Between the rose gold with genuine in the 12 o'clock outer ring with precious metal imprint: AU750, dog head mark, balance scale, Eurologo</p><p>3: The shell body pulls sand delicate white light thin slope angle reclining with the genuine, 904 steel case 44 mm</p><p>4: The ingenuity of the bright porcelain plate with 18k white gold carefully crafted small moment, black, blue, gray three-color calendar plate and the original consistent</p><p>5: The scale and word on the ceramic ring, using the "white" process, not easy to turn yellow, shiny</p><p>6: Night light material for the Swiss Super-lumiNova c3 non-radioactive super night light filled, Omega special design, hour hand with minute hand, night pearl two-color night light 7: complex craft, ingenuity, genuine 1:1 mold, four yards in one, full of details</p><ul></ul></pre> </div>

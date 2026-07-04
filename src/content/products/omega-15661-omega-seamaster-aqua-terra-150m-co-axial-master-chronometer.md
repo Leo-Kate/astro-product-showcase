@@ -1,0 +1,11 @@
+---
+title: "Omega Seamaster Aqua Terra 150M Co-Axial Master Chronometer"
+brand: "Omega"
+category: "Omega"
+image: "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_3009a654aacd4482939e9b2d27d32897mv2.jpg"
+images: ["https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_3009a654aacd4482939e9b2d27d32897mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_79bc31a4ff6b4943a09a7743d5e96d99mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_dfb51e81d1c548ec93e6621070a1faf5mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_e50347a0a79346b18e2e0fda477edc5amv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_8f67b28a573540669a9c1a81bd4b7e5amv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_4f712d0b0e5e4c5da00578436fc645aamv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_4c988c60420f4928af43ddbaf3b0e381mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_e3505a2ade514060a513e7820caeb430mv2.jpg", "https://lzxxwatches.com/wp-content/uploads/2026/05/4d39d6_fe5f3ebf697146dcba574b3810e1c75amv2.jpg"]
+in_stock: true
+source_id: "15661"
+---
+
+<div> <pre data-hook="description" class="_28cEs"><p>Omega Seamaster Aqua Terra 150M Co-Axial Master Chronometer. It has a stainless steel case and a black rubber strap. The watch is water resistant to 50 meters.</p><p>Here are the specifications of the watch:</p><p>Movement: VS Factory Clone 8500 Automatic Movement</p><p>Case: 904L Stainless Steel</p><p>Case Diameter: 41mm</p><p>Case Thickness: 13mm</p><p>Dial: Green Dial with White Index Hour Markers and Hands</p><p>Bezel: Black Ceramic Bezel with Date Window</p><p>Crystal: Sapphire Crystal with AR Coating</p><p>Strap: Black Rubber Strap with Deployant Clasp</p><p>Water Resistance: 50 Meters</p><p>The VS Factory is known for making high-quality 1:1 Superclone watches. This particular replica is very close to the genuine Omega Seamaster Aqua Terra 150M Co-Axial Master Chronometer in terms of design, materials, and finishing. The only major difference is the movement, which is a cloned movement instead of the genuine Omega 8500 movement. However, the cloned movement is also of high quality and performs well</p></pre> </div>

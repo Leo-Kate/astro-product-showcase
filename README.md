@@ -36,6 +36,16 @@ in_stock: true
 
 The Markdown body is the product description edited in Sveltia CMS.
 
+## Import Products
+
+WooCommerce product exports can be imported with:
+
+```sh
+python scripts/import-wc-products.py "D:\Downloads\wc-product-export-22-6-2026-1782060704341.csv"
+```
+
+The importer keeps remote product image URLs instead of downloading every gallery image into the repository. Empty WooCommerce price fields are treated as `Price on request`.
+
 ## CMS Setup
 
 The Sveltia CMS admin is available at `/admin/`.

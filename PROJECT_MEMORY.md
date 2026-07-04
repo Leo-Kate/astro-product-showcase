@@ -19,3 +19,14 @@
 - `public/admin/config.yml` keeps both `oauth` and `token` auth methods so access-token login remains available as fallback.
 - Added GitHub Actions workflow `.github/workflows/deploy.yml`; pushes to `main` build Astro and deploy `dist` to Cloudflare Pages using repository secrets `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_API_TOKEN`.
 - Verified workflow run `28710948147` completed successfully on 2026-07-04. CMS commits to GitHub should now trigger automatic redeploys.
+
+## 2026-07-05 - Codex
+
+- Imported WooCommerce CSV `D:\Downloads\wc-product-export-22-6-2026-1782060704341.csv` into Astro Content Collections.
+- Import generated 1,522 published simple products under `src/content/products/`.
+- CSV had no regular or sale prices, so the site displays `Price on request` when `price` is absent.
+- Product images are remote URLs from the export; they were not downloaded into GitHub because the CSV references 13,932 image URLs.
+- Added repeatable importer `scripts/import-wc-products.py`; it accepts an optional CSV path argument and handles duplicate WooCommerce headers.
+- Expanded product schema with optional `sku`, `category`, `images`, `source_id`, and `excerpt`.
+- Rebuilt the frontend into a high-end watch catalogue: new dark/gold Mirck homepage, full `/products/` catalogue, and gallery-style product detail pages.
+- Local verification: `npm run build` generated 1,524 pages successfully; Playwright screenshots checked desktop/mobile home, catalogue, and product detail layouts.
