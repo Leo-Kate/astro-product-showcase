@@ -56,8 +56,9 @@
 
 ## 2026-07-05 - Codex
 
-- Final deployment commit for the Richard Mille showcase is `412d7bc` (`Replace catalogue with Richard Mille showcase`).
-- GitHub Actions run `28716664460` completed successfully and deployed to Cloudflare Pages.
+- Main Richard Mille showcase implementation commit is `412d7bc` (`Replace catalogue with Richard Mille showcase`).
+- Final deployment workflow/runtime change is included in the latest `Update deployment actions runtime` commit on `main`; check `git log -1` for the exact hash. It upgraded `actions/checkout` to v5 and `actions/setup-node` to v6.
+- GitHub Actions runs `28716664460`, `28716713143`, and `28716752986` completed successfully and deployed to Cloudflare Pages.
 - Live verification on `https://mirck.co` passed for `/`, `/products/`, `/collections/rm-011/`, and sample product `/products/richard-mille-pms011-richard-mille-rm-011-transparent-dial-mens-black-rubber-band/`.
 - Live `/admin/` returns `401` anonymously, confirming Basic Auth protection is active before Sveltia CMS.
 - Live `/cdn-image/...` proxy returned `200 image/jpeg` for both `GET` and `HEAD`.
