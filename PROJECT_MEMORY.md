@@ -53,3 +53,12 @@
 - Added a fixed WhatsApp inquiry button for desktop and mobile. Detail-page WhatsApp inquiry messages include the product title, SKU when present, and the canonical `mirck.co/products/...` URL.
 - Updated product display sorting so real watches appear before accessory/box/screw/make-up-difference entries while retaining all imported data.
 - Visual QA was performed with Playwright screenshots for desktop home, mobile home, desktop product detail, and desktop product catalogue. Build QA: `npm run build` generated 1,631 pages. Local Pages Function QA: `/`, `/products/`, `/collections/rm-011/`, and a sample detail page returned 200; `/admin/` returned 401 without Basic Auth and 200 with the local admin credentials; a real `/cdn-image/...` URL returned `200 image/jpeg`.
+
+## 2026-07-05 - Codex
+
+- Final deployment commit for the Richard Mille showcase is `412d7bc` (`Replace catalogue with Richard Mille showcase`).
+- GitHub Actions run `28716664460` completed successfully and deployed to Cloudflare Pages.
+- Live verification on `https://mirck.co` passed for `/`, `/products/`, `/collections/rm-011/`, and sample product `/products/richard-mille-pms011-richard-mille-rm-011-transparent-dial-mens-black-rubber-band/`.
+- Live `/admin/` returns `401` anonymously, confirming Basic Auth protection is active before Sveltia CMS.
+- Live `/cdn-image/...` proxy returned `200 image/jpeg` for both `GET` and `HEAD`.
+- Live browser QA across 390px mobile and 1440px desktop found no horizontal overflow, no visible broken images, active WhatsApp links, and clean browser console output.
