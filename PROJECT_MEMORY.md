@@ -12,3 +12,5 @@
 - Production Pages URL is `https://astro-product-showcase.pages.dev`; `public/admin/config.yml` `site_url` and `display_url` point there.
 - CMS login currently uses GitHub access-token auth only. OAuth was removed from `auth_methods` because the default Netlify OAuth endpoint returns 404 on the Cloudflare Pages site.
 - To add one-click GitHub OAuth later, create a GitHub OAuth App and deploy/configure a Cloudflare Worker OAuth proxy.
+- Added GitHub Actions workflow `.github/workflows/deploy.yml`; pushes to `main` build Astro and deploy `dist` to Cloudflare Pages using repository secrets `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_API_TOKEN`.
+- Verified workflow run `28710948147` completed successfully on 2026-07-04. CMS commits to GitHub should now trigger automatic redeploys.
