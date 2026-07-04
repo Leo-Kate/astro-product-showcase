@@ -46,7 +46,7 @@ Before deployment, edit `public/admin/config.yml`:
 - Production domain is `https://mirck.co`.
 - Keep `media_folder: public/images/uploads` and `public_folder: /images/uploads`.
 
-The CMS currently uses GitHub access-token login. GitHub OAuth can be added later with a Cloudflare Worker OAuth proxy.
+The CMS supports GitHub OAuth through `https://sveltia-cms-auth.linfengitt.workers.dev` and keeps access-token login as a fallback.
 
 ## Commands
 

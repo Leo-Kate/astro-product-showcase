@@ -14,7 +14,8 @@
 - DNS backup before the domain switch is stored locally at `backups/mirck.co-dns-before-pages-20260705-012138.json`.
 - `mirck.co` and `www.mirck.co` DNS now use proxied CNAME records to `astro-product-showcase.pages.dev`.
 - `public/admin/config.yml` `site_url` and `display_url` point to `https://mirck.co`.
-- CMS login currently uses GitHub access-token auth only. OAuth was removed from `auth_methods` because the default Netlify OAuth endpoint returns 404 on the Cloudflare Pages site.
-- To add one-click GitHub OAuth later, create a GitHub OAuth App and deploy/configure a Cloudflare Worker OAuth proxy.
+- GitHub OAuth login is enabled through Cloudflare Worker `sveltia-cms-auth` at `https://sveltia-cms-auth.linfengitt.workers.dev`; callback URL is `/callback`.
+- Worker secrets set outside Git: `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`, and `ALLOWED_DOMAINS=mirck.co,www.mirck.co`.
+- `public/admin/config.yml` keeps both `oauth` and `token` auth methods so access-token login remains available as fallback.
 - Added GitHub Actions workflow `.github/workflows/deploy.yml`; pushes to `main` build Astro and deploy `dist` to Cloudflare Pages using repository secrets `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_API_TOKEN`.
 - Verified workflow run `28710948147` completed successfully on 2026-07-04. CMS commits to GitHub should now trigger automatic redeploys.

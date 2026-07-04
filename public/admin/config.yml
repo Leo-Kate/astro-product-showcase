@@ -2,7 +2,9 @@ backend:
   name: github
   repo: Leo-Kate/astro-product-showcase
   branch: main
+  base_url: https://sveltia-cms-auth.linfengitt.workers.dev
   auth_methods:
+    - oauth
     - token
 
 site_url: https://mirck.co
