@@ -3,7 +3,6 @@ backend:
   repo: Leo-Kate/astro-product-showcase
   branch: main
   auth_methods:
-    - oauth
     - token
 
 site_url: https://astro-product-showcase.pages.dev

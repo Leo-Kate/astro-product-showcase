@@ -46,7 +46,7 @@ Before deployment, edit `public/admin/config.yml`:
 - Production Pages URL is `https://astro-product-showcase.pages.dev`.
 - Keep `media_folder: public/images/uploads` and `public_folder: /images/uploads`.
 
-For GitHub OAuth, use a deployed OAuth proxy such as Decap CMS OAuth Server on Cloudflare Workers, then add its endpoint to the Sveltia backend config. Token login is also enabled for early testing.
+The CMS currently uses GitHub access-token login. GitHub OAuth can be added later with a Cloudflare Worker OAuth proxy.
 
 ## Commands
 

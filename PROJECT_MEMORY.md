@@ -10,4 +10,5 @@
 - GitHub repository is `Leo-Kate/astro-product-showcase`; `public/admin/config.yml` already points Sveltia CMS at that repo.
 - Cloudflare Pages project `astro-product-showcase` was created under account `61ba3d79bf14e63bd504fe379ddbfbe4`.
 - Production Pages URL is `https://astro-product-showcase.pages.dev`; `public/admin/config.yml` `site_url` and `display_url` point there.
-- Before using OAuth login, add OAuth proxy settings to `public/admin/config.yml`.
+- CMS login currently uses GitHub access-token auth only. OAuth was removed from `auth_methods` because the default Netlify OAuth endpoint returns 404 on the Cloudflare Pages site.
+- To add one-click GitHub OAuth later, create a GitHub OAuth App and deploy/configure a Cloudflare Worker OAuth proxy.
