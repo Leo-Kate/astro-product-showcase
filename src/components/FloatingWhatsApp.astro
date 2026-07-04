@@ -1,0 +1,14 @@
+---
+import { whatsappHref } from '../lib/catalog';
+
+const href = whatsappHref('Hi, I want to inquire about the Richard Mille catalogue.');
+---
+
+{
+	href && (
+		<a class="floating-whatsapp" href={href} aria-label="Contact Mirck on WhatsApp">
+			<span class="floating-whatsapp__icon" aria-hidden="true">WA</span>
+			<span class="floating-whatsapp__text">WhatsApp Inquiry</span>
+		</a>
+	)
+}

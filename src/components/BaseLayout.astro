@@ -1,0 +1,35 @@
+---
+import FloatingWhatsApp from './FloatingWhatsApp.astro';
+import SiteHeader from './SiteHeader.astro';
+import '../styles/global.css';
+
+interface Props {
+	title: string;
+	description?: string;
+	className?: string;
+}
+
+const {
+	title,
+	description = 'Mirck is a private Richard Mille catalogue with collection browsing and direct WhatsApp inquiry.',
+	className = '',
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+		<meta name="description" content={description} />
+	</head>
+	<body class={className}>
+		<SiteHeader />
+		<slot />
+		<FloatingWhatsApp />
+	</body>
+</html>

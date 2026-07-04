@@ -1,6 +1,6 @@
 # Astro Product Showcase
 
-Commercial product showcase built with Astro Content Collections and Sveltia CMS.
+Commercial Richard Mille product showcase built with Astro Content Collections and Sveltia CMS.
 
 ## Project Structure
 
@@ -13,10 +13,16 @@ Important files:
 │   │   ├── config.yml
 │   │   └── index.html
 │   └── images/uploads/
+├── functions/
+│   ├── admin/[[path]].ts
+│   └── cdn-image/[image].ts
 ├── src/
 │   ├── content/products/
+│   ├── generated/image-map.ts
+│   ├── lib/catalog.ts
 │   ├── content.config.ts
 │   └── pages/
+│       ├── collections/[collection].astro
 │       ├── index.astro
 │       └── products/[slug].astro
 └── package.json
@@ -26,10 +32,12 @@ Product data lives in `src/content/products/*.md`. Structured fields stay in fro
 
 ```yaml
 ---
-title: Atlas Modular Pack
-brand: Northline Goods
-image: /images/uploads/atlas-modular-pack.svg
-price: 189
+title: Richard Mille RM 67-02 McLaren Lando Norris
+brand: Richard Mille
+sku: RM-F859FE4D
+category: Richard Mille > RM 67-02
+image: /cdn-image/example.webp
+price: 10000
 in_stock: true
 ---
 ```
@@ -41,14 +49,14 @@ The Markdown body is the product description edited in Sveltia CMS.
 WooCommerce product exports can be imported with:
 
 ```sh
-python scripts/import-wc-products.py "D:\Downloads\wc-product-export-22-6-2026-1782060704341.csv"
+python scripts/import-wc-products.py "D:\Downloads\richardmille_PERFECT_FINAL.csv"
 ```
 
-The importer keeps remote product image URLs instead of downloading every gallery image into the repository. Empty WooCommerce price fields are treated as `Price on request`.
+The importer rewrites remote product images through `/cdn-image/...` and writes the source URL map to `src/generated/image-map.ts`. Cloudflare Pages Functions fetch and cache those images at the edge, so the public pages do not expose the original third-party image URLs directly.
 
 ## CMS Setup
 
-The Sveltia CMS admin is available at `/admin/`.
+The Sveltia CMS admin is available at `/admin/`, protected by Cloudflare Pages Basic Auth before the GitHub login screen.
 
 Before deployment, edit `public/admin/config.yml`:
 
@@ -57,6 +65,13 @@ Before deployment, edit `public/admin/config.yml`:
 - Keep `media_folder: public/images/uploads` and `public_folder: /images/uploads`.
 
 The CMS supports GitHub OAuth through `https://sveltia-cms-auth.linfengitt.workers.dev` and keeps access-token login as a fallback.
+
+Set these Cloudflare Pages production secrets before deploying admin protection:
+
+- `ADMIN_USER`
+- `ADMIN_PASSWORD`
+
+WhatsApp is configured in `src/lib/catalog.ts`.
 
 ## Commands
 

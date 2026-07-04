@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 108" role="img" aria-labelledby="title">
+  <title id="title">Mirck</title>
+  <rect width="420" height="108" rx="0" fill="#090b0d"/>
+  <path d="M48 25h12l19 35 19-35h12v58H98V49L83 77h-8L60 49v34H48V25Zm86 0h12v58h-12V25Zm38 0h27c7 0 13 2 17 6 5 4 7 10 7 17 0 5-1 10-4 13-3 4-7 7-12 8l18 14h-17l-16-13h-8v13h-12V25Zm12 11v23h14c4 0 7-1 9-3 2-2 3-5 3-8s-1-6-3-8c-2-3-5-4-9-4h-14Zm80 48c-9 0-16-3-22-9-6-6-9-13-9-21s3-16 9-21c6-6 13-9 22-9 10 0 18 4 24 11l-8 8c-4-5-9-7-16-7-5 0-10 2-14 5-4 4-5 8-5 13s1 9 5 13c4 3 9 5 14 5 7 0 12-2 16-7l8 8c-6 7-14 10-24 10Zm48-59h12v25l24-25h16l-27 28 29 30h-17l-25-26v26h-12V25Z" fill="#f4efe5"/>
+  <path d="M35 88h340" stroke="#c89b5a" stroke-width="2"/>
+</svg>

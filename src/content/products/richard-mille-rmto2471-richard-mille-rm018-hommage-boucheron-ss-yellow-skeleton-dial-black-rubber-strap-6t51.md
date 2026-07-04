@@ -1,0 +1,12 @@
+---
+title: "Richard Mille RM018 Hommage Boucheron SS Yellow Skeleton Dial Black Rubber Strap 6T51"
+brand: "Richard Mille"
+sku: "RMTO2471"
+category: "Richard Mille > RM 018"
+image: "/cdn-image/6e6c07f3615b7cdaadba7ba9.jpg"
+images: ["/cdn-image/6e6c07f3615b7cdaadba7ba9.jpg"]
+price: 169900.0
+in_stock: true
+---
+
+<p>Size: 43mm x 51mm x 18mm<br />Movement:automatic<br />Functions: Hours and minutes display<br />Case: Solid 316L stainless steel case<br />Crystal: Scratch-proof sapphire crystal<br />Dial: Skeleton dial<br />Bezel: Stainless steel bezel<br />Strap: Black rubber strap<br />Clasp: Deployant clasp</p>

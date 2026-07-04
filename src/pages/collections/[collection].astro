@@ -1,0 +1,110 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../components/BaseLayout.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { collectionName, compareProductsForDisplay, slugify } from '../../lib/catalog';
+
+export async function getStaticPaths() {
+	const products = await getCollection('products');
+	const groups = new Map<string, typeof products>();
+
+	for (const product of products) {
+		const key = slugify(collectionName(product.data.category));
+		groups.set(key, [...(groups.get(key) ?? []), product]);
+	}
+
+	return [...groups.entries()].map(([collection, items]) => ({
+		params: { collection },
+		props: {
+			name: collectionName(items[0]?.data.category),
+			products: items.sort(compareProductsForDisplay),
+		},
+	}));
+}
+
+const { name, products } = Astro.props;
+const heroProduct = products.find((product) => product.data.image) ?? products[0];
+---
+
+<BaseLayout title={`${name} | Mirck`} description={`Browse ${name} references in the Mirck Richard Mille catalogue.`}>
+	<main>
+		<section class="collection-hero" aria-labelledby="collection-title">
+			<div class="collection-hero__copy">
+				<p class="kicker">Collection</p>
+				<h1 id="collection-title" class="display-title">{name}</h1>
+				<p class="lead">
+					{products.length.toLocaleString('en-US')} references in this Richard Mille family, prepared for private selection and direct inquiry.
+				</p>
+				<div class="button-row">
+					<a class="button" href="/products/">Full Catalogue</a>
+					<a class="button button--ghost" href="#collection-products">View References</a>
+				</div>
+			</div>
+			{heroProduct && (
+				<a class="collection-hero__image" href={`/products/${heroProduct.id}/`}>
+					<img src={heroProduct.data.image} alt={heroProduct.data.title} loading="eager" />
+				</a>
+			)}
+		</section>
+
+		<section id="collection-products" class="page-shell collection-products">
+			<div class="section-head">
+				<h2>{name} references.</h2>
+				<p>Open a product page for gallery images, SKU, availability, and a WhatsApp inquiry button carrying the product link.</p>
+			</div>
+			<div class="product-grid">
+				{products.map((product, index) => <ProductCard product={product} priority={index < 8} />)}
+			</div>
+		</section>
+	</main>
+</BaseLayout>
+
+<style>
+	.collection-hero {
+		display: grid;
+		grid-template-columns: minmax(0, 1fr) minmax(300px, 0.55fr);
+		gap: clamp(24px, 6vw, 90px);
+		align-items: center;
+		min-height: min(760px, calc(100svh - 73px));
+		padding: clamp(44px, 7vw, 90px) clamp(18px, 4vw, 54px);
+		background: linear-gradient(180deg, #ffffff, var(--paper));
+		border-bottom: 1px solid var(--line);
+	}
+
+	.collection-hero__copy {
+		display: grid;
+		gap: 26px;
+	}
+
+	.collection-hero__copy .lead {
+		max-width: 600px;
+	}
+
+	.collection-hero__image {
+		display: grid;
+		place-items: center;
+		min-height: 440px;
+	}
+
+	.collection-hero__image img {
+		width: min(100%, 520px);
+		max-height: 68vh;
+		object-fit: contain;
+		filter: drop-shadow(0 30px 38px rgba(0, 0, 0, 0.22));
+	}
+
+	.collection-products {
+		padding-bottom: 96px;
+	}
+
+	@media (max-width: 840px) {
+		.collection-hero {
+			grid-template-columns: 1fr;
+			min-height: auto;
+		}
+
+		.collection-hero__image {
+			min-height: 340px;
+		}
+	}
+</style>

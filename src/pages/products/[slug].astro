@@ -1,5 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../components/BaseLayout.astro';
+import { collectionName, collectionPath, priceLabel, productInquiryHref } from '../../lib/catalog';
 
 export async function getStaticPaths() {
 	const products = await getCollection('products');
@@ -13,283 +15,246 @@ export async function getStaticPaths() {
 const { product } = Astro.props;
 const { Content } = await render(product);
 const gallery = product.data.images?.length ? product.data.images.slice(0, 8) : [product.data.image];
-
-const price = typeof product.data.price === 'number'
-	? new Intl.NumberFormat('en-US', {
-			style: 'currency',
-			currency: 'USD',
-			maximumFractionDigits: 0,
-		}).format(product.data.price)
-	: 'Price on request';
+const collection = collectionName(product.data.category);
+const productPath = `/products/${product.id}/`;
+const askHref = productInquiryHref(product.data.title, product.data.sku, productPath);
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>{product.data.title} | Mirck</title>
-		<meta name="description" content={product.data.excerpt ?? `${product.data.brand} ${product.data.title}`} />
-		<style>
-			:root {
-				color: #f4efe5;
-				background: #090b0d;
-				font-family:
-					Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-				font-size: 16px;
-			}
+<BaseLayout title={`${product.data.title} | Mirck`} description={product.data.excerpt ?? `${product.data.brand} ${product.data.title}`}>
+	<main class="product-detail">
+		<section class="product-detail__media" aria-label="Product gallery">
+			<div class="product-detail__main-image">
+				<img src={product.data.image} alt={product.data.title} loading="eager" />
+			</div>
+			<div class="product-detail__gallery">
+				{gallery.map((image) => <img src={image} alt={product.data.title} loading="lazy" />)}
+			</div>
+		</section>
 
-			* {
-				box-sizing: border-box;
-			}
+		<article class="product-detail__info">
+			<a class="product-detail__collection" href={collectionPath(product.data.category)}>{collection}</a>
+			<h1>{product.data.title}</h1>
+			{product.data.excerpt && <p class="product-detail__summary">{product.data.excerpt}</p>}
 
-			body {
-				margin: 0;
-				min-height: 100vh;
-				background:
-					radial-gradient(circle at 12% 0%, rgba(178, 134, 72, 0.18), transparent 32%),
-					#090b0d;
-			}
+			<div class="product-detail__commerce">
+				<span>{priceLabel(product.data.price)}</span>
+				<strong>{product.data.in_stock ? 'Available' : 'Unavailable'}</strong>
+			</div>
 
-			a {
-				color: inherit;
-				text-decoration: none;
-			}
+			<div class="product-detail__actions">
+				<a class="button button--whatsapp" href={askHref}>WhatsApp Inquiry</a>
+				<a class="button button--ghost" href="/products/">Back to Catalogue</a>
+			</div>
 
-			img {
-				display: block;
-			}
+			<div class="product-detail__facts">
+				{product.data.sku && <div><span>SKU</span><strong>{product.data.sku}</strong></div>}
+				<div><span>Brand</span><strong>{product.data.brand}</strong></div>
+				<div><span>Collection</span><strong>{collection}</strong></div>
+			</div>
 
-			.site-header,
-			main {
-				width: min(1240px, calc(100% - 32px));
-				margin: 0 auto;
-			}
+			<section class="product-detail__description" aria-label="Product description">
+				<Content />
+			</section>
+		</article>
+	</main>
+</BaseLayout>
 
-			.site-header {
-				display: flex;
-				align-items: center;
-				justify-content: space-between;
-				gap: 24px;
-				padding: 24px 0;
-			}
+<style>
+	.product-detail {
+		display: grid;
+		grid-template-columns: minmax(0, 1.02fr) minmax(360px, 0.72fr);
+		gap: clamp(26px, 5vw, 76px);
+		width: min(var(--max), 100%);
+		margin: 0 auto;
+		padding: clamp(24px, 4vw, 54px);
+	}
 
-			.brand-mark,
-			.back-link {
-				font-size: 0.95rem;
-				font-weight: 850;
-				letter-spacing: 0.1em;
-				text-transform: uppercase;
-			}
+	.product-detail__media {
+		display: grid;
+		gap: 14px;
+		align-self: start;
+	}
 
-			.back-link {
-				color: #d9d1c2;
-			}
+	.product-detail__main-image {
+		display: grid;
+		place-items: center;
+		min-height: min(780px, calc(100svh - 130px));
+		border: 1px solid var(--line);
+		background: linear-gradient(180deg, #ffffff, #e7e3da);
+		overflow: hidden;
+	}
 
-			.product {
-				display: grid;
-				grid-template-columns: minmax(320px, 1.06fr) minmax(0, 0.94fr);
-				gap: 54px;
-				align-items: start;
-				padding: 42px 0 80px;
-			}
+	.product-detail__main-image img {
+		width: min(100%, 760px);
+		height: min(72vh, 720px);
+		object-fit: contain;
+		padding: clamp(20px, 4vw, 58px);
+		filter: drop-shadow(0 30px 38px rgba(0, 0, 0, 0.24));
+	}
 
-			.product-media {
-				display: grid;
-				gap: 14px;
-			}
+	.product-detail__gallery {
+		display: grid;
+		grid-template-columns: repeat(4, minmax(0, 1fr));
+		border-top: 1px solid var(--line);
+		border-left: 1px solid var(--line);
+	}
 
-			.main-image {
-				border: 1px solid rgba(244, 239, 229, 0.13);
-				border-radius: 8px;
-				background: #151719;
-				overflow: hidden;
-			}
+	.product-detail__gallery img {
+		width: 100%;
+		aspect-ratio: 1 / 1;
+		object-fit: contain;
+		border-right: 1px solid var(--line);
+		border-bottom: 1px solid var(--line);
+		padding: 12px;
+		background: #f8f7f4;
+	}
 
-			.main-image img {
-				width: 100%;
-				aspect-ratio: 1 / 1;
-				object-fit: cover;
-			}
+	.product-detail__info {
+		position: sticky;
+		top: 98px;
+		align-self: start;
+		display: grid;
+		gap: 24px;
+		padding-top: 8px;
+	}
 
-			.gallery {
-				display: grid;
-				grid-template-columns: repeat(4, minmax(0, 1fr));
-				gap: 10px;
-			}
+	.product-detail__collection {
+		width: fit-content;
+		color: var(--red);
+		font-size: 0.76rem;
+		font-weight: 900;
+		text-transform: uppercase;
+	}
 
-			.gallery img {
-				width: 100%;
-				aspect-ratio: 1 / 1;
-				object-fit: cover;
-				border: 1px solid rgba(244, 239, 229, 0.12);
-				border-radius: 7px;
-				background: #151719;
-			}
+	.product-detail h1 {
+		margin: 0;
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: clamp(2.5rem, 5.3vw, 6rem);
+		font-weight: 400;
+		line-height: 0.96;
+	}
 
-			.product-info {
-				position: sticky;
-				top: 22px;
-			}
+	.product-detail__summary {
+		margin: 0;
+		color: var(--muted);
+		font-size: 1.04rem;
+		line-height: 1.75;
+	}
 
-			.eyebrow {
-				margin: 0 0 12px;
-				color: #c89b5a;
-				font-size: 0.78rem;
-				font-weight: 850;
-				letter-spacing: 0.16em;
-				text-transform: uppercase;
-			}
+	.product-detail__commerce {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		border-top: 1px solid var(--ink);
+		border-bottom: 1px solid var(--line);
+	}
 
-			h1 {
-				margin: 0;
-				font-size: clamp(2.35rem, 5vw, 5.1rem);
-				line-height: 0.95;
-			}
+	.product-detail__commerce span,
+	.product-detail__commerce strong {
+		padding: 18px 0;
+		font-size: 0.86rem;
+		text-transform: uppercase;
+	}
 
-			.summary {
-				margin: 22px 0 0;
-				color: #c8c1b7;
-				font-size: 1rem;
-				line-height: 1.7;
-			}
+	.product-detail__commerce strong {
+		color: var(--red);
+		text-align: right;
+	}
 
-			.purchase-row {
-				display: flex;
-				flex-wrap: wrap;
-				align-items: center;
-				gap: 12px;
-				margin: 28px 0;
-			}
+	.product-detail__actions {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+	}
 
-			.price,
-			.stock,
-			.meta-pill {
-				border-radius: 7px;
-				padding: 10px 12px;
-				font-weight: 850;
-			}
+	.product-detail__facts {
+		display: grid;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		border-top: 1px solid var(--line);
+		border-left: 1px solid var(--line);
+	}
 
-			.price {
-				background: #d7a85e;
-				color: #101010;
-			}
+	.product-detail__facts div {
+		display: grid;
+		gap: 8px;
+		min-width: 0;
+		border-right: 1px solid var(--line);
+		border-bottom: 1px solid var(--line);
+		padding: 16px;
+	}
 
-			.stock,
-			.meta-pill {
-				border: 1px solid rgba(244, 239, 229, 0.14);
-				color: #d9d1c2;
-			}
+	.product-detail__facts span {
+		color: var(--muted);
+		font-size: 0.7rem;
+		font-weight: 900;
+		text-transform: uppercase;
+	}
 
-			.stock[data-empty="true"] {
-				color: #d99080;
-			}
+	.product-detail__facts strong {
+		overflow-wrap: anywhere;
+		font-size: 0.9rem;
+		line-height: 1.35;
+	}
 
-			.meta-grid {
-				display: grid;
-				grid-template-columns: repeat(2, minmax(0, 1fr));
-				gap: 10px;
-				margin-bottom: 30px;
-			}
+	.product-detail__description {
+		border-top: 1px solid var(--ink);
+		padding-top: 24px;
+		color: #333;
+		font-size: 1rem;
+		line-height: 1.78;
+	}
 
-			.meta-pill span {
-				display: block;
-				margin-bottom: 5px;
-				color: #8e887f;
-				font-size: 0.72rem;
-				letter-spacing: 0.11em;
-				text-transform: uppercase;
-			}
+	.product-detail__description :global(p) {
+		margin: 0 0 18px;
+	}
 
-			.description {
-				border-top: 1px solid rgba(244, 239, 229, 0.12);
-				padding-top: 28px;
-				color: #d9d1c2;
-				font-size: 1rem;
-				line-height: 1.78;
-			}
+	.product-detail__description :global(ul) {
+		margin: 0 0 18px;
+		padding-left: 1.1rem;
+	}
 
-			.description :global(p) {
-				margin: 0 0 18px;
-			}
+	.product-detail__description :global(li) {
+		margin: 8px 0;
+	}
 
-			.description :global(h2),
-			.description :global(h3) {
-				color: #f4efe5;
-				margin: 30px 0 12px;
-			}
+	.product-detail__description :global(h2),
+	.product-detail__description :global(h3) {
+		margin: 28px 0 12px;
+		font-family: Georgia, "Times New Roman", serif;
+		font-weight: 400;
+	}
 
-			.description :global(ul) {
-				padding-left: 1.2rem;
-			}
+	@media (max-width: 900px) {
+		.product-detail {
+			grid-template-columns: 1fr;
+			padding: 18px;
+		}
 
-			.description :global(li) {
-				margin: 8px 0;
-			}
+		.product-detail__main-image {
+			min-height: 440px;
+		}
 
-			@media (max-width: 860px) {
-				.product {
-					grid-template-columns: 1fr;
-					gap: 28px;
-					padding-top: 20px;
-				}
+		.product-detail__main-image img {
+			height: 420px;
+		}
 
-				.product-info {
-					position: static;
-				}
-			}
+		.product-detail__info {
+			position: static;
+		}
+	}
 
-			@media (max-width: 560px) {
-				.site-header {
-					align-items: flex-start;
-					flex-direction: column;
-				}
+	@media (max-width: 560px) {
+		.product-detail__gallery,
+		.product-detail__facts {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+		}
 
-				.gallery,
-				.meta-grid {
-					grid-template-columns: repeat(2, minmax(0, 1fr));
-				}
-			}
-		</style>
-	</head>
-	<body>
-		<header class="site-header">
-			<a class="brand-mark" href="/">Mirck</a>
-			<a class="back-link" href="/products/">Catalogue</a>
-		</header>
+		.product-detail__commerce {
+			grid-template-columns: 1fr;
+		}
 
-		<main>
-			<article class="product">
-				<div class="product-media">
-					<div class="main-image">
-						<img src={product.data.image} alt={product.data.title} />
-					</div>
-					<div class="gallery" aria-label="Product gallery">
-						{gallery.map((image) => <img src={image} alt={product.data.title} loading="lazy" />)}
-					</div>
-				</div>
-
-				<div class="product-info">
-					<p class="eyebrow">{product.data.brand}</p>
-					<h1>{product.data.title}</h1>
-					{product.data.excerpt && <p class="summary">{product.data.excerpt}</p>}
-					<div class="purchase-row">
-						<span class="price">{price}</span>
-						<span class="stock" data-empty={!product.data.in_stock}>
-							{product.data.in_stock ? 'Available' : 'Unavailable'}
-						</span>
-					</div>
-					<div class="meta-grid">
-						{product.data.sku && <div class="meta-pill"><span>SKU</span>{product.data.sku}</div>}
-						{product.data.category && <div class="meta-pill"><span>Collection</span>{product.data.category}</div>}
-					</div>
-					<div class="description">
-						<Content />
-					</div>
-				</div>
-			</article>
-		</main>
-	</body>
-</html>
+		.product-detail__commerce strong {
+			text-align: left;
+			border-top: 1px solid var(--line);
+		}
+	}
+</style>

@@ -9,7 +9,7 @@ backend:
 
 site_url: https://mirck.co
 display_url: https://mirck.co
-logo_url: /favicon.svg
+logo_url: /logo-main.png
 
 media_folder: public/images/uploads
 public_folder: /images/uploads

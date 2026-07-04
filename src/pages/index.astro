@@ -1,467 +1,457 @@
 ---
 import { getCollection } from 'astro:content';
+import BaseLayout from '../components/BaseLayout.astro';
+import ProductCard from '../components/ProductCard.astro';
+import { collectionName, collectionPath, isAccessoryProduct, priceLabel, productInquiryHref, site } from '../lib/catalog';
 
-const products = await getCollection('products');
-const sortedProducts = products.sort((a, b) => a.data.title.localeCompare(b.data.title));
-const featuredProducts = sortedProducts.slice(0, 12);
-const heroProduct = sortedProducts.find((product) => product.data.brand === 'Richard Mille') ?? sortedProducts[0];
+const products = (await getCollection('products')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+const heroProduct =
+	products.find((product) => product.data.sku === 'PMS011') ??
+	products.find((product) => {
+		const title = product.data.title.toLowerCase();
+		return product.data.image && product.data.category?.includes('RM 011') && !title.includes('screw') && !title.includes('box');
+	}) ?? products.find((product) => product.data.image) ?? products[0];
 
-const brandCounts = sortedProducts.reduce<Map<string, number>>((counts, product) => {
-	counts.set(product.data.brand, (counts.get(product.data.brand) ?? 0) + 1);
+const featuredProducts = products
+	.filter((product) => {
+		const title = product.data.title.toLowerCase();
+		return product.data.image && !isAccessoryProduct(product) && !title.includes('strap for');
+	})
+	.slice(0, 12);
+
+const collectionCounts = products.reduce<Map<string, { count: number; path: string }>>((counts, product) => {
+	const name = collectionName(product.data.category);
+	const current = counts.get(name) ?? { count: 0, path: collectionPath(product.data.category) };
+	current.count += 1;
+	counts.set(name, current);
 	return counts;
 }, new Map());
 
-const topBrands = [...brandCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8);
-const productCountLabel = `${sortedProducts.length.toLocaleString('en-US')} pieces`;
-
-const priceLabel = (price?: number) =>
-	typeof price === 'number'
-		? new Intl.NumberFormat('en-US', {
-				style: 'currency',
-				currency: 'USD',
-				maximumFractionDigits: 0,
-			}).format(price)
-		: 'Price on request';
+const topCollections = [...collectionCounts.entries()].sort((a, b) => b[1].count - a[1].count).slice(0, 12);
+const heroPath = `/products/${heroProduct.id}/`;
+const heroInquiry = productInquiryHref(heroProduct.data.title, heroProduct.data.sku, heroPath);
+const storyProducts = featuredProducts.slice(1, 5);
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Mirck | High-End Watch Catalogue</title>
-		<meta
-			name="description"
-			content="Mirck is a curated high-end watch catalogue with premium collections from Rolex, Richard Mille, Patek Philippe, Audemars Piguet, Cartier, Omega, and more."
-		/>
-		<style>
-			:root {
-				color: #f4efe5;
-				background: #090b0d;
-				font-family:
-					Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-				font-size: 16px;
-			}
+<BaseLayout title="Mirck | Richard Mille Private Catalogue" className="home-page">
+	<main>
+		<section class="home-hero" aria-labelledby="hero-title">
+			<div class="home-hero__copy">
+				<p class="kicker">{site.tagline}</p>
+				<h1 id="hero-title" class="display-title">Richard Mille catalogue for private client selection.</h1>
+				<p class="lead">
+					A focused product showcase for RM references, organized by collection and built around direct inquiry.
+				</p>
+				<div class="button-row">
+					<a class="button" href="/products/">View Catalogue</a>
+					<a class="button button--ghost" href="#collections">Browse Collections</a>
+					<a class="button button--whatsapp" href={heroInquiry}>WhatsApp This Piece</a>
+				</div>
+			</div>
+			<a class="home-hero__watch" href={heroPath} aria-label={`Open ${heroProduct.data.title}`}>
+				<img src={heroProduct.data.image} alt={heroProduct.data.title} loading="eager" />
+			</a>
+			<div class="home-hero__caption">
+				<span>{collectionName(heroProduct.data.category)}</span>
+				<strong>{heroProduct.data.title}</strong>
+				<small>{priceLabel(heroProduct.data.price)}</small>
+			</div>
+		</section>
 
-			* {
-				box-sizing: border-box;
-			}
+		<section class="page-shell stats-strip" aria-label="Catalogue statistics">
+			<div><strong>{products.length.toLocaleString('en-US')}</strong><span>Richard Mille products</span></div>
+			<div><strong>{collectionCounts.size}</strong><span>Collections and families</span></div>
+			<div><strong>WhatsApp</strong><span>Direct private inquiry</span></div>
+		</section>
 
-			body {
-				margin: 0;
-				min-height: 100vh;
-				background:
-					linear-gradient(180deg, rgba(9, 11, 13, 0.34), #090b0d 650px),
-					radial-gradient(circle at 72% 12%, rgba(178, 134, 72, 0.22), transparent 34%),
-					#090b0d;
-			}
-
-			a {
-				color: inherit;
-				text-decoration: none;
-			}
-
-			img {
-				display: block;
-			}
-
-			.site-header,
-			main {
-				width: min(1240px, calc(100% - 32px));
-				margin: 0 auto;
-			}
-
-			.site-header {
-				display: flex;
-				align-items: center;
-				justify-content: space-between;
-				gap: 24px;
-				padding: 24px 0;
-			}
-
-			.brand-mark {
-				font-size: 1rem;
-				font-weight: 850;
-				letter-spacing: 0.12em;
-				text-transform: uppercase;
-			}
-
-			.nav-links {
-				display: flex;
-				align-items: center;
-				gap: 10px;
-				flex-wrap: wrap;
-			}
-
-			.nav-links a {
-				border: 1px solid rgba(244, 239, 229, 0.18);
-				border-radius: 7px;
-				padding: 10px 13px;
-				color: #d9d1c2;
-				font-size: 0.88rem;
-				font-weight: 750;
-			}
-
-			.hero {
-				display: grid;
-				grid-template-columns: minmax(0, 0.92fr) minmax(320px, 1.08fr);
-				gap: 56px;
-				align-items: center;
-				padding: 54px 0 72px;
-			}
-
-			.kicker {
-				margin: 0 0 16px;
-				color: #c89b5a;
-				font-size: 0.78rem;
-				font-weight: 850;
-				letter-spacing: 0.18em;
-				text-transform: uppercase;
-			}
-
-			h1 {
-				margin: 0;
-				max-width: 800px;
-				font-size: clamp(3.1rem, 7.5vw, 7.4rem);
-				line-height: 0.9;
-				font-weight: 900;
-			}
-
-			.hero-copy {
-				margin: 24px 0 0;
-				max-width: 620px;
-				color: #c8c1b7;
-				font-size: 1.08rem;
-				line-height: 1.75;
-			}
-
-			.hero-actions {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 12px;
-				margin-top: 30px;
-			}
-
-			.button {
-				border-radius: 7px;
-				padding: 13px 17px;
-				font-weight: 850;
-			}
-
-			.button-primary {
-				background: #d7a85e;
-				color: #101010;
-			}
-
-			.button-secondary {
-				border: 1px solid rgba(244, 239, 229, 0.2);
-				color: #f4efe5;
-			}
-
-			.hero-media {
-				position: relative;
-				min-height: 560px;
-				border: 1px solid rgba(244, 239, 229, 0.14);
-				border-radius: 8px;
-				background:
-					linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.02)),
-					#151719;
-				overflow: hidden;
-			}
-
-			.hero-media img {
-				width: 100%;
-				height: 100%;
-				min-height: 560px;
-				object-fit: cover;
-			}
-
-			.hero-card {
-				position: absolute;
-				left: 18px;
-				right: 18px;
-				bottom: 18px;
-				border: 1px solid rgba(244, 239, 229, 0.16);
-				border-radius: 8px;
-				background: rgba(9, 11, 13, 0.78);
-				backdrop-filter: blur(14px);
-				padding: 18px;
-			}
-
-			.hero-card span {
-				color: #c89b5a;
-				font-size: 0.78rem;
-				font-weight: 850;
-				text-transform: uppercase;
-			}
-
-			.hero-card h2 {
-				margin: 8px 0 0;
-				font-size: 1.2rem;
-				line-height: 1.25;
-			}
-
-			.stats {
-				display: grid;
-				grid-template-columns: repeat(3, minmax(0, 1fr));
-				gap: 12px;
-				margin: 0 0 54px;
-			}
-
-			.stat {
-				border-top: 1px solid rgba(244, 239, 229, 0.16);
-				padding-top: 18px;
-			}
-
-			.stat strong {
-				display: block;
-				font-size: clamp(1.8rem, 4vw, 3rem);
-			}
-
-			.stat span {
-				color: #a8a095;
-				font-size: 0.9rem;
-			}
-
-			.section-heading {
-				display: flex;
-				align-items: end;
-				justify-content: space-between;
-				gap: 20px;
-				border-top: 1px solid rgba(244, 239, 229, 0.13);
-				padding-top: 30px;
-				margin: 0 0 22px;
-			}
-
-			.section-heading h2 {
-				margin: 0;
-				font-size: clamp(1.6rem, 3vw, 2.6rem);
-			}
-
-			.section-heading p {
-				margin: 0;
-				max-width: 420px;
-				color: #a8a095;
-				line-height: 1.6;
-			}
-
-			.brand-grid {
-				display: grid;
-				grid-template-columns: repeat(4, minmax(0, 1fr));
-				gap: 12px;
-				margin-bottom: 60px;
-			}
-
-			.brand-tile {
-				border: 1px solid rgba(244, 239, 229, 0.13);
-				border-radius: 8px;
-				background: rgba(255, 255, 255, 0.035);
-				padding: 18px;
-			}
-
-			.brand-tile strong,
-			.brand-tile span {
-				display: block;
-			}
-
-			.brand-tile strong {
-				font-size: 1.08rem;
-			}
-
-			.brand-tile span {
-				margin-top: 8px;
-				color: #c89b5a;
-				font-size: 0.88rem;
-			}
-
-			.product-grid {
-				display: grid;
-				grid-template-columns: repeat(4, minmax(0, 1fr));
-				gap: 16px;
-				padding-bottom: 70px;
-			}
-
-			.product-card {
-				display: grid;
-				grid-template-rows: auto 1fr;
-				min-width: 0;
-				border: 1px solid rgba(244, 239, 229, 0.12);
-				border-radius: 8px;
-				background: rgba(255, 255, 255, 0.035);
-				overflow: hidden;
-			}
-
-			.product-card img {
-				width: 100%;
-				aspect-ratio: 1 / 1;
-				object-fit: cover;
-				background: #151719;
-			}
-
-			.product-card__body {
-				display: grid;
-				gap: 10px;
-				padding: 15px;
-			}
-
-			.product-card__brand {
-				color: #c89b5a;
-				font-size: 0.74rem;
-				font-weight: 850;
-				letter-spacing: 0.1em;
-				text-transform: uppercase;
-			}
-
-			.product-card h3 {
-				margin: 0;
-				font-size: 1rem;
-				line-height: 1.32;
-			}
-
-			.product-card__meta {
-				display: flex;
-				align-items: center;
-				justify-content: space-between;
-				gap: 12px;
-				margin-top: auto;
-				color: #d9d1c2;
-				font-size: 0.86rem;
-				font-weight: 800;
-			}
-
-			.stock {
-				color: #8cc6a2;
-			}
-
-			@media (max-width: 980px) {
-				.hero {
-					grid-template-columns: 1fr;
+		<section class="page-shell editorial-section" aria-labelledby="editorial-title">
+			<div class="section-head">
+				<h2 id="editorial-title">A private RM universe.</h2>
+				<p>Large imagery, focused collection paths, and product-specific WhatsApp links keep the buying conversation fast.</p>
+			</div>
+			<div class="editorial-grid">
+				{
+					storyProducts.map((product, index) => (
+						<a class:list={['editorial-tile', index === 0 && 'editorial-tile--wide']} href={`/products/${product.id}/`}>
+							<img src={product.data.image} alt={product.data.title} loading="lazy" />
+							<span>{collectionName(product.data.category)}</span>
+							<strong>{product.data.title}</strong>
+						</a>
+					))
 				}
+			</div>
+		</section>
 
-				.product-grid,
-				.brand-grid {
-					grid-template-columns: repeat(2, minmax(0, 1fr));
+		<section id="collections" class="page-shell">
+			<div class="section-head">
+				<h2>Browse by collection.</h2>
+				<p>Use the strongest RM families as the starting point, then open any reference for gallery and inquiry.</p>
+			</div>
+			<div class="collection-index">
+				{
+					topCollections.map(([name, data], index) => (
+						<a href={data.path}>
+							<span>{String(index + 1).padStart(2, '0')}</span>
+							<strong>{name}</strong>
+							<small>{data.count.toLocaleString('en-US')} pieces</small>
+						</a>
+					))
 				}
-			}
+			</div>
+		</section>
 
-			@media (max-width: 620px) {
-				.site-header {
-					align-items: flex-start;
-					flex-direction: column;
-				}
-
-				.hero {
-					padding-top: 30px;
-					gap: 28px;
-				}
-
-				.hero-media,
-				.hero-media img {
-					min-height: 360px;
-				}
-
-				.stats,
-				.product-grid,
-				.brand-grid {
-					grid-template-columns: 1fr;
-				}
-
-				.section-heading {
-					align-items: flex-start;
-					flex-direction: column;
-				}
-			}
-		</style>
-	</head>
-	<body>
-		<header class="site-header">
-			<a class="brand-mark" href="/">Mirck</a>
-			<nav class="nav-links" aria-label="Main navigation">
-				<a href="/products/">Catalogue</a>
-				<a href="/admin/">CMS Admin</a>
-			</nav>
-		</header>
-
-		<main>
-			<section class="hero" aria-labelledby="hero-title">
+		<section class="client-desk" aria-labelledby="desk-title">
+			<div class="page-shell client-desk__inner">
 				<div>
-					<p class="kicker">Private Watch Catalogue</p>
-					<h1 id="hero-title">High-end watches, curated for serious buyers.</h1>
-					<p class="hero-copy">
-						Mirck presents a focused catalogue of luxury sports, dress, and complication watches,
-						organized by maison, reference family, and availability for fast client selection.
-					</p>
-					<div class="hero-actions">
-						<a class="button button-primary" href="/products/">View catalogue</a>
-						<a class="button button-secondary" href="/admin/">Manage products</a>
-					</div>
+					<p class="kicker">Client Desk</p>
+					<h2 id="desk-title">Built for detail-driven buyers.</h2>
 				</div>
-				<a class="hero-media" href={`/products/${heroProduct.id}/`}>
-					<img src={heroProduct.data.image} alt={heroProduct.data.title} loading="eager" />
-					<div class="hero-card">
-						<span>{heroProduct.data.brand}</span>
-						<h2>{heroProduct.data.title}</h2>
-					</div>
-				</a>
-			</section>
+				<div class="client-desk__items">
+					<div><strong>Free worldwide shipping</strong><span>Commercial positioning aligned with Mirckclone's main store promise.</span></div>
+					<div><strong>Private availability check</strong><span>Send any reference through WhatsApp and keep the product link attached.</span></div>
+					<div><strong>Photo request workflow</strong><span>Ask for more angles, batch details, and payment timing before purchase.</span></div>
+					<div><strong>Collection-led browsing</strong><span>RM 011, RM 055, RM 35-02, RM 052 and other families stay one tap away.</span></div>
+				</div>
+			</div>
+		</section>
 
-			<section class="stats" aria-label="Catalogue statistics">
-				<div class="stat">
-					<strong>{productCountLabel}</strong>
-					<span>Live product catalogue</span>
-				</div>
-				<div class="stat">
-					<strong>{topBrands.length}+</strong>
-					<span>Core watch houses</span>
-				</div>
-				<div class="stat">
-					<strong>24/7</strong>
-					<span>Git-backed CMS updates</span>
-				</div>
-			</section>
+		<section class="page-shell">
+			<div class="section-head">
+				<h2>Selected references.</h2>
+				<p>Clean product tiles keep the watch visible first, with model family, SKU and inquiry price below.</p>
+			</div>
+			<div class="product-grid">
+				{featuredProducts.map((product, index) => <ProductCard product={product} priority={index < 4} />)}
+			</div>
+		</section>
+	</main>
+</BaseLayout>
 
-			<section aria-labelledby="brands-title">
-				<div class="section-heading">
-					<h2 id="brands-title">Brands in focus</h2>
-					<p>Browse the strongest product families first, from technical sports cases to classic dress references.</p>
-				</div>
-				<div class="brand-grid">
-					{
-						topBrands.map(([brand, count]) => (
-							<a class="brand-tile" href="/products/">
-								<strong>{brand}</strong>
-								<span>{count.toLocaleString('en-US')} pieces</span>
-							</a>
-						))
-					}
-				</div>
-			</section>
+<style>
+	.home-hero {
+		position: relative;
+		display: grid;
+		grid-template-columns: minmax(0, 0.94fr) minmax(360px, 0.72fr);
+		align-items: center;
+		min-height: calc(100svh - 73px);
+		padding: clamp(40px, 7vw, 94px) clamp(18px, 4vw, 54px) clamp(74px, 10vw, 128px);
+		background:
+			linear-gradient(90deg, rgba(245, 243, 239, 0.96) 0%, rgba(245, 243, 239, 0.78) 48%, rgba(245, 243, 239, 0.42) 100%),
+			linear-gradient(180deg, #ffffff, #e7e2d8);
+		overflow: hidden;
+	}
 
-			<section aria-labelledby="featured-title">
-				<div class="section-heading">
-					<h2 id="featured-title">Selected arrivals</h2>
-					<p>A first look at the current catalogue. Open the full catalogue for every imported reference.</p>
-				</div>
-				<div class="product-grid">
-					{
-						featuredProducts.map((product) => (
-							<a class="product-card" href={`/products/${product.id}/`}>
-								<img src={product.data.image} alt={product.data.title} loading="lazy" />
-								<div class="product-card__body">
-									<span class="product-card__brand">{product.data.brand}</span>
-									<h3>{product.data.title}</h3>
-									<div class="product-card__meta">
-										<span>{priceLabel(product.data.price)}</span>
-										<span class="stock">{product.data.in_stock ? 'Available' : 'Unavailable'}</span>
-									</div>
-								</div>
-							</a>
-						))
-					}
-				</div>
-			</section>
-		</main>
-	</body>
-</html>
+	.home-hero::after {
+		position: absolute;
+		right: 0;
+		bottom: 0;
+		width: 42%;
+		height: 1px;
+		background: var(--ink);
+		content: "";
+	}
+
+	.home-hero__copy {
+		position: relative;
+		z-index: 2;
+		display: grid;
+		gap: 28px;
+		max-width: 980px;
+	}
+
+	.home-hero__copy .lead {
+		max-width: 560px;
+	}
+
+	.home-hero__watch {
+		position: relative;
+		z-index: 1;
+		display: grid;
+		place-items: center;
+		min-height: 520px;
+	}
+
+	.home-hero__watch img {
+		width: min(100%, 560px);
+		max-height: 74vh;
+		object-fit: contain;
+		filter: drop-shadow(0 34px 40px rgba(0, 0, 0, 0.24));
+	}
+
+	.home-hero__caption {
+		position: absolute;
+		right: clamp(18px, 4vw, 54px);
+		bottom: clamp(96px, 8vw, 126px);
+		z-index: 3;
+		display: grid;
+		gap: 6px;
+		width: min(360px, calc(100% - 36px));
+		border-left: 2px solid var(--red);
+		padding-left: 18px;
+	}
+
+	.home-hero__caption span,
+	.home-hero__caption small {
+		color: var(--muted);
+		font-size: 0.74rem;
+		font-weight: 800;
+		text-transform: uppercase;
+	}
+
+	.home-hero__caption strong {
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: clamp(1.15rem, 1.8vw, 1.7rem);
+		font-weight: 400;
+		line-height: 1.1;
+	}
+
+	.stats-strip {
+		display: grid;
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+		border-top: 1px solid var(--ink);
+		border-bottom: 1px solid var(--line);
+	}
+
+	.stats-strip div {
+		display: grid;
+		gap: 8px;
+		padding: 24px 0;
+		border-right: 1px solid var(--line);
+	}
+
+	.stats-strip div:last-child {
+		border-right: 0;
+		padding-left: clamp(0px, 2vw, 22px);
+	}
+
+	.stats-strip strong {
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: clamp(1.75rem, 3vw, 3rem);
+		font-weight: 400;
+	}
+
+	.stats-strip span {
+		color: var(--muted);
+		font-size: 0.78rem;
+		font-weight: 800;
+		text-transform: uppercase;
+	}
+
+	.collection-index {
+		display: grid;
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+		border-top: 1px solid var(--line);
+		border-left: 1px solid var(--line);
+	}
+
+	.collection-index a {
+		display: grid;
+		grid-template-columns: auto 1fr;
+		gap: 8px 18px;
+		min-height: 128px;
+		border-right: 1px solid var(--line);
+		border-bottom: 1px solid var(--line);
+		padding: clamp(18px, 2.4vw, 30px);
+		background: var(--paper);
+	}
+
+	.collection-index a:hover {
+		background: var(--white);
+	}
+
+	.collection-index span {
+		color: var(--red);
+		font-size: 0.72rem;
+		font-weight: 900;
+	}
+
+	.collection-index strong {
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: clamp(1.3rem, 2.2vw, 2rem);
+		font-weight: 400;
+		line-height: 1.05;
+	}
+
+	.collection-index small {
+		grid-column: 2;
+		color: var(--muted);
+		font-size: 0.78rem;
+		font-weight: 800;
+		text-transform: uppercase;
+	}
+
+	.editorial-section {
+		padding-bottom: clamp(26px, 5vw, 72px);
+	}
+
+	.editorial-grid {
+		display: grid;
+		grid-template-columns: repeat(4, minmax(0, 1fr));
+		border-top: 1px solid var(--line);
+		border-left: 1px solid var(--line);
+	}
+
+	.editorial-tile {
+		position: relative;
+		display: grid;
+		align-content: end;
+		min-height: clamp(360px, 42vw, 620px);
+		border-right: 1px solid var(--line);
+		border-bottom: 1px solid var(--line);
+		padding: clamp(18px, 2.4vw, 32px);
+		background: #0b0b0c;
+		color: var(--white);
+		overflow: hidden;
+	}
+
+	.editorial-tile--wide {
+		grid-column: span 2;
+	}
+
+	.editorial-tile img {
+		position: absolute;
+		inset: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+		padding: clamp(24px, 5vw, 64px);
+		opacity: 0.82;
+		transition: transform 260ms ease, opacity 260ms ease;
+	}
+
+	.editorial-tile::after {
+		position: absolute;
+		inset: 0;
+		background: linear-gradient(180deg, transparent 30%, rgba(0, 0, 0, 0.76));
+		content: "";
+	}
+
+	.editorial-tile:hover img {
+		opacity: 1;
+		transform: scale(1.04);
+	}
+
+	.editorial-tile span,
+	.editorial-tile strong {
+		position: relative;
+		z-index: 1;
+	}
+
+	.editorial-tile span {
+		margin-bottom: 10px;
+		color: #ff3848;
+		font-size: 0.72rem;
+		font-weight: 900;
+		text-transform: uppercase;
+	}
+
+	.editorial-tile strong {
+		max-width: 520px;
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: clamp(1.4rem, 2.7vw, 3.6rem);
+		font-weight: 400;
+		line-height: 1;
+	}
+
+	.client-desk {
+		margin-top: clamp(48px, 8vw, 96px);
+		background: var(--black);
+		color: var(--white);
+	}
+
+	.client-desk__inner {
+		display: grid;
+		grid-template-columns: minmax(0, 0.72fr) minmax(0, 1fr);
+		gap: clamp(26px, 6vw, 90px);
+		padding-top: clamp(54px, 8vw, 110px);
+		padding-bottom: clamp(54px, 8vw, 110px);
+	}
+
+	.client-desk h2 {
+		margin: 0;
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: clamp(2.6rem, 5.8vw, 6.6rem);
+		font-weight: 400;
+		line-height: 0.95;
+	}
+
+	.client-desk__items {
+		display: grid;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		border-top: 1px solid rgba(255, 255, 255, 0.22);
+		border-left: 1px solid rgba(255, 255, 255, 0.22);
+	}
+
+	.client-desk__items div {
+		display: grid;
+		gap: 12px;
+		min-height: 150px;
+		border-right: 1px solid rgba(255, 255, 255, 0.22);
+		border-bottom: 1px solid rgba(255, 255, 255, 0.22);
+		padding: clamp(18px, 2.4vw, 28px);
+	}
+
+	.client-desk__items strong {
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: clamp(1.22rem, 2vw, 1.8rem);
+		font-weight: 400;
+		line-height: 1.1;
+	}
+
+	.client-desk__items span {
+		color: rgba(255, 255, 255, 0.68);
+		line-height: 1.62;
+	}
+
+	@media (max-width: 900px) {
+		.home-hero {
+			grid-template-columns: 1fr;
+			min-height: auto;
+			padding-bottom: 148px;
+		}
+
+		.home-hero__watch {
+			min-height: 360px;
+		}
+
+		.collection-index {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+		}
+
+		.editorial-grid {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+		}
+
+		.client-desk__inner {
+			grid-template-columns: 1fr;
+		}
+	}
+
+	@media (max-width: 620px) {
+		.home-hero {
+			padding-top: 34px;
+		}
+
+		.home-hero__caption {
+			left: 18px;
+			right: 18px;
+			bottom: 72px;
+		}
+
+		.stats-strip,
+		.collection-index,
+		.editorial-grid,
+		.client-desk__items {
+			grid-template-columns: 1fr;
+		}
+
+		.editorial-tile--wide {
+			grid-column: auto;
+		}
+
+		.stats-strip div {
+			border-right: 0;
+			border-bottom: 1px solid var(--line);
+		}
+	}
+</style>

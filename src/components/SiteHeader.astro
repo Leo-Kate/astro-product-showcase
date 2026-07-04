@@ -1,0 +1,71 @@
+---
+import { site } from '../lib/catalog';
+---
+
+<header class="site-header">
+	<a class="site-header__logo" href="/" aria-label="Mirck home">
+		<img src="/logo-main.png" alt={site.name} />
+	</a>
+	<nav class="site-header__nav" aria-label="Main navigation">
+		<a href="/products/">Catalogue</a>
+		<a href="/collections/rm-011/">Collections</a>
+		<a href="https://wa.me/19189225678?text=Hi%2C%20I%20want%20to%20inquire%20about%20the%20Richard%20Mille%20catalogue.">Inquiry</a>
+		<button class="menu-trigger" type="button" data-menu-open aria-controls="site-menu" aria-expanded="false">Menu</button>
+	</nav>
+</header>
+
+<div class="site-menu" id="site-menu" aria-hidden="true">
+	<div class="site-menu__bar">
+		<img src="/logo-main.png" alt={site.name} />
+		<button type="button" data-menu-close>Close</button>
+	</div>
+	<div class="site-menu__grid">
+		<div>
+			<p class="site-menu__label">Index</p>
+			<a href="/">Home</a>
+			<a href="/products/">Full Catalogue</a>
+			<a href="/collections/rm-011/">RM 011</a>
+			<a href="/collections/rm-055/">RM 055</a>
+			<a href="/collections/rm-35-02/">RM 35-02</a>
+			<a href="/collections/rm-052/">RM 052</a>
+		</div>
+		<div>
+			<p class="site-menu__label">Client Desk</p>
+			<a href="https://wa.me/19189225678?text=Hi%2C%20I%20want%20to%20inquire%20about%20Richard%20Mille%20availability.">Availability Check</a>
+			<a href="https://wa.me/19189225678?text=Hi%2C%20I%20want%20to%20request%20more%20Richard%20Mille%20photos.">Request Photos</a>
+			<a href="https://wa.me/19189225678?text=Hi%2C%20I%20want%20shipping%20and%20payment%20details.">Shipping Details</a>
+		</div>
+		<div class="site-menu__note">
+			<p>Private Richard Mille catalogue with direct WhatsApp sourcing, product-link inquiries, and collection-led browsing.</p>
+		</div>
+	</div>
+</div>
+
+<script>
+	const menu = document.querySelector('.site-menu');
+	const openButton = document.querySelector('[data-menu-open]');
+	const closeButton = document.querySelector('[data-menu-close]');
+
+	function setMenu(open) {
+		if (!menu || !openButton) return;
+		menu.classList.toggle('is-open', open);
+		menu.setAttribute('aria-hidden', String(!open));
+		openButton.setAttribute('aria-expanded', String(open));
+		document.documentElement.classList.toggle('menu-lock', open);
+		document.querySelector('.site-header')?.toggleAttribute('inert', open);
+		document.querySelector('main')?.toggleAttribute('inert', open);
+		document.querySelector('.floating-whatsapp')?.toggleAttribute('inert', open);
+		window.setTimeout(() => {
+			(open ? closeButton : openButton)?.focus();
+		}, open ? 220 : 0);
+	}
+
+	openButton?.addEventListener('click', () => setMenu(true));
+	closeButton?.addEventListener('click', () => setMenu(false));
+	menu?.addEventListener('click', (event) => {
+		if (event.target === menu) setMenu(false);
+	});
+	document.addEventListener('keydown', (event) => {
+		if (event.key === 'Escape') setMenu(false);
+	});
+</script>
