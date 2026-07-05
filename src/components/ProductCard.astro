@@ -3,14 +3,22 @@ import { collectionName, priceLabel } from '../lib/catalog';
 
 const { product, priority = false } = Astro.props;
 const productPath = `/products/${product.id}/`;
+const productCollection = collectionName(product.data.category);
 ---
 
-<a class="product-card" href={productPath}>
+<a
+	class="product-card"
+	href={productPath}
+	data-product-card
+	data-title={product.data.title}
+	data-collection={productCollection}
+	data-sku={product.data.sku ?? ''}
+>
 	<span class="product-card__media">
 		<img src={product.data.image} alt={product.data.title} loading={priority ? 'eager' : 'lazy'} />
 	</span>
 	<span class="product-card__content">
-		<span class="product-card__collection">{collectionName(product.data.category)}</span>
+		<span class="product-card__collection">{productCollection}</span>
 		<span class="product-card__title">{product.data.title}</span>
 		<span class="product-card__meta">
 			<span>{product.data.sku ?? 'Reference'}</span>

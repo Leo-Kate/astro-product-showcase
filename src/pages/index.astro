@@ -15,30 +15,30 @@ import {
 const products = (await getCollection('products')).sort(compareProductsForDisplay);
 const heroProduct =
 	products.find((product) => product.data.sku === 'PMS011') ??
-	products.find((product) => {
-		const title = product.data.title.toLowerCase();
-		return product.data.image && product.data.category?.includes('RM 011') && !title.includes('screw') && !title.includes('box');
-	}) ?? products.find((product) => product.data.image) ?? products[0];
+	products.find((product) => product.data.image && product.data.category?.includes('RM 011')) ??
+	products.find((product) => product.data.image) ??
+	products[0];
 
 const featuredProducts = products
-	.filter((product) => {
-		const title = product.data.title.toLowerCase();
-		return product.data.image && !isAccessoryProduct(product) && !title.includes('strap for');
-	})
+	.filter((product) => product.data.image && !isAccessoryProduct(product))
 	.slice(0, 12);
 
-const collectionCounts = products.reduce<Map<string, { count: number; path: string }>>((counts, product) => {
-	const name = collectionName(product.data.category);
-	const current = counts.get(name) ?? { count: 0, path: collectionPath(product.data.category) };
-	current.count += 1;
-	counts.set(name, current);
-	return counts;
-}, new Map());
+const collectionCounts = products.reduce<Map<string, { count: number; path: string; sample?: typeof products[number] }>>(
+	(counts, product) => {
+		const name = collectionName(product.data.category);
+		const current = counts.get(name) ?? { count: 0, path: collectionPath(product.data.category), sample: product };
+		current.count += 1;
+		if (!current.sample?.data.image && product.data.image) current.sample = product;
+		counts.set(name, current);
+		return counts;
+	},
+	new Map(),
+);
 
-const topCollections = [...collectionCounts.entries()].sort((a, b) => b[1].count - a[1].count).slice(0, 12);
+const topCollections = [...collectionCounts.entries()].sort((a, b) => b[1].count - a[1].count).slice(0, 10);
 const heroPath = `/products/${heroProduct.id}/`;
 const heroInquiry = productInquiryHref(heroProduct.data.title, heroProduct.data.sku, heroPath);
-const storyProducts = featuredProducts.slice(1, 5);
+const collectionPreview = topCollections.slice(0, 6);
 ---
 
 <BaseLayout title="Mirck | Richard Mille Private Catalogue" className="home-page">
@@ -46,87 +46,79 @@ const storyProducts = featuredProducts.slice(1, 5);
 		<section class="home-hero" aria-labelledby="hero-title">
 			<div class="home-hero__copy">
 				<p class="kicker">{site.tagline}</p>
-				<h1 id="hero-title" class="display-title">Richard Mille</h1>
+				<h1 id="hero-title" class="display-title">Private Richard Mille catalogue</h1>
 				<p class="lead">
-					Private catalogue, collection-led browsing, and direct WhatsApp inquiry for high-demand RM references.
+					A quieter commercial catalogue for collectors who want to compare references, open galleries, and send a direct inquiry with the exact product link attached.
 				</p>
 				<div class="button-row">
-					<a class="button" href="/products/">View Catalogue</a>
-					<a class="button button--ghost" href="#collections">Browse Collections</a>
-					<a class="button button--whatsapp" href={heroInquiry}>WhatsApp This Piece</a>
+					<a class="button" href="/products/">Browse catalogue</a>
+					<a class="button button--ghost" href="#collections">Shop by collection</a>
+					<a class="button button--whatsapp" href={heroInquiry}>Ask on WhatsApp</a>
 				</div>
 			</div>
-			<a class="home-hero__watch" href={heroPath} aria-label={`Open ${heroProduct.data.title}`}>
+
+			<a class="home-hero__product" href={heroPath} aria-label={`Open ${heroProduct.data.title}`}>
 				<img src={heroProduct.data.image} alt={heroProduct.data.title} loading="eager" />
+				<span class="home-hero__tag">
+					<small>{collectionName(heroProduct.data.category)}</small>
+					<strong>{heroProduct.data.title}</strong>
+					<em>{priceLabel(heroProduct.data.price)}</em>
+				</span>
 			</a>
-			<div class="home-hero__caption">
-				<span>{collectionName(heroProduct.data.category)}</span>
-				<strong>{heroProduct.data.title}</strong>
-				<small>{priceLabel(heroProduct.data.price)}</small>
+
+			<div class="home-hero__stats" aria-label="Catalogue statistics">
+				<div><strong>{products.length.toLocaleString('en-US')}</strong><span>Products</span></div>
+				<div><strong>{collectionCounts.size}</strong><span>Families</span></div>
+				<div><strong>WA</strong><span>Inquiry</span></div>
 			</div>
 		</section>
 
-		<section class="page-shell stats-strip" aria-label="Catalogue statistics">
-			<div><strong>{products.length.toLocaleString('en-US')}</strong><span>Richard Mille products</span></div>
-			<div><strong>{collectionCounts.size}</strong><span>Collections and families</span></div>
-			<div><strong>WhatsApp</strong><span>Direct private inquiry</span></div>
-		</section>
-
-		<section class="page-shell editorial-section" aria-labelledby="editorial-title">
+		<section id="collections" class="page-shell collection-showcase" aria-labelledby="collections-title">
 			<div class="section-head">
-				<h2 id="editorial-title">Precision-led presentation.</h2>
-				<p>Large product imagery, restrained labels, and collection paths built for fast client selection.</p>
-			</div>
-			<div class="editorial-grid">
-				{
-					storyProducts.map((product, index) => (
-						<a class:list={['editorial-tile', index === 0 && 'editorial-tile--wide']} href={`/products/${product.id}/`}>
-							<img src={product.data.image} alt={product.data.title} loading="lazy" />
-							<span>{collectionName(product.data.category)}</span>
-							<strong>{product.data.title}</strong>
-						</a>
-					))
-				}
-			</div>
-		</section>
-
-		<section id="collections" class="page-shell">
-			<div class="section-head">
-				<h2>Collections</h2>
-				<p>Start with the strongest RM families, then open any reference for gallery and inquiry.</p>
-			</div>
-			<div class="collection-index">
-				{
-					topCollections.map(([name, data], index) => (
-						<a href={data.path}>
-							<span>{String(index + 1).padStart(2, '0')}</span>
-							<strong>{name}</strong>
-							<small>{data.count.toLocaleString('en-US')} pieces</small>
-						</a>
-					))
-				}
-			</div>
-		</section>
-
-		<section class="client-desk" aria-labelledby="desk-title">
-			<div class="page-shell client-desk__inner">
 				<div>
-					<p class="kicker">Client Desk</p>
-					<h2 id="desk-title">Client desk</h2>
+					<p class="kicker">Shop by family</p>
+					<h2 id="collections-title">Collections first, products second.</h2>
 				</div>
-				<div class="client-desk__items">
-					<div><strong>Free worldwide shipping</strong><span>Commercial positioning aligned with Mirckclone's main store promise.</span></div>
-					<div><strong>Private availability check</strong><span>Send any reference through WhatsApp and keep the product link attached.</span></div>
-					<div><strong>Photo request workflow</strong><span>Ask for more angles, batch details, and payment timing before purchase.</span></div>
-					<div><strong>Collection-led browsing</strong><span>RM 011, RM 055, RM 35-02, RM 052 and other families stay one tap away.</span></div>
-				</div>
+				<p>Most buyers already know the RM family they want. The site now puts those collection paths ahead of decorative blocks.</p>
+			</div>
+
+			<div class="collection-showcase__grid">
+				{
+					collectionPreview.map(([name, data]) => (
+						<a class="collection-card" href={data.path}>
+							<span class="collection-card__meta">
+								<strong>{name}</strong>
+								<small>{data.count.toLocaleString('en-US')} pieces</small>
+							</span>
+							{data.sample?.data.image && <img src={data.sample.data.image} alt={name} loading="lazy" />}
+						</a>
+					))
+				}
+			</div>
+		</section>
+
+		<section class="page-shell commerce-strip" aria-label="Client service">
+			<div>
+				<strong>Reference-led inquiry</strong>
+				<span>Every detail page sends the product title, SKU, and canonical link to WhatsApp.</span>
+			</div>
+			<div>
+				<strong>Private availability</strong>
+				<span>Clients can request photos, batch details, and timing before ordering.</span>
+			</div>
+			<div>
+				<strong>Clean browsing</strong>
+				<span>Products are grouped by collection with a restrained, image-first catalogue layout.</span>
 			</div>
 		</section>
 
 		<section class="page-shell">
 			<div class="section-head">
-				<h2>Selected references</h2>
-				<p>Product tiles keep the watch visible first, with family, SKU and inquiry price below.</p>
+				<div>
+					<p class="kicker">Selected references</p>
+					<h2>Quiet presentation, faster scanning.</h2>
+				</div>
+				<p>Product cards keep the watch visible and move long titles into a controlled information area below the image.</p>
 			</div>
 			<div class="product-grid">
 				{featuredProducts.map((product, index) => <ProductCard product={product} priority={index < 4} />)}
@@ -139,348 +131,218 @@ const storyProducts = featuredProducts.slice(1, 5);
 	.home-hero {
 		position: relative;
 		display: grid;
-		grid-template-columns: minmax(0, 0.84fr) minmax(420px, 0.88fr);
-		align-items: center;
-		min-height: min(680px, calc(100svh - 73px));
-		padding: 38px 54px 72px;
-		background:
-			linear-gradient(90deg, rgba(246, 244, 239, 0.98) 0%, rgba(246, 244, 239, 0.82) 50%, rgba(246, 244, 239, 0.35) 100%),
-			linear-gradient(180deg, #ffffff, #dfdbd1);
-		overflow: hidden;
-	}
-
-	.home-hero::after {
-		position: absolute;
-		right: 0;
-		bottom: 0;
-		width: 42%;
-		height: 1px;
-		background: var(--ink);
-		content: "";
+		grid-template-columns: minmax(0, 0.88fr) minmax(420px, 0.9fr);
+		gap: clamp(32px, 5vw, 88px);
+		align-items: start;
+		width: min(var(--max), 100%);
+		margin: 0 auto;
+		padding: clamp(34px, 5vw, 64px) 40px 34px;
 	}
 
 	.home-hero__copy {
-		position: relative;
-		z-index: 2;
 		display: grid;
 		gap: 22px;
-		max-width: 760px;
+		align-content: center;
+		padding-top: clamp(24px, 5vw, 58px);
 	}
 
-	.home-hero__copy .lead {
-		max-width: 500px;
+	.home-hero__copy .display-title {
+		max-width: 780px;
 	}
 
-	.home-hero__watch {
+	.home-hero__product {
 		position: relative;
-		z-index: 1;
 		display: grid;
 		place-items: center;
-		min-height: 480px;
-	}
-
-	.home-hero__watch img {
-		width: min(100%, 680px);
-		max-height: 58vh;
-		object-fit: contain;
-		filter: drop-shadow(0 38px 44px rgba(0, 0, 0, 0.26));
-	}
-
-	.home-hero__caption {
-		position: absolute;
-		right: 54px;
-		bottom: 34px;
-		z-index: 3;
-		display: grid;
-		gap: 6px;
-		width: min(390px, calc(100% - 36px));
-		border-left: 2px solid var(--red);
-		padding: 14px 0 14px 18px;
-		background: rgba(246, 244, 239, 0.9);
-		backdrop-filter: blur(10px);
-	}
-
-	.home-hero__caption span,
-	.home-hero__caption small {
-		color: var(--muted);
-		font-family: "Inter Tight", Inter, Arial, sans-serif;
-		font-size: 0.74rem;
-		font-weight: 700;
-		text-transform: uppercase;
-	}
-
-	.home-hero__caption strong {
-		font-family: "Inter Tight", Inter, Arial, sans-serif;
-		font-size: 1.18rem;
-		font-weight: 500;
-		line-height: 1.14;
-		text-transform: uppercase;
-	}
-
-	.stats-strip {
-		display: grid;
-		grid-template-columns: repeat(3, minmax(0, 1fr));
-		border-top: 1px solid var(--ink);
-		border-bottom: 1px solid var(--line);
-	}
-
-	.stats-strip div {
-		display: grid;
-		gap: 8px;
-		padding: 24px 0;
-		border-right: 1px solid var(--line);
-	}
-
-	.stats-strip div:last-child {
-		border-right: 0;
-		padding-left: clamp(0px, 2vw, 22px);
-	}
-
-	.stats-strip strong {
-		font-family: "Inter Tight", Inter, Arial, sans-serif;
-		font-size: 2.7rem;
-		font-weight: 500;
-		text-transform: uppercase;
-	}
-
-	.stats-strip span {
-		color: var(--muted);
-		font-family: "Inter Tight", Inter, Arial, sans-serif;
-		font-size: 0.78rem;
-		font-weight: 700;
-		text-transform: uppercase;
-	}
-
-	.collection-index {
-		display: grid;
-		grid-template-columns: repeat(3, minmax(0, 1fr));
-		border-top: 1px solid var(--line);
-		border-left: 1px solid var(--line);
-	}
-
-	.collection-index a {
-		display: grid;
-		grid-template-columns: auto 1fr;
-		gap: 8px 18px;
-		min-height: 128px;
-		border-right: 1px solid var(--line);
-		border-bottom: 1px solid var(--line);
-		padding: clamp(18px, 2.4vw, 30px);
-		background: var(--paper);
-	}
-
-	.collection-index a:hover {
-		background: var(--white);
-	}
-
-	.collection-index span {
-		color: var(--red);
-		font-size: 0.72rem;
-		font-weight: 900;
-	}
-
-	.collection-index strong {
-		font-family: "Inter Tight", Inter, Arial, sans-serif;
-		font-size: 1.75rem;
-		font-weight: 500;
-		line-height: 1.05;
-		text-transform: uppercase;
-	}
-
-	.collection-index small {
-		grid-column: 2;
-		color: var(--muted);
-		font-family: "Inter Tight", Inter, Arial, sans-serif;
-		font-size: 0.78rem;
-		font-weight: 700;
-		text-transform: uppercase;
-	}
-
-	.editorial-section {
-		padding-bottom: clamp(26px, 5vw, 72px);
-	}
-
-	.editorial-grid {
-		display: grid;
-		grid-template-columns: repeat(4, minmax(0, 1fr));
-		border-top: 1px solid var(--line);
-		border-left: 1px solid var(--line);
-	}
-
-	.editorial-tile {
-		position: relative;
-		display: grid;
-		align-content: end;
-		min-height: 560px;
-		border-right: 1px solid var(--line);
-		border-bottom: 1px solid var(--line);
-		padding: 30px;
-		background: #0b0b0c;
-		color: var(--white);
+		min-height: min(560px, calc(100svh - 140px));
+		border: 1px solid rgba(18, 18, 18, 0.1);
+		background:
+			radial-gradient(circle at 50% 24%, rgba(255, 255, 255, 0.96), rgba(236, 232, 222, 0.78) 58%, rgba(214, 209, 199, 0.72)),
+			var(--panel);
 		overflow: hidden;
 	}
 
-	.editorial-tile--wide {
-		grid-column: span 2;
-	}
-
-	.editorial-tile img {
-		position: absolute;
-		inset: 0;
-		width: 100%;
-		height: 100%;
+	.home-hero__product img {
+		width: min(88%, 560px);
+		max-height: 540px;
 		object-fit: contain;
-		padding: 58px;
-		opacity: 0.82;
-		transition: transform 260ms ease, opacity 260ms ease;
+		filter: drop-shadow(0 34px 36px rgba(0, 0, 0, 0.2));
+		transition: transform 260ms ease;
 	}
 
-	.editorial-tile::after {
+	.home-hero__product:hover img {
+		transform: translateY(-5px) scale(1.02);
+	}
+
+	.home-hero__tag {
 		position: absolute;
-		inset: 0;
-		background: linear-gradient(180deg, transparent 30%, rgba(0, 0, 0, 0.76));
-		content: "";
+		left: 22px;
+		right: 22px;
+		bottom: 22px;
+		display: grid;
+		gap: 6px;
+		padding: 16px 18px;
+		background: rgba(247, 245, 239, 0.86);
+		backdrop-filter: blur(16px);
 	}
 
-	.editorial-tile:hover img {
-		opacity: 1;
-		transform: scale(1.04);
+	.home-hero__tag small,
+	.home-hero__tag em {
+		color: var(--muted);
+		font-size: 0.7rem;
+		font-style: normal;
+		font-weight: 800;
+		text-transform: uppercase;
 	}
 
-	.editorial-tile span,
-	.editorial-tile strong {
+	.home-hero__tag strong {
+		font-size: clamp(1rem, 1.4vw, 1.25rem);
+		font-weight: 700;
+		line-height: 1.22;
+	}
+
+	.home-hero__stats {
+		grid-column: 1 / -1;
+		display: grid;
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+		border-top: 1px solid var(--line);
+		border-bottom: 1px solid var(--line);
+	}
+
+	.home-hero__stats div {
+		display: grid;
+		gap: 4px;
+		padding: 18px 0;
+		border-right: 1px solid var(--line);
+	}
+
+	.home-hero__stats div:last-child {
+		border-right: 0;
+	}
+
+	.home-hero__stats strong {
+		font-family: "Playfair Display", Georgia, serif;
+		font-size: clamp(1.8rem, 3.2vw, 3.1rem);
+		font-weight: 600;
+		line-height: 1;
+	}
+
+	.home-hero__stats span {
+		color: var(--muted);
+		font-size: 0.72rem;
+		font-weight: 800;
+		text-transform: uppercase;
+	}
+
+	.collection-showcase__grid {
+		display: grid;
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+		gap: 18px;
+	}
+
+	.collection-card {
+		position: relative;
+		display: grid;
+		align-items: end;
+		min-height: 330px;
+		border: 1px solid rgba(18, 18, 18, 0.09);
+		background: rgba(255, 255, 255, 0.54);
+		overflow: hidden;
+	}
+
+	.collection-card img {
+		position: absolute;
+		inset: 22px 18px 66px;
+		width: calc(100% - 36px);
+		height: calc(100% - 96px);
+		object-fit: contain;
+		filter: drop-shadow(0 24px 26px rgba(0, 0, 0, 0.14));
+		transition: transform 240ms ease;
+	}
+
+	.collection-card:hover img {
+		transform: translateY(-5px) scale(1.025);
+	}
+
+	.collection-card__meta {
 		position: relative;
 		z-index: 1;
+		display: flex;
+		align-items: end;
+		justify-content: space-between;
+		gap: 18px;
+		padding: 20px;
+		background: linear-gradient(180deg, rgba(247, 245, 239, 0.72), rgba(247, 245, 239, 0.96));
 	}
 
-	.editorial-tile span {
-		margin-bottom: 10px;
-		color: #ff3848;
-		font-family: "Inter Tight", Inter, Arial, sans-serif;
-		font-size: 0.72rem;
-		font-weight: 700;
-		text-transform: uppercase;
-	}
-
-	.editorial-tile strong {
-		max-width: 520px;
-		font-family: "Inter Tight", Inter, Arial, sans-serif;
-		font-size: 2.55rem;
-		font-weight: 500;
+	.collection-card__meta strong {
+		font-family: "Playfair Display", Georgia, serif;
+		font-size: clamp(1.45rem, 2.3vw, 2.3rem);
+		font-weight: 600;
 		line-height: 1;
+	}
+
+	.collection-card__meta small {
+		flex: 0 0 auto;
+		color: var(--red);
+		font-size: 0.7rem;
+		font-weight: 800;
 		text-transform: uppercase;
 	}
 
-	.client-desk {
-		margin-top: 92px;
-		background: var(--black);
-		color: var(--white);
-	}
-
-	.client-desk__inner {
+	.commerce-strip {
 		display: grid;
-		grid-template-columns: minmax(0, 0.72fr) minmax(0, 1fr);
-		gap: 86px;
-		padding-top: 96px;
-		padding-bottom: 96px;
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+		gap: 18px;
+		margin-top: clamp(58px, 7vw, 92px);
 	}
 
-	.client-desk h2 {
-		margin: 0;
-		font-family: "Inter Tight", Inter, Arial, sans-serif;
-		font-size: 5.4rem;
-		font-weight: 500;
-		line-height: 0.95;
-		text-transform: uppercase;
-	}
-
-	.client-desk__items {
+	.commerce-strip div {
 		display: grid;
-		grid-template-columns: repeat(2, minmax(0, 1fr));
-		border-top: 1px solid rgba(255, 255, 255, 0.22);
-		border-left: 1px solid rgba(255, 255, 255, 0.22);
+		gap: 10px;
+		min-height: 138px;
+		border-top: 1px solid var(--ink);
+		padding-top: 18px;
 	}
 
-	.client-desk__items div {
-		display: grid;
-		gap: 12px;
-		min-height: 150px;
-		border-right: 1px solid rgba(255, 255, 255, 0.22);
-		border-bottom: 1px solid rgba(255, 255, 255, 0.22);
-		padding: 26px;
+	.commerce-strip strong {
+		font-size: 1.05rem;
+		font-weight: 800;
 	}
 
-	.client-desk__items strong {
-		font-family: "Inter Tight", Inter, Arial, sans-serif;
-		font-size: 1.35rem;
-		font-weight: 500;
-		line-height: 1.1;
-		text-transform: uppercase;
-	}
-
-	.client-desk__items span {
-		color: rgba(255, 255, 255, 0.68);
+	.commerce-strip span {
+		color: var(--muted);
 		line-height: 1.62;
 	}
 
 	@media (max-width: 900px) {
 		.home-hero {
 			grid-template-columns: 1fr;
-			min-height: auto;
-			padding: 48px 18px 140px;
+			padding: 34px 18px 24px;
 		}
 
-		.home-hero__watch {
-			min-height: 390px;
+		.home-hero__product {
+			min-height: 480px;
 		}
 
-		.collection-index {
+		.collection-showcase__grid,
+		.commerce-strip {
 			grid-template-columns: repeat(2, minmax(0, 1fr));
-		}
-
-		.editorial-grid {
-			grid-template-columns: repeat(2, minmax(0, 1fr));
-		}
-
-		.client-desk__inner {
-			grid-template-columns: 1fr;
-			gap: 34px;
 		}
 	}
 
-	@media (max-width: 620px) {
-		.home-hero {
-			padding-top: 32px;
+	@media (max-width: 560px) {
+		.home-hero__product {
+			min-height: 430px;
 		}
 
-		.home-hero__caption {
-			left: 18px;
-			right: 18px;
-			bottom: 72px;
-		}
-
-		.stats-strip,
-		.collection-index,
-		.editorial-grid,
-		.client-desk__items {
+		.home-hero__stats,
+		.collection-showcase__grid,
+		.commerce-strip {
 			grid-template-columns: 1fr;
 		}
 
-		.editorial-tile {
-			min-height: 430px;
-			padding: 22px;
-		}
-
-		.editorial-tile strong,
-		.client-desk h2 {
-			font-size: 2.35rem;
-		}
-
-		.editorial-tile--wide {
-			grid-column: auto;
-		}
-
-		.stats-strip div {
+		.home-hero__stats div {
 			border-right: 0;
 			border-bottom: 1px solid var(--line);
 		}

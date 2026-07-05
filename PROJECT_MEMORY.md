@@ -84,3 +84,13 @@
 - Build QA: `npm run build` completed successfully and generated 1,546 pages.
 - Deployed cleanup commit `d6c3fbc` (`Remove watermarked product images`) through GitHub Actions run `28731671648`; the run completed successfully and deployed to Cloudflare Pages.
 - Live verification on `https://mirck.co` returned 200 for `/`, `/products/`, `/collections/rm-011/`, and sample PMS011 detail page; anonymous `/admin/` returned 401; sample `/cdn-image/...` returned `200 image/jpeg`; `/products/` contained the updated `1,407` catalogue count.
+
+## 2026-07-05 - Codex
+
+- Reworked the UI and catalogue architecture after Leo rejected the oversized black-tile/large-type direction.
+- Used `ui-ux-pro-max` guidance for a more Western luxury e-commerce direction: Playfair Display + Inter typography, softer paper background, restrained red accents, product-image-first cards, and less aggressive hero/title scale.
+- Rebuilt the homepage away from black editorial tiles into a commercial structure: hero, collection-family cards, client-service strip, and selected references.
+- Added client-side search/filtering to `/products/` and `/collections/[collection]/`; searching by title, SKU, or collection updates visible products and count without a backend.
+- Updated `ProductCard` with filter data attributes and fixed `[hidden]` styling so filtered cards are actually removed from layout.
+- Refined product detail pages with a quieter large image area, Playfair title, price/availability row, WhatsApp inquiry, request-current-photos CTA, SKU/brand/collection facts, and description.
+- Verification: `npm run build` passed and generated 1,546 pages. Local Pages dev at `127.0.0.1:8788` rendered images through `/cdn-image`; desktop/mobile screenshots checked homepage, catalogue, and PMS011 detail page. Catalogue search for `PMS011` showed 1 visible product and 1,406 hidden products.

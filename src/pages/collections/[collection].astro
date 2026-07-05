@@ -33,7 +33,7 @@ const heroProduct = products.find((product) => product.data.image) ?? products[0
 				<p class="kicker">Collection</p>
 				<h1 id="collection-title" class="display-title">{name}</h1>
 				<p class="lead">
-					{products.length.toLocaleString('en-US')} references in this Richard Mille family, prepared for private selection.
+					{products.length.toLocaleString('en-US')} products in this family, arranged as a clean commercial grid for quick comparison and inquiry.
 				</p>
 				<div class="button-row">
 					<a class="button" href="/products/">Full Catalogue</a>
@@ -52,6 +52,11 @@ const heroProduct = products.find((product) => product.data.image) ?? products[0
 				<h2>{name} references</h2>
 				<p>Open a product page for gallery images, SKU, availability, and WhatsApp inquiry with product link.</p>
 			</div>
+			<div class="collection-tools" role="search">
+				<label for="collection-search">Search this collection</label>
+				<input id="collection-search" type="search" placeholder={`Search ${name}, SKU, or title`} autocomplete="off" />
+				<span id="collection-count">{products.length.toLocaleString('en-US')} products</span>
+			</div>
 			<div class="product-grid">
 				{products.map((product, index) => <ProductCard product={product} priority={index < 8} />)}
 			</div>
@@ -59,15 +64,37 @@ const heroProduct = products.find((product) => product.data.image) ?? products[0
 	</main>
 </BaseLayout>
 
+<script>
+	const searchInput = document.querySelector<HTMLInputElement>('#collection-search');
+	const countNode = document.querySelector<HTMLElement>('#collection-count');
+	const productCards = [...document.querySelectorAll<HTMLElement>('[data-product-card]')];
+
+	function updateCollectionFilter() {
+		const query = searchInput?.value.trim().toLowerCase() ?? '';
+		let visible = 0;
+
+		for (const card of productCards) {
+			const haystack = [card.dataset.title, card.dataset.collection, card.dataset.sku].filter(Boolean).join(' ').toLowerCase();
+			const match = !query || haystack.includes(query);
+			card.hidden = !match;
+			if (match) visible += 1;
+		}
+
+		if (countNode) countNode.textContent = `${visible.toLocaleString('en-US')} products`;
+	}
+
+	searchInput?.addEventListener('input', updateCollectionFilter);
+</script>
+
 <style>
 	.collection-hero {
 		display: grid;
-		grid-template-columns: minmax(0, 1fr) minmax(300px, 0.55fr);
-		gap: 86px;
+		grid-template-columns: minmax(0, 0.86fr) minmax(320px, 0.58fr);
+		gap: clamp(34px, 6vw, 84px);
 		align-items: center;
-		min-height: min(760px, calc(100svh - 73px));
-		padding: 86px 54px;
-		background: linear-gradient(180deg, #ffffff, var(--paper));
+		width: min(var(--max), 100%);
+		margin: 0 auto;
+		padding: clamp(42px, 7vw, 84px) 40px;
 		border-bottom: 1px solid var(--line);
 	}
 
@@ -83,18 +110,58 @@ const heroProduct = products.find((product) => product.data.image) ?? products[0
 	.collection-hero__image {
 		display: grid;
 		place-items: center;
-		min-height: 440px;
+		min-height: 430px;
+		border: 1px solid rgba(18, 18, 18, 0.09);
+		background:
+			radial-gradient(circle at 50% 24%, rgba(255, 255, 255, 0.96), rgba(236, 232, 222, 0.75) 58%, rgba(214, 209, 199, 0.7)),
+			var(--panel);
 	}
 
 	.collection-hero__image img {
-		width: min(100%, 520px);
-		max-height: 68vh;
+		width: min(84%, 460px);
+		max-height: 560px;
 		object-fit: contain;
-		filter: drop-shadow(0 30px 38px rgba(0, 0, 0, 0.22));
+		filter: drop-shadow(0 28px 30px rgba(0, 0, 0, 0.18));
 	}
 
 	.collection-products {
 		padding-bottom: 96px;
+	}
+
+	.collection-tools {
+		display: grid;
+		grid-template-columns: auto minmax(260px, 1fr) auto;
+		gap: 14px;
+		align-items: center;
+		margin-bottom: 24px;
+		border: 1px solid var(--line);
+		padding: 12px 14px;
+		background: rgba(255, 255, 255, 0.7);
+	}
+
+	.collection-tools label,
+	.collection-tools span {
+		color: var(--muted);
+		font-size: 0.72rem;
+		font-weight: 800;
+		text-transform: uppercase;
+		white-space: nowrap;
+	}
+
+	.collection-tools input {
+		width: 100%;
+		min-height: 42px;
+		border: 1px solid rgba(18, 18, 18, 0.15);
+		border-radius: 999px;
+		padding: 0 16px;
+		background: var(--white);
+		color: var(--ink);
+		font: inherit;
+	}
+
+	.collection-tools input:focus {
+		border-color: var(--red);
+		outline: 0;
 	}
 
 	@media (max-width: 840px) {
@@ -107,6 +174,11 @@ const heroProduct = products.find((product) => product.data.image) ?? products[0
 
 		.collection-hero__image {
 			min-height: 340px;
+		}
+
+		.collection-tools {
+			grid-template-columns: 1fr;
+			gap: 8px;
 		}
 	}
 </style>
