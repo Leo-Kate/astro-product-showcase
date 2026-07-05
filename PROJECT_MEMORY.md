@@ -94,3 +94,5 @@
 - Updated `ProductCard` with filter data attributes and fixed `[hidden]` styling so filtered cards are actually removed from layout.
 - Refined product detail pages with a quieter large image area, Playfair title, price/availability row, WhatsApp inquiry, request-current-photos CTA, SKU/brand/collection facts, and description.
 - Verification: `npm run build` passed and generated 1,546 pages. Local Pages dev at `127.0.0.1:8788` rendered images through `/cdn-image`; desktop/mobile screenshots checked homepage, catalogue, and PMS011 detail page. Catalogue search for `PMS011` showed 1 visible product and 1,406 hidden products.
+- Deployed commit `8b4b63b` (`Refine luxury catalogue experience`) through GitHub Actions run `28732277869`; the run completed successfully and deployed to Cloudflare Pages.
+- Live verification on `https://mirck.co` returned 200 for `/`, `/products/`, `/collections/rm-011/`, and sample PMS011 detail page; anonymous `/admin/` returned 401; sample `/cdn-image/...` returned `200 image/jpeg`; live catalogue search for `PMS011` showed 1 visible product and 1,406 hidden products.
