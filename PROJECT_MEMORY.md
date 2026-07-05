@@ -82,3 +82,5 @@
 - Pruned `src/generated/image-map.ts` from 6,645 to 5,878 image mappings so no deleted products leave unused proxy entries.
 - Verification: content/image consistency script confirmed 1,407 products, 5,878 used image keys, 0 missing image keys, 0 unused image mappings, and 0 remaining products referencing the removed `i<digits>_<digits>_<digits>` watermarked URL pattern.
 - Build QA: `npm run build` completed successfully and generated 1,546 pages.
+- Deployed cleanup commit `d6c3fbc` (`Remove watermarked product images`) through GitHub Actions run `28731671648`; the run completed successfully and deployed to Cloudflare Pages.
+- Live verification on `https://mirck.co` returned 200 for `/`, `/products/`, `/collections/rm-011/`, and sample PMS011 detail page; anonymous `/admin/` returned 401; sample `/cdn-image/...` returned `200 image/jpeg`; `/products/` contained the updated `1,407` catalogue count.
