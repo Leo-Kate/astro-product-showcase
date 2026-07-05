@@ -74,3 +74,11 @@
 - Improved catalogue sorting in `src/lib/catalog.ts` so explicit RM families and clean PMS SKU products appear before generic `Richard Mille` items, accessories, boxes, screws, and title-heavy "best/replica/factory" entries.
 - Verification: `npm run build` generated 1,631 pages successfully. Local Pages dev checks returned HTTP 200 for `/`, `/products/`, `/collections/rm-011/`, and sample PMS011 detail page; anonymous `/admin/` returned 401; `/cdn-image/...` returned `200 image/jpeg`.
 - Visual QA was performed at 1440x900 and 390x844 for home, product catalogue, RM 011 collection, and PMS011 detail pages. Checked no horizontal overflow, no visible broken images, functional menu open/Escape close focus state, and active WhatsApp links.
+
+## 2026-07-05 - Codex
+
+- Removed products whose gallery images matched the visually confirmed watermarked `rmwatches.net` batch pattern `i<digits>_<digits>_<digits>.(jpg|jpeg|png|webp)`.
+- Deleted 83 product Markdown files from `src/content/products/`, reducing the catalogue from 1,490 to 1,407 products.
+- Pruned `src/generated/image-map.ts` from 6,645 to 5,878 image mappings so no deleted products leave unused proxy entries.
+- Verification: content/image consistency script confirmed 1,407 products, 5,878 used image keys, 0 missing image keys, 0 unused image mappings, and 0 remaining products referencing the removed `i<digits>_<digits>_<digits>` watermarked URL pattern.
+- Build QA: `npm run build` completed successfully and generated 1,546 pages.
