@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM07-03 Ladies Ceramic Multicolor Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2583"
 category: "Richard Mille > RM 07-03"
 image: "/cdn-image/1cc36558a353c1828d378165.jpg"
 images: ["/cdn-image/1cc36558a353c1828d378165.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

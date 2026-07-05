@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM55 White Ceramic Black Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2482"
 category: "Richard Mille > RM 55"
 image: "/cdn-image/6f4eb46a0c1ef56dfce9e4e6.jpg"
 images: ["/cdn-image/6f4eb46a0c1ef56dfce9e4e6.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

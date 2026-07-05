@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM056-01 Limtied Edition Red Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2757"
 category: "Richard Mille > RM 056-01"
 image: "/cdn-image/9999c870d6894cfdbf923032.jpg"
 images: ["/cdn-image/9999c870d6894cfdbf923032.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

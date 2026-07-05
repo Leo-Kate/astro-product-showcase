@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM035 Men Mechanical Rubber Band Stainless Steel"
 brand: "Richard Mille"
 sku: "RM-J-035-004"
 category: "Richard Mille > RM 035"
 image: "/cdn-image/52cebc62004c86a8d7b43c3d.jpg"
 images: ["/cdn-image/52cebc62004c86a8d7b43c3d.jpg", "/cdn-image/d3dca616ad5e9dbbb94eea1c.jpg", "/cdn-image/c726634f20748607646c08ba.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

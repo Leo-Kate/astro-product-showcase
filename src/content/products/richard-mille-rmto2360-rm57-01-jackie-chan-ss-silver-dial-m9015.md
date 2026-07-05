@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM57-01 Jackie Chan SS Silver Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2360"
 category: "Richard Mille > RM 57-01"
 image: "/cdn-image/e7ca1f332d3e54c87be12f71.jpg"
 images: ["/cdn-image/e7ca1f332d3e54c87be12f71.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

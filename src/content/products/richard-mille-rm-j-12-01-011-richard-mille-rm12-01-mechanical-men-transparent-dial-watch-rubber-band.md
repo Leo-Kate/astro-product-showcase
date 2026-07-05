@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM12-01 Mechanical Men Transparent Dial Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-12-01-011"
 category: "Richard Mille > RM 12-01"
 image: "/cdn-image/8df43b500072c998c5f1af74.jpg"
 images: ["/cdn-image/8df43b500072c998c5f1af74.jpg", "/cdn-image/711fe48a1b6bba1d7c0e02d4.jpg", "/cdn-image/b42ffabdb284f1b4aefac36c.jpg", "/cdn-image/1cac11243dddc6abd57018d1.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

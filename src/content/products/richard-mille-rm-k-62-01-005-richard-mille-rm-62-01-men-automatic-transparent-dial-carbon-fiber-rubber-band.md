@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 62-01 Men Automatic Transparent Dial Carbon Fiber Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-62-01-005"
 category: "Richard Mille > RM 62-01"
 image: "/cdn-image/4d82ca410ef690f325242b13.jpg"
 images: ["/cdn-image/4d82ca410ef690f325242b13.jpg", "/cdn-image/64f2ee90e511cd750e89818b.jpg", "/cdn-image/e3f098d640e842395b9b487f.jpg", "/cdn-image/243e90cdcd4f16a47fe4aabf.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

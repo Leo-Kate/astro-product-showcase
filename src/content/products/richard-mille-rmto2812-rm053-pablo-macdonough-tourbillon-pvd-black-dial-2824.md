@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM053 Pablo MacDonough Tourbillon PVD Black Dial 2824"
 brand: "Richard Mille"
 sku: "RMTO2812"
 category: "Richard Mille > RM 053"
 image: "/cdn-image/f1152eb34b67712327c7e7fe.jpg"
 images: ["/cdn-image/f1152eb34b67712327c7e7fe.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

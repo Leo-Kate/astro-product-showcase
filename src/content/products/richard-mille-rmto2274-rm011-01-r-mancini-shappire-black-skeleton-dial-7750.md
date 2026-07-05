@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-01 R Mancini Shappire Black &amp; Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2274"
 category: "Richard Mille > RM 011-01"
 image: "/cdn-image/ed56ca53de80d119e0c735dc.jpg"
 images: ["/cdn-image/ed56ca53de80d119e0c735dc.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

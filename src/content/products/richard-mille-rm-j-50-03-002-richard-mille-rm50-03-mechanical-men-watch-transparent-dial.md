@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM50-03 Mechanical Men Watch Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-50-03-002"
 category: "Richard Mille > RM 50-03"
 image: "/cdn-image/41aa84dfcd9dddabf6f501bd.jpg"
 images: ["/cdn-image/41aa84dfcd9dddabf6f501bd.jpg", "/cdn-image/a98978e1569812ffad02b683.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

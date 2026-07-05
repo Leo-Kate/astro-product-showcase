@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 EURF Rose Gold Skeleton Silver Skull Dial Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2312"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/159debfa248f56d4311bec33.jpg"
 images: ["/cdn-image/159debfa248f56d4311bec33.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

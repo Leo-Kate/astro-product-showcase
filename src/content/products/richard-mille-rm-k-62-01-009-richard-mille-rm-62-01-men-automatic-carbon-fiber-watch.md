@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 62-01 Men Automatic Carbon Fiber Watch"
 brand: "Richard Mille"
 sku: "RM-K-62-01-009"
 category: "Richard Mille > RM 62-01"
 image: "/cdn-image/a512778f30dab2c49ed6920b.jpg"
 images: ["/cdn-image/a512778f30dab2c49ed6920b.jpg", "/cdn-image/f56d24b129fbb623afc628ef.jpg", "/cdn-image/ce92086a15517ca1547e398f.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

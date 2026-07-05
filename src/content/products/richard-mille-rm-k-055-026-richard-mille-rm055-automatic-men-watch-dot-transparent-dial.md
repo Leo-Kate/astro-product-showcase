@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Automatic Men Watch Dot Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-K-055-026"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/3aec448e5047b841c7f09c52.jpg"
 images: ["/cdn-image/3aec448e5047b841c7f09c52.jpg", "/cdn-image/9f73f069216a6b752ae4dae1.jpg", "/cdn-image/7d3f0749bd6755924479ccb2.jpg", "/cdn-image/dda2a6ca39ea628ad958e4db.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

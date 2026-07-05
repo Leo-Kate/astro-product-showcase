@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM50-03 Mechanical Men Canvas Strap Titanium Watch"
 brand: "Richard Mille"
 sku: "RM-J-50-03-001"
 category: "Richard Mille > RM 50-03"
 image: "/cdn-image/c51eb6a363f5ac4e178af2a1.jpg"
 images: ["/cdn-image/c51eb6a363f5ac4e178af2a1.jpg", "/cdn-image/138ba88938b91b87b87aa777.jpg", "/cdn-image/2a0c73e8c39d857826be5c09.jpg", "/cdn-image/f27c80a98a244e4ccb1df871.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

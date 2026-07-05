@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM028 PVD Black Dial Swiss 7751"
 brand: "Richard Mille"
 sku: "RMTO2741"
 category: "Richard Mille > RM 028"
 image: "/cdn-image/cc5678dba260febb9d3ac4ca.jpg"
 images: ["/cdn-image/cc5678dba260febb9d3ac4ca.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

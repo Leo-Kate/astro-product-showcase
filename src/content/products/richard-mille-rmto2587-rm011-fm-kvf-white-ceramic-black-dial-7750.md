@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM KVF White Ceramic Black Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2587"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/bc945cf69b8e2e3bdc98d9ff.jpg"
 images: ["/cdn-image/bc945cf69b8e2e3bdc98d9ff.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

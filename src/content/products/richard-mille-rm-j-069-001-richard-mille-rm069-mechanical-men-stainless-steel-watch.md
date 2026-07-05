@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM069 Mechanical Men Stainless Steel Watch"
 brand: "Richard Mille"
 sku: "RM-J-069-001"
 category: "Richard Mille > RM 069"
 image: "/cdn-image/f2d4e6a1596b20ec1582c4fb.jpg"
 images: ["/cdn-image/f2d4e6a1596b20ec1582c4fb.jpg", "/cdn-image/dd756fe67b1e1b106683495c.jpg", "/cdn-image/0763c769874d4684d1246a5e.jpg", "/cdn-image/0807c60f37adf56f811d25bc.jpg"]
-price: 39900.0
 in_stock: true
 ---
 

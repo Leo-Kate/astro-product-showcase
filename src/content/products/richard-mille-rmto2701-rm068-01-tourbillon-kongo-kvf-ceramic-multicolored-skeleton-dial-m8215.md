@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM068-01 Tourbillon Kongo KVF Ceramic Multicolored Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2701"
 category: "Richard Mille > RM 068-01"
 image: "/cdn-image/7b327cbc6ca18cca4c138e7a.jpg"
 images: ["/cdn-image/7b327cbc6ca18cca4c138e7a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

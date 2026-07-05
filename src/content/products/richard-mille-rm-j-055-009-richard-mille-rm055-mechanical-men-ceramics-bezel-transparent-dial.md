@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Mechanical Men Ceramics Bezel Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-055-009"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/46aee9031b25e539fdc4bd40.jpg"
 images: ["/cdn-image/46aee9031b25e539fdc4bd40.jpg", "/cdn-image/734f373dc719be272a33fc24.jpg", "/cdn-image/974ba63a325c8f0e4198e69b.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM68-01 Hand Wind Men Ceramics Bezel Rubber Band Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-68-01-004"
 category: "Richard Mille > RM 68-01"
 image: "/cdn-image/ccf0a948c83521052e850a82.jpg"
 images: ["/cdn-image/ccf0a948c83521052e850a82.jpg", "/cdn-image/dd776a822b296e11f2218d66.jpg", "/cdn-image/060bf96e185551ec96b3b951.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

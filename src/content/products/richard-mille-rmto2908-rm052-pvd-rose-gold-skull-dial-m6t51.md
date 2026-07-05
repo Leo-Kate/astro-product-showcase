@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 PVD Rose Gold Skull Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2908"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/12db52216f480e2da7402a04.jpg"
 images: ["/cdn-image/12db52216f480e2da7402a04.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

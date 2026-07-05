@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM07-03 Ladies Automatic Candy Dial Ceramics Bezel"
 brand: "Richard Mille"
 sku: "RM-J-07-03-001"
 category: "Richard Mille > RM 07-03"
 image: "/cdn-image/f6f4bec231920d5c60f3b58c.jpg"
 images: ["/cdn-image/f6f4bec231920d5c60f3b58c.jpg", "/cdn-image/2cf7afd0f6eb23e340f1e0fd.jpg", "/cdn-image/42b9776061e94212b5d6d5aa.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

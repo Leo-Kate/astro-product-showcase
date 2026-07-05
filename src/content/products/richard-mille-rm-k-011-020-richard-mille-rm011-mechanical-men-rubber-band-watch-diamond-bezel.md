@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Mechanical Men Rubber Band Watch Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-K-011-020"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/425506bab1f58c3173aa64b1.jpg"
 images: ["/cdn-image/425506bab1f58c3173aa64b1.jpg", "/cdn-image/fa4e6bcab12a61eac7e8cd5d.jpg", "/cdn-image/406be5f64ed9d7ff14e4ee1a.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

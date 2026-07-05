@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM010 Men Mechanical Stainless Steel Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-010-004"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/52ea5c904abdadfb58900ad9.jpg"
 images: ["/cdn-image/52ea5c904abdadfb58900ad9.jpg", "/cdn-image/42acf41ef770971a22e9a96e.jpg", "/cdn-image/5970ee64b6fbf307e18013bb.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

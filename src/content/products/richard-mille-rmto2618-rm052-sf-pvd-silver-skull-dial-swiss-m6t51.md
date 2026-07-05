@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 SF PVD Silver Skull Dial Swiss M6T51"
 brand: "Richard Mille"
 sku: "RMTO2618"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/df981e774365f395cd777c4d.jpg"
 images: ["/cdn-image/df981e774365f395cd777c4d.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

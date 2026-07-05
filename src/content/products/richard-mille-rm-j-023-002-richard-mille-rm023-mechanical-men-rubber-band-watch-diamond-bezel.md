@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM023 Mechanical Men Rubber Band Watch Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-J-023-002"
 category: "Richard Mille > RM 023"
 image: "/cdn-image/7d69de5309cdaa47f936c3ed.jpg"
 images: ["/cdn-image/7d69de5309cdaa47f936c3ed.jpg", "/cdn-image/612827441c9aa44702ddbf5c.jpg", "/cdn-image/fcae01a97600bb360ee479e5.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

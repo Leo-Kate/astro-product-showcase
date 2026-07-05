@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Chronograph Automatic Men&#8217;s Watch RM11"
 brand: "Richard Mille"
 sku: "RMTO2834"
 category: "Richard Mille > RM 11"
 image: "/cdn-image/c5e45b607e5d090dd107f017.jpg"
 images: ["/cdn-image/c5e45b607e5d090dd107f017.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

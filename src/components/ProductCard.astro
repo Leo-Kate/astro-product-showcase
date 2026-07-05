@@ -1,5 +1,5 @@
 ---
-import { collectionName, priceLabel } from '../lib/catalog';
+import { collectionName } from '../lib/catalog';
 
 const { product, priority = false } = Astro.props;
 const productPath = `/products/${product.id}/`;
@@ -22,7 +22,6 @@ const productCollection = collectionName(product.data.category);
 		<span class="product-card__title">{product.data.title}</span>
 		<span class="product-card__meta">
 			<span>{product.data.sku ?? 'Reference'}</span>
-			<span>{priceLabel(product.data.price)}</span>
 		</span>
 	</span>
 </a>

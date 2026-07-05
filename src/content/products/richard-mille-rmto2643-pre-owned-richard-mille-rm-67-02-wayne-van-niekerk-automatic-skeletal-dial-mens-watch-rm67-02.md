@@ -1,11 +1,10 @@
----
+﻿---
 title: "Pre-owned Richard Mille RM 67-02 Wayne Van Niekerk Automatic Skeletal Dial Men&#8217;s Watch RM67-02"
 brand: "Richard Mille"
 sku: "RMTO2643"
 category: "Richard Mille > RM 67-02"
 image: "/cdn-image/1e1810ca469ee1038974e4b0.jpg"
 images: ["/cdn-image/1e1810ca469ee1038974e4b0.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

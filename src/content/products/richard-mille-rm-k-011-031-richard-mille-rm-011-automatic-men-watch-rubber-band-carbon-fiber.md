@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 011 Automatic Men Watch Rubber Band Carbon Fiber"
 brand: "Richard Mille"
 sku: "RM-K-011-031"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/73bd0e87c6e3398901f25151.jpg"
 images: ["/cdn-image/73bd0e87c6e3398901f25151.jpg", "/cdn-image/fc92f9429fd2b5b280d2f3b2.jpg", "/cdn-image/32238855a71ff1035d82f5f0.jpg", "/cdn-image/c506a656501c9214e73c7f96.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

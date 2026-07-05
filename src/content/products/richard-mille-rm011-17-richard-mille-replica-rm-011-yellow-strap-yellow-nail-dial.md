@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Replica RM 011 Yellow Strap Yellow Nail Dial"
 brand: "Richard Mille"
 sku: "RM011-17"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/ee6ed3fcc04113757ad68081.jpg"
 images: ["/cdn-image/ee6ed3fcc04113757ad68081.jpg", "/cdn-image/8b991e663ad62d2d3d14b8a6.jpg", "/cdn-image/7380f1b6b011521588d1b788.jpg", "/cdn-image/0193d3fdbf7ff780887fea16.jpg", "/cdn-image/87d12568fc4328300a7236b3.jpg", "/cdn-image/00f05d9bcf1ea8e72181c8d6.jpg", "/cdn-image/a5e4147c65c139e33158fff7.jpg", "/cdn-image/6366e2cc483050235862ba51.jpg", "/cdn-image/c703723ca39631c3726b4e60.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

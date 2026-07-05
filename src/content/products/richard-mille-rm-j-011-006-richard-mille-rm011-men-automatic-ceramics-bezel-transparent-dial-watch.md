@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Men Automatic Ceramics Bezel Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-J-011-006"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/9a29559b7b0213c65c77c2fb.jpg"
 images: ["/cdn-image/9a29559b7b0213c65c77c2fb.jpg", "/cdn-image/a520bb4af75354dbb0a3fa29.jpg", "/cdn-image/f7c4c83ca9a3e8921c912930.jpg"]
-price: 99900.0
 in_stock: true
 ---
 

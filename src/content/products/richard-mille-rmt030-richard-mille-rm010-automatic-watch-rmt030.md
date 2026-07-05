@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM010 Automatic Watch &#8211; RMT030"
 brand: "Richard Mille"
 sku: "RMT030"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/e17958b985727cb9b8605cc9.jpg"
 images: ["/cdn-image/e17958b985727cb9b8605cc9.jpg", "/cdn-image/31592e04030a392096986443.jpg", "/cdn-image/7e7ea9df31305f9d09e41ecd.jpg", "/cdn-image/5c987c3b2360093a38f4795d.jpg", "/cdn-image/ea92ed17e06d4f81b9103919.jpg", "/cdn-image/23fc5f520b0aef741ba3dc62.jpg", "/cdn-image/7642ba7ee8f62b94b546d644.jpg", "/cdn-image/db5f3e9c7853c6dd66efdb7c.jpg", "/cdn-image/48178e9ab3fba8345b5d1da2.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

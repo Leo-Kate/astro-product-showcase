@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM035 PVD Black Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2537"
 category: "Richard Mille > RM 035"
 image: "/cdn-image/156d3d9e77f744024fe367e2.jpg"
 images: ["/cdn-image/156d3d9e77f744024fe367e2.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

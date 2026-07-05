@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM027 Hand Wind Men Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-027-001"
 category: "Richard Mille > RM 027"
 image: "/cdn-image/e1fe1da3dce52b52f59165ba.jpg"
 images: ["/cdn-image/e1fe1da3dce52b52f59165ba.jpg", "/cdn-image/e7db803091abe4acd3a2528a.jpg", "/cdn-image/7e2a8266a4287bb9ea1bb744.jpg"]
-price: 209900.0
 in_stock: true
 ---
 

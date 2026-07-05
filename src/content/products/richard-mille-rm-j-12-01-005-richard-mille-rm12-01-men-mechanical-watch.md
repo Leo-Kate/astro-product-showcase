@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM12-01 Men Mechanical Watch"
 brand: "Richard Mille"
 sku: "RM-J-12-01-005"
 category: "Richard Mille > RM 12-01"
 image: "/cdn-image/03048952c9cce851c22aef02.jpg"
 images: ["/cdn-image/03048952c9cce851c22aef02.jpg", "/cdn-image/469a425cc8d151543f5390f8.jpg", "/cdn-image/57786e915adde2eb129cee17.jpg", "/cdn-image/1438ad833f6529a9f328bac2.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

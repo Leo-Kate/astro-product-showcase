@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Rm11-03"
 brand: "Richard Mille"
 sku: "RMTO2870"
 category: "Richard Mille > RM 11-03"
 image: "/cdn-image/ad38550c246071b3a46affb3.jpg"
 images: ["/cdn-image/ad38550c246071b3a46affb3.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

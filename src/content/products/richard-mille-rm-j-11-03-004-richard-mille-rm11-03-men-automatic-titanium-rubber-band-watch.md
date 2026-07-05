@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM11-03 Men Automatic Titanium Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-J-11-03-004"
 category: "Richard Mille > RM 11-03"
 image: "/cdn-image/6e43ae09a788e9ca59a83f4b.jpg"
 images: ["/cdn-image/6e43ae09a788e9ca59a83f4b.jpg", "/cdn-image/86585945fa714d7b204dcb40.jpg", "/cdn-image/c2b33ed5be3622b1dbfde1b8.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

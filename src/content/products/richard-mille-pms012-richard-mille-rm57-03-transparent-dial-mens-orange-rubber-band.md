@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM57-03 Transparent Dial Men’s Orange Rubber Band"
 brand: "Richard Mille"
 sku: "PMS012"
 category: "Richard Mille > RM 57-03"
 image: "/cdn-image/631df02b003187c8a0039493.jpg"
 images: ["/cdn-image/631df02b003187c8a0039493.jpg", "/cdn-image/3153ef924ecfb7a4cad4e545.jpg", "/cdn-image/d6133e104ea06a538f41cff3.jpg", "/cdn-image/1f7706de205baac68348251c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

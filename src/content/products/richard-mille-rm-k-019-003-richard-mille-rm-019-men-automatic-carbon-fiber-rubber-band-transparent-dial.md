@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 019 Men Automatic Carbon Fiber Rubber Band Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-K-019-003"
 category: "Richard Mille > RM 019"
 image: "/cdn-image/a344ecbea59281144d54cb69.jpg"
 images: ["/cdn-image/a344ecbea59281144d54cb69.jpg", "/cdn-image/a02fce6dae0364fc5781e06d.jpg", "/cdn-image/b8649b124a1e925780584cc3.jpg", "/cdn-image/8fa1a09c261779d63006d156.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM028 PVD Red Dial 7751"
 brand: "Richard Mille"
 sku: "RMTO2703"
 category: "Richard Mille > RM 028"
 image: "/cdn-image/8fa795c2f4dcf938af4b64e3.jpg"
 images: ["/cdn-image/8fa795c2f4dcf938af4b64e3.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

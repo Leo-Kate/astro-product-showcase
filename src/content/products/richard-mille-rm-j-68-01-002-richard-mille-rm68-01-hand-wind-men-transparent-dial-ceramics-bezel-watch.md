@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM68-01 Hand Wind Men Transparent Dial Ceramics Bezel Watch"
 brand: "Richard Mille"
 sku: "RM-J-68-01-002"
 category: "Richard Mille > RM 68-01"
 image: "/cdn-image/caf8578cc0304987e20543c0.jpg"
 images: ["/cdn-image/caf8578cc0304987e20543c0.jpg", "/cdn-image/a215dfa2d6f35b326fba15a4.jpg", "/cdn-image/46b3e2c980a234f297ae0e54.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

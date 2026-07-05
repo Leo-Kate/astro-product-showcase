@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052-01 JBF White Forged Carbon Skeleton Dial Swiss Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2412"
 category: "Richard Mille > RM 052-01"
 image: "/cdn-image/ad4ddc23f8263185bc2dee5b.jpg"
 images: ["/cdn-image/ad4ddc23f8263185bc2dee5b.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

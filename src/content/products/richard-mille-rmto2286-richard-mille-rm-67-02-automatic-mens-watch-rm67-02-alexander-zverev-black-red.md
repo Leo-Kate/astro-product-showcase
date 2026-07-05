@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 67-02 Automatic Men&#8217;s Watch RM67-02 Alexander Zverev Black/Red"
 brand: "Richard Mille"
 sku: "RMTO2286"
 category: "Richard Mille > RM 67-02"
 image: "/cdn-image/ff65f19c12e1d890b8b53bb7.jpg"
 images: ["/cdn-image/ff65f19c12e1d890b8b53bb7.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

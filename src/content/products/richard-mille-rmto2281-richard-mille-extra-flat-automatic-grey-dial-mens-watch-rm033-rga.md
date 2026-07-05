@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Extra Flat Automatic Grey Dial Men&#8217;s Watch RM033-RGA"
 brand: "Richard Mille"
 sku: "RMTO2281"
 category: "Richard Mille > RM 033-RGA"
 image: "/cdn-image/c3d2095b12782c0e3b22ef55.jpg"
 images: ["/cdn-image/c3d2095b12782c0e3b22ef55.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 SF PVD &amp; Diamond Diamond Skull Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2446"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/6701d98219f91ac8246e903e.jpg"
 images: ["/cdn-image/6701d98219f91ac8246e903e.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

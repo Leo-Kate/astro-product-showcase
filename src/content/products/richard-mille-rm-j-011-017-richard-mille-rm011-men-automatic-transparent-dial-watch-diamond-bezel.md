@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Men Automatic Transparent Dial Watch Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-J-011-017"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/7bb2d7329edc573562a37db7.jpg"
 images: ["/cdn-image/7bb2d7329edc573562a37db7.jpg", "/cdn-image/b6a9c3f8ea99a5f99ba33c2f.jpg", "/cdn-image/1b7f18b9dd4c3c3b96c4f608.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

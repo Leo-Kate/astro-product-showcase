@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM057 Dragon Phoenix SS Case Diamonds Bezel Silver Dial Black Rubber Strap"
 brand: "Richard Mille"
 sku: "RMTO2479"
 category: "Richard Mille > RM 057"
 image: "/cdn-image/366fbacc0f1865905a8b35c5.jpg"
 images: ["/cdn-image/366fbacc0f1865905a8b35c5.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

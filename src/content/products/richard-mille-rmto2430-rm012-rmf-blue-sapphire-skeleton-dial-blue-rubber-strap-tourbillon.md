@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM012 RMF Blue Sapphire Skeleton Dial Blue Rubber Strap Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2430"
 category: "Richard Mille > RM 012"
 image: "/cdn-image/d0d079ae25b506e0ee1eab23.jpg"
 images: ["/cdn-image/d0d079ae25b506e0ee1eab23.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

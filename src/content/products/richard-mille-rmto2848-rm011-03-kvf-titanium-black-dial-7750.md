@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-03 KVF Titanium Black Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2848"
 category: "Richard Mille > RM 011-03"
 image: "/cdn-image/605434418f3bd885a73ea5a2.jpg"
 images: ["/cdn-image/605434418f3bd885a73ea5a2.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

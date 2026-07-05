@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM50-03 Mechanical Men Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-50-03-003"
 category: "Richard Mille > RM 50-03"
 image: "/cdn-image/1c749b7499ce299deb815281.jpg"
 images: ["/cdn-image/1c749b7499ce299deb815281.jpg", "/cdn-image/47abb4c8af5e4d10d1f8d80a.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

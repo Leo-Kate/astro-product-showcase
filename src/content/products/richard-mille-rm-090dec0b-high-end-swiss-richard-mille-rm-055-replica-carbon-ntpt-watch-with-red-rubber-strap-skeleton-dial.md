@@ -1,11 +1,10 @@
----
+﻿---
 title: "High-End Swiss Richard Mille RM 055 Replica Carbon NTPT Watch with Red Rubber Strap &#038; Skeleton Dial"
 brand: "Richard Mille"
 sku: "RM-090DEC0B"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/801f534ddb4b8af28cb2c5f9.jpg"
 images: ["/cdn-image/801f534ddb4b8af28cb2c5f9.jpg", "/cdn-image/82a4461e3266e1a94785e580.jpg", "/cdn-image/7ca327de461a8608c42376e6.jpg", "/cdn-image/1ceb6c9c1e79128f1c81b875.jpg", "/cdn-image/de3809a464710c49c2caf852.jpg", "/cdn-image/20b09c3810bff734a4707a6c.jpg", "/cdn-image/5c1b54e1a35b939eb86999ab.jpg", "/cdn-image/b5a82e79e3995b2d44180e2b.jpg", "/cdn-image/527004781bbb8bcb278f3e8f.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

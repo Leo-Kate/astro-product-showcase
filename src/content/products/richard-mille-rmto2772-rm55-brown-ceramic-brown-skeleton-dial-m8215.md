@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM55 Brown Ceramic Brown Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2772"
 category: "Richard Mille > RM 55"
 image: "/cdn-image/5bc80bd4324752dccf001c01.jpg"
 images: ["/cdn-image/5bc80bd4324752dccf001c01.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

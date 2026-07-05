@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM63-01 Dizzy Hands V9F Rose Gold Skeleton Dial Swiss 23J"
 brand: "Richard Mille"
 sku: "RMTO2821"
 category: "Richard Mille > RM 63-01"
 image: "/cdn-image/8d1e0d0da48fd2e45be774a4.jpg"
 images: ["/cdn-image/8d1e0d0da48fd2e45be774a4.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

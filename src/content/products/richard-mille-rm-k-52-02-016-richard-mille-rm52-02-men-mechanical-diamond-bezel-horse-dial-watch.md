@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Men Mechanical Diamond Bezel Horse Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-52-02-016"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/016e9d0e3b18b6bddb47e001.jpg"
 images: ["/cdn-image/016e9d0e3b18b6bddb47e001.jpg", "/cdn-image/3f199b491de4d45cbbba0755.jpg", "/cdn-image/ce676bfb64f0e34c4ad83672.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM51-02 Mechanical Ladies Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-51-02-010"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/5fd0f224562765d185c4ac33.jpg"
 images: ["/cdn-image/5fd0f224562765d185c4ac33.jpg", "/cdn-image/9b704792df14956418e10354.jpg", "/cdn-image/1beb7b5d7353eea30955f03c.jpg", "/cdn-image/5e399e343b3b03ebae0ee613.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 005 Men Automatic Carbon Fiber Transparent Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-005-001"
 category: "Richard Mille > RM 005"
 image: "/cdn-image/b2147a098d2fea030d3dfffe.jpg"
 images: ["/cdn-image/b2147a098d2fea030d3dfffe.jpg", "/cdn-image/965f5206578b297aa2869269.jpg", "/cdn-image/aab173092bb47315cbeb4f15.jpg", "/cdn-image/409dc5c3cffc6e4bcb4f4d98.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

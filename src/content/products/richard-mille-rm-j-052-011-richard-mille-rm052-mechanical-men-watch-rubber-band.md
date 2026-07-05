@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM052 Mechanical Men Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-052-011"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/f2bc05aee9b48d8f6bb8ee21.jpg"
 images: ["/cdn-image/f2bc05aee9b48d8f6bb8ee21.jpg", "/cdn-image/ae94976dc36cef8b7afe8094.jpg", "/cdn-image/15867a57209a7ddb0322b0fb.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

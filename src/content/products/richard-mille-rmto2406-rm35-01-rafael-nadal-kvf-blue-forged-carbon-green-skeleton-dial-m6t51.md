@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-01 Rafael Nadal KVF Blue Forged Carbon Green &amp; Skeleton Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2406"
 category: "Richard Mille > RM 35-01"
 image: "/cdn-image/7af49c972be554827ab22a2a.jpg"
 images: ["/cdn-image/7af49c972be554827ab22a2a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

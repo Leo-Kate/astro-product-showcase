@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 010 Automatic Men Carbon Fiber Watch"
 brand: "Richard Mille"
 sku: "RM-K-010-006"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/8da7b9ce240e9f6cfeec3c4e.jpg"
 images: ["/cdn-image/8da7b9ce240e9f6cfeec3c4e.jpg", "/cdn-image/789d6a4bab9acffa07f77d8b.jpg", "/cdn-image/2df31efa9c1f877bc4cd4d6c.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

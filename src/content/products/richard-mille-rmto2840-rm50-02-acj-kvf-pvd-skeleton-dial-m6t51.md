@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM50-02 ACJ KVF PVD Skeleton Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2840"
 category: "Richard Mille > RM 50-02"
 image: "/cdn-image/8744421390c54bd379212462.jpg"
 images: ["/cdn-image/8744421390c54bd379212462.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

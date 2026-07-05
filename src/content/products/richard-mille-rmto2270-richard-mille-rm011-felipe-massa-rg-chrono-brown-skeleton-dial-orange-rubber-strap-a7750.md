@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Felipe Massa RG Chrono Brown Skeleton Dial Orange Rubber Strap A7750"
 brand: "Richard Mille"
 sku: "RMTO2270"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/52fd627ce96c487e18ca9251.jpg"
 images: ["/cdn-image/52fd627ce96c487e18ca9251.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

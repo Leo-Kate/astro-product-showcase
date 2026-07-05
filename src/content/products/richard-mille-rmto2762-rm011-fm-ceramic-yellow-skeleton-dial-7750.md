@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM Ceramic Yellow Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2762"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/72c846522bec26c76cd3d39a.jpg"
 images: ["/cdn-image/72c846522bec26c76cd3d39a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

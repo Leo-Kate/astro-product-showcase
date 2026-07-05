@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 052 Men Automatic Diamonds Skull Dial Stainless Steel Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-052-012"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/35124e08a3ba0ee1f1fc66d7.jpg"
 images: ["/cdn-image/35124e08a3ba0ee1f1fc66d7.jpg", "/cdn-image/afeb7b8c1f32788e2257591a.jpg", "/cdn-image/aa03985c933fe84e7c1eea9f.jpg", "/cdn-image/77728265ee7b339c6cefa4bb.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

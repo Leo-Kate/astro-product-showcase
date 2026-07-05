@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM07 Ladies Ceramic Red &amp; Diamonds Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2726"
 category: "Richard Mille > RM 07"
 image: "/cdn-image/330a9c4477455275730bd5fc.jpg"
 images: ["/cdn-image/330a9c4477455275730bd5fc.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM010 Automatic Men Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-010-019"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/b76acf2beabb7747998508af.jpg"
 images: ["/cdn-image/b76acf2beabb7747998508af.jpg", "/cdn-image/0ca454f7881a75750c13aace.jpg", "/cdn-image/741f6c563bdfe46265aa0e2d.jpg", "/cdn-image/55c9ecc02e9e006fb6944c67.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 SF Rose Gold &amp; Diamond Diamond Skull Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2669"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/8f2205c6ca18617641208c65.jpg"
 images: ["/cdn-image/8f2205c6ca18617641208c65.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 011 Transparent Dial Men’s Black Rubber Band"
 brand: "Richard Mille"
 sku: "PMS011"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/5ae6718726ac152db46ce23e.jpg"
 images: ["/cdn-image/5ae6718726ac152db46ce23e.jpg", "/cdn-image/ee57de2c1db7b6daecf10513.jpg", "/cdn-image/dc8533e9cee151c2a158ceb2.jpg", "/cdn-image/032c5e147b4cab68b65b2166.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

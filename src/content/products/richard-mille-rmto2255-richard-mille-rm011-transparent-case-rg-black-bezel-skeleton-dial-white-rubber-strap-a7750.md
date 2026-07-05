@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Transparent Case RG/Black Bezel Skeleton Dial White Rubber Strap A7750"
 brand: "Richard Mille"
 sku: "RMTO2255"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/9b2a9821b76a552eea2bc47d.jpg"
 images: ["/cdn-image/9b2a9821b76a552eea2bc47d.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

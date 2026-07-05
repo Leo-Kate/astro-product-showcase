@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM61 PVD Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2913"
 category: "Richard Mille > RM 61"
 image: "/cdn-image/05ec31e8ff6d65405099e56c.jpg"
 images: ["/cdn-image/05ec31e8ff6d65405099e56c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

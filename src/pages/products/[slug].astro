@@ -1,7 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../components/BaseLayout.astro';
-import { collectionName, collectionPath, priceLabel, productInquiryHref } from '../../lib/catalog';
+import { collectionName, collectionPath, productInquiryHref } from '../../lib/catalog';
 
 export async function getStaticPaths() {
 	const products = await getCollection('products');
@@ -37,7 +37,6 @@ const askHref = productInquiryHref(product.data.title, product.data.sku, product
 			{product.data.excerpt && <p class="product-detail__summary">{product.data.excerpt}</p>}
 
 			<div class="product-detail__commerce">
-				<span>{priceLabel(product.data.price)}</span>
 				<strong>{product.data.in_stock ? 'Available' : 'Unavailable'}</strong>
 			</div>
 
@@ -146,12 +145,10 @@ const askHref = productInquiryHref(product.data.title, product.data.sku, product
 
 	.product-detail__commerce {
 		display: grid;
-		grid-template-columns: 1fr 1fr;
 		border-top: 1px solid var(--ink);
 		border-bottom: 1px solid var(--line);
 	}
 
-	.product-detail__commerce span,
 	.product-detail__commerce strong {
 		padding: 18px 0;
 		font-size: 0.86rem;
@@ -161,7 +158,6 @@ const askHref = productInquiryHref(product.data.title, product.data.sku, product
 
 	.product-detail__commerce strong {
 		color: var(--red);
-		text-align: right;
 	}
 
 	.product-detail__actions {
@@ -257,15 +253,6 @@ const askHref = productInquiryHref(product.data.title, product.data.sku, product
 		.product-detail__gallery,
 		.product-detail__facts {
 			grid-template-columns: repeat(2, minmax(0, 1fr));
-		}
-
-		.product-detail__commerce {
-			grid-template-columns: 1fr;
-		}
-
-		.product-detail__commerce strong {
-			text-align: left;
-			border-top: 1px solid var(--line);
 		}
 
 		.product-detail h1 {

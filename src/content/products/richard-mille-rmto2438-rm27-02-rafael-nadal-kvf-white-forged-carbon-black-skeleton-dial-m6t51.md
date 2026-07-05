@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM27-02 Rafael Nadal KVF White Forged Carbon Black Skeleton Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2438"
 category: "Richard Mille > RM 27-02"
 image: "/cdn-image/8fa7055b015329569bc65c56.jpg"
 images: ["/cdn-image/8fa7055b015329569bc65c56.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

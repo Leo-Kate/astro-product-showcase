@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM 53-01 Tourbillon Pablo Mac Donough JBF Forged Carbon Blue Skeleton Dial Tourbillon V2"
 brand: "Richard Mille"
 sku: "RMTO2337"
 category: "Richard Mille > RM 53-01"
 image: "/cdn-image/f8d8e45d69c5220e2b3c2e98.jpg"
 images: ["/cdn-image/f8d8e45d69c5220e2b3c2e98.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

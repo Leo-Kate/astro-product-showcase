@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM023 Men Automatic Roman Numeral Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-023-008"
 category: "Richard Mille > RM 023"
 image: "/cdn-image/90620d5009b2e8846e6bcab9.jpg"
 images: ["/cdn-image/90620d5009b2e8846e6bcab9.jpg", "/cdn-image/eb10cb65d602485338dd2a2d.jpg", "/cdn-image/77b1023b33e93fef619ea98f.jpg", "/cdn-image/5446ca37e839a47399dfa992.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

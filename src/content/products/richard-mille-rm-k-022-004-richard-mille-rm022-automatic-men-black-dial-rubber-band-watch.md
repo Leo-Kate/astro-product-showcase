@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM022 Automatic Men Black Dial Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-022-004"
 category: "Richard Mille > RM 022"
 image: "/cdn-image/6398b4bcaa3488d9c7cb8d8f.jpg"
 images: ["/cdn-image/6398b4bcaa3488d9c7cb8d8f.jpg", "/cdn-image/bfe52b2d3db8c88135c6144a.jpg", "/cdn-image/093d32b4aabbb44f985657f2.jpg", "/cdn-image/5ea1eb2e84585fd006517e3a.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

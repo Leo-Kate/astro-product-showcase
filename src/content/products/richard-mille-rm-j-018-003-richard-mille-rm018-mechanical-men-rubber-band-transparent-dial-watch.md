@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM018 Mechanical Men Rubber Band Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-J-018-003"
 category: "Richard Mille > RM 018"
 image: "/cdn-image/717040237fcc870ac183e722.jpg"
 images: ["/cdn-image/717040237fcc870ac183e722.jpg", "/cdn-image/2191b67f881928315777658c.jpg", "/cdn-image/70db94b70bc0f7b1bec65e70.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

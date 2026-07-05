@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 11-03 McLaren Transparent Dial Unisex Watch RM 11-03 McLaren"
 brand: "Richard Mille"
 sku: "RMTO2578"
 category: "Richard Mille > RM 11-03"
 image: "/cdn-image/5cf7be0935b58b54680b55db.jpg"
 images: ["/cdn-image/5cf7be0935b58b54680b55db.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

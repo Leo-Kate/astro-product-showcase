@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Men Mechanical Watch Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-055-014"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/ed4ff4386befd5f0ee88cb8f.jpg"
 images: ["/cdn-image/ed4ff4386befd5f0ee88cb8f.jpg", "/cdn-image/ebac91cf268dd21f49d09ae0.jpg", "/cdn-image/cb4ac19ac1c8f03dce788ed2.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

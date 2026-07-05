@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM035 PVD Yellow Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2325"
 category: "Richard Mille > RM 035"
 image: "/cdn-image/e545a3479af3f2e4652f7aff.jpg"
 images: ["/cdn-image/e545a3479af3f2e4652f7aff.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

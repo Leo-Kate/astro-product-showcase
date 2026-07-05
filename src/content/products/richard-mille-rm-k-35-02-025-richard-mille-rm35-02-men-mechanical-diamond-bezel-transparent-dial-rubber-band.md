@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Men Mechanical Diamond Bezel Transparent Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-35-02-025"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/ec61f5671a45341d2dd5bde7.jpg"
 images: ["/cdn-image/ec61f5671a45341d2dd5bde7.jpg", "/cdn-image/b7a5a31532f9a6e59b9990b5.jpg", "/cdn-image/44aefbc8cdaa1026d448bd7b.jpg", "/cdn-image/ec7097b50ad8e693f00f5f88.jpg", "/cdn-image/f06b2c69cb8b7b5ee31560da.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

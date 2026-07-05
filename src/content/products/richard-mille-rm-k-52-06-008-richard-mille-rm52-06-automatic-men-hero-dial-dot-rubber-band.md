@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-06 Automatic Men Hero Dial Dot Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-52-06-008"
 category: "Richard Mille > RM 52-06"
 image: "/cdn-image/c12528d56bd1ea6105b62ad2.jpg"
 images: ["/cdn-image/c12528d56bd1ea6105b62ad2.jpg", "/cdn-image/6e2e3e5a984c1c5af4c2e069.jpg", "/cdn-image/e0571e532b6c22717181e406.jpg", "/cdn-image/270c991620ea58d30bf6aba8.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

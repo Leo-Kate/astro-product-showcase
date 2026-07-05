@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM055 KVF V3 NTPT White Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2464"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/f5559f586c7b2da237b36a64.jpg"
 images: ["/cdn-image/f5559f586c7b2da237b36a64.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

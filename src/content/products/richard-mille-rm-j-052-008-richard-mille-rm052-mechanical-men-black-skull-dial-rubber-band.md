@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM052 Mechanical Men Black Skull Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-052-008"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/1a5eaa41c5a5a4ef4f43bbfb.jpg"
 images: ["/cdn-image/1a5eaa41c5a5a4ef4f43bbfb.jpg", "/cdn-image/bf3017cda51a94410518322b.jpg", "/cdn-image/ba8735c26e73c450aff658b5.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

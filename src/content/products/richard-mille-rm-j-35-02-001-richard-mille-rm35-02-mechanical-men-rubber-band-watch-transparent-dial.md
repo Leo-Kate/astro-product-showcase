@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Mechanical Men Rubber Band Watch Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-35-02-001"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/98ac540752e8962c3c02a6c9.jpg"
 images: ["/cdn-image/98ac540752e8962c3c02a6c9.jpg", "/cdn-image/3f7a7f69ecf362b4830e1c97.jpg", "/cdn-image/e313bb254d6e2d89ae1fded2.jpg", "/cdn-image/3f01235cabc179c4db21dbf4.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

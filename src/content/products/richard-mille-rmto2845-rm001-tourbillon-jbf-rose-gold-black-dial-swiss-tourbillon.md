@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM001 Tourbillon JBF Rose Gold Black Dial Swiss Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2845"
 category: "Richard Mille > RM 001"
 image: "/cdn-image/163e136c16432606175273fa.jpg"
 images: ["/cdn-image/163e136c16432606175273fa.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

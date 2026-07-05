@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM035 Mechanical Men Watch Stainless Steel"
 brand: "Richard Mille"
 sku: "RM-J-035-011"
 category: "Richard Mille > RM 035"
 image: "/cdn-image/a0d6603dbd811a20a51b6079.jpg"
 images: ["/cdn-image/a0d6603dbd811a20a51b6079.jpg", "/cdn-image/ba58e64110147f08f4a73968.jpg", "/cdn-image/a42d4c850bf012becace540b.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 67-01 Black Dial Men&#8217;s Rubber Band Automatic"
 brand: "Richard Mille"
 sku: "RM-J-67-01-001"
 category: "Richard Mille > RM 67-01"
 image: "/cdn-image/7867b8c5e0aa3cfa1b7e5818.jpg"
 images: ["/cdn-image/7867b8c5e0aa3cfa1b7e5818.jpg", "/cdn-image/09a3ca7670272b58df37ef77.jpg", "/cdn-image/879e92e0fb7f4383d3007058.jpg", "/cdn-image/399fae08ffd4bacf5ce5c429.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

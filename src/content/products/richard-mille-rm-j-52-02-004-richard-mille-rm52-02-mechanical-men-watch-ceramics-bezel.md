@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Mechanical Men Watch Ceramics Bezel"
 brand: "Richard Mille"
 sku: "RM-J-52-02-004"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/e6bc5de51d7e0d8703960023.jpg"
 images: ["/cdn-image/e6bc5de51d7e0d8703960023.jpg", "/cdn-image/307e7e51f5847ea852a79515.jpg", "/cdn-image/8ac5345695815227a50621e8.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

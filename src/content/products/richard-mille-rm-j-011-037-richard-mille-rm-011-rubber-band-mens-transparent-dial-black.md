@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 011 Rubber Band Men&#8217;s Transparent Dial Black"
 brand: "Richard Mille"
 sku: "RM-J-011-037"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/861144c0cc8fb1b99012e0ad.jpg"
 images: ["/cdn-image/861144c0cc8fb1b99012e0ad.jpg", "/cdn-image/4a3db3c51bbdf04e2a9a9f8e.jpg", "/cdn-image/33546535f8e2668b90226375.jpg", "/cdn-image/8b76ada5cfea5cb3211a8116.jpg"]
-price: 99900.0
 in_stock: true
 ---
 

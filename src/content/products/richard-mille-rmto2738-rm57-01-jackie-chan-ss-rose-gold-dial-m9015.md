@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM57-01 Jackie Chan SS Rose Gold Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2738"
 category: "Richard Mille > RM 57-01"
 image: "/cdn-image/701a3b346ce4c49ceccc45df.jpg"
 images: ["/cdn-image/701a3b346ce4c49ceccc45df.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 07-01 Automatic Ladies Black With Diamonds Dial Stainless Steel"
 brand: "Richard Mille"
 sku: "RM-K-07-01-016"
 category: "Richard Mille > RM 07-01"
 image: "/cdn-image/7b5dfab616e53426bf9b9f21.jpg"
 images: ["/cdn-image/7b5dfab616e53426bf9b9f21.jpg", "/cdn-image/a3605efa26f5a194d7558eae.jpg", "/cdn-image/f6d6f1f8a1565458a2c08fc9.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Replica RM 53-01 Blue Rubber Strap"
 brand: "Richard Mille"
 sku: "RM53-01-1"
 category: "Richard Mille > RM 53-01"
 image: "/cdn-image/63443aa694924936ef2a6e43.jpg"
 images: ["/cdn-image/63443aa694924936ef2a6e43.jpg", "/cdn-image/56401df9704e230370c9f5db.jpg", "/cdn-image/2f391679baf1175b50e29391.jpg", "/cdn-image/1d77fe57a874fd339549c9d7.jpg", "/cdn-image/22383fe89f224ec2252b6c3d.jpg", "/cdn-image/7d137942137df573c9076e9e.jpg", "/cdn-image/43ca04a13ec47131d59eaf46.jpg", "/cdn-image/67a7c13a146bc9a6ebed91a5.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 010 Men Automatic Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-010-005"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/989c38fb502501277aebb7cc.jpg"
 images: ["/cdn-image/989c38fb502501277aebb7cc.jpg", "/cdn-image/091be92b52bdcf653f0e97b7.jpg", "/cdn-image/a8185f7972203b6df19142ee.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

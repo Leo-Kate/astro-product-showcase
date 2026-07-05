@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 Chrono KVF Rose Gold Black Dial 7750 V3"
 brand: "Richard Mille"
 sku: "RMTO2904"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/28066934811e0dd49fe36c08.jpg"
 images: ["/cdn-image/28066934811e0dd49fe36c08.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

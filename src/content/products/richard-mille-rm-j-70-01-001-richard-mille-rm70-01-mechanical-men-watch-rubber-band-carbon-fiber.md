@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM70-01 Mechanical Men Watch Rubber Band Carbon Fiber"
 brand: "Richard Mille"
 sku: "RM-J-70-01-001"
 category: "Richard Mille > RM 70-01"
 image: "/cdn-image/dde4f278332786c7befb38c9.jpg"
 images: ["/cdn-image/dde4f278332786c7befb38c9.jpg", "/cdn-image/d0ee29abd0d39bcf85592cba.jpg", "/cdn-image/e32a10af305011a77baa97c2.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM11-03 Automatic Men Titanium Rubber Band Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-11-03-005"
 category: "Richard Mille > RM 11-03"
 image: "/cdn-image/baccd4c2546ff39385781325.jpg"
 images: ["/cdn-image/baccd4c2546ff39385781325.jpg", "/cdn-image/9ee70c4137a562ef9d0dc0b0.jpg", "/cdn-image/39c931acf198d574feb453a1.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

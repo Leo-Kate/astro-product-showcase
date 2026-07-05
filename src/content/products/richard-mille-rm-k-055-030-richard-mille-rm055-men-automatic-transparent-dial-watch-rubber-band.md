@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Men Automatic Transparent Dial Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-055-030"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/24d9617740408e2cbd21735e.jpg"
 images: ["/cdn-image/24d9617740408e2cbd21735e.jpg", "/cdn-image/ef0cd8044a527e35710d0146.jpg", "/cdn-image/145c7e4039edc6ecf638d50a.jpg", "/cdn-image/4a748163915266c94db46c42.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

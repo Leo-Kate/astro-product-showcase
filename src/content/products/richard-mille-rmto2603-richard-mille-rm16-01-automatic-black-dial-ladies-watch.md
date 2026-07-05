@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM16-01 Automatic Black Dial Ladies Watch"
 brand: "Richard Mille"
 sku: "RMTO2603"
 category: "Richard Mille > RM 16-01"
 image: "/cdn-image/26ec8a8e89eb6cd81f00c7b4.jpg"
 images: ["/cdn-image/26ec8a8e89eb6cd81f00c7b4.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

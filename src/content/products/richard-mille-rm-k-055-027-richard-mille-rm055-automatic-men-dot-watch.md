@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Automatic Men Dot Watch"
 brand: "Richard Mille"
 sku: "RM-K-055-027"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/4e461bf226c915740849b920.jpg"
 images: ["/cdn-image/4e461bf226c915740849b920.jpg", "/cdn-image/8a81d6ecd0c7578bd297b35a.jpg", "/cdn-image/98c55d8a729f2bfbd1091102.jpg", "/cdn-image/0eb39c96646c261ff933d41c.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

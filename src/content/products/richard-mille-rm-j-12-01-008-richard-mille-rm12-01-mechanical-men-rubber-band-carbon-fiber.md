@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM12-01 Mechanical Men Rubber Band Carbon Fiber"
 brand: "Richard Mille"
 sku: "RM-J-12-01-008"
 category: "Richard Mille > RM 12-01"
 image: "/cdn-image/6710240c8e9ec58772488617.jpg"
 images: ["/cdn-image/6710240c8e9ec58772488617.jpg", "/cdn-image/51ff8d6b3a0b319112cc3c81.jpg", "/cdn-image/b401293cb0c49db85f05449e.jpg", "/cdn-image/f35c0194eebcda11592e323e.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

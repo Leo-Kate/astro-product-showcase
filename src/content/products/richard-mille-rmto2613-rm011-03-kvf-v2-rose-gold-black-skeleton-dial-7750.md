@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-03 KVF V2 Rose Gold Black Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2613"
 category: "Richard Mille > RM 011-03"
 image: "/cdn-image/f0fdb4d916f6ca7dd17f363d.jpg"
 images: ["/cdn-image/f0fdb4d916f6ca7dd17f363d.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

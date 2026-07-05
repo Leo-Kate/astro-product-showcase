@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM035 Men Mechanical Rubber Band Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-035-003"
 category: "Richard Mille > RM 035"
 image: "/cdn-image/6724eef4996c9eda2f69ab2f.jpg"
 images: ["/cdn-image/6724eef4996c9eda2f69ab2f.jpg", "/cdn-image/732148882948edb2df2133c5.jpg", "/cdn-image/f1efb5d53542274802ae9329.jpg", "/cdn-image/c952270dd9289f9ad5f6b608.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

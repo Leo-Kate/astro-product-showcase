@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Men Mechanical Horse Dial Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-52-02-013"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/6a09ca9841e0df5956cf1dfb.jpg"
 images: ["/cdn-image/6a09ca9841e0df5956cf1dfb.jpg", "/cdn-image/d31f0267be50281a3b598292.jpg", "/cdn-image/6d532647e493945b36079cb2.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

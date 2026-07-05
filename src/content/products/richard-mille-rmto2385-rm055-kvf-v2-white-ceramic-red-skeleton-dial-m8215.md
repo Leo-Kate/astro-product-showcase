@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM055 KVF V2 White Ceramic Red Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2385"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/4dd37c01c9083188e4ec7c5c.jpg"
 images: ["/cdn-image/4dd37c01c9083188e4ec7c5c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

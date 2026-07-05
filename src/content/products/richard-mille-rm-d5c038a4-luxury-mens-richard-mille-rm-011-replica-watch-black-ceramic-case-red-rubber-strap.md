@@ -1,11 +1,10 @@
----
+﻿---
 title: "Luxury Men&#8217;s Richard Mille RM 011 Replica Watch, Black Ceramic Case, Red Rubber Strap"
 brand: "Richard Mille"
 sku: "RM-D5C038A4"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/4e95d43f3f08d136d5fb288b.jpg"
 images: ["/cdn-image/4e95d43f3f08d136d5fb288b.jpg", "/cdn-image/19e441df57419bc16ddcd522.jpg", "/cdn-image/840fd194b5947844dedb6e8f.jpg", "/cdn-image/7ae5a1d153ff988f2713711b.jpg", "/cdn-image/39cc87b4a40f8accd981fb90.jpg", "/cdn-image/e199cd2c751ecf7c2ac4729f.jpg", "/cdn-image/9c119cb70df03ae2ff0da638.jpg", "/cdn-image/efaec13603e452d0d7d42e05.jpg", "/cdn-image/2817f882aa8fdba6fa750b3b.jpg", "/cdn-image/2245c049405e3bed926b240d.jpg", "/cdn-image/6d0b24bfb49d40b9c0fa46f5.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

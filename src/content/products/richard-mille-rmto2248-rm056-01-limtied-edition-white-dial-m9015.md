@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM056-01 Limtied Edition White Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2248"
 category: "Richard Mille > RM 056-01"
 image: "/cdn-image/f29fcee08750c31b78fb44ab.jpg"
 images: ["/cdn-image/f29fcee08750c31b78fb44ab.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Men Mechanical Ceramics Bezel Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-055-018"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/aa0938f6b34c7b9b351c8fa0.jpg"
 images: ["/cdn-image/aa0938f6b34c7b9b351c8fa0.jpg", "/cdn-image/1b52ff651f31a9a73e071e28.jpg", "/cdn-image/f396e0a48c8f71773ea7da41.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

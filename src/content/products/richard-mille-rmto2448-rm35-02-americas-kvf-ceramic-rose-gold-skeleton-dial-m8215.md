@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-02 Americas KVF Ceramic &amp; Rose Gold Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2448"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/90375f5acc297efd77442b7a.jpg"
 images: ["/cdn-image/90375f5acc297efd77442b7a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

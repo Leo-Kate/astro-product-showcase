@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM001 Tourbillon JBF SS Black Dial Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2429"
 category: "Richard Mille > RM 001"
 image: "/cdn-image/027b577c023b54f74fe6831f.jpg"
 images: ["/cdn-image/027b577c023b54f74fe6831f.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

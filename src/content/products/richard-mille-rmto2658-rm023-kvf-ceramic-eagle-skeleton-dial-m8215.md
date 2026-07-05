@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM023 KVF Ceramic Eagle Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2658"
 category: "Richard Mille > RM 023"
 image: "/cdn-image/778cfe5a2b58078b70cf05fc.jpg"
 images: ["/cdn-image/778cfe5a2b58078b70cf05fc.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

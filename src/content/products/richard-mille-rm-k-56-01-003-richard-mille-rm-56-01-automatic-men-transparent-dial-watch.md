@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 56-01 Automatic Men Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-56-01-003"
 category: "Richard Mille > RM 56-01"
 image: "/cdn-image/f7c11588174c853337858bf2.jpg"
 images: ["/cdn-image/f7c11588174c853337858bf2.jpg", "/cdn-image/6cdaa8d5ac6fb6242f4a8c9f.jpg", "/cdn-image/4cc1710b777119ff198dc3be.jpg", "/cdn-image/19544a3316ddd7504b1e6ae2.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

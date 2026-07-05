@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM07 Ladies SS &amp; Diamonds White &amp; Diamonds Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2545"
 category: "Richard Mille > RM 07"
 image: "/cdn-image/94ebafd45d11b511b045e4bf.jpg"
 images: ["/cdn-image/94ebafd45d11b511b045e4bf.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

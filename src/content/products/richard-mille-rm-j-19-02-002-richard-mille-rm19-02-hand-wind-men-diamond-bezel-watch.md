@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM19-02 Hand Wind Men Diamond Bezel Watch"
 brand: "Richard Mille"
 sku: "RM-J-19-02-002"
 category: "Richard Mille > RM 19-02"
 image: "/cdn-image/a2b832285e65f1e6a88a76c3.jpg"
 images: ["/cdn-image/a2b832285e65f1e6a88a76c3.jpg", "/cdn-image/33a9e9d629af8aed879ccbb7.jpg", "/cdn-image/8b7a47b0879622610f1bed25.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

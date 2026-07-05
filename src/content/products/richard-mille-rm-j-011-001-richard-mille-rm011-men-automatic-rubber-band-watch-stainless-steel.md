@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Men Automatic Rubber Band Watch Stainless Steel"
 brand: "Richard Mille"
 sku: "RM-J-011-001"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/a977a2a714eb1e45284af012.jpg"
 images: ["/cdn-image/a977a2a714eb1e45284af012.jpg", "/cdn-image/75343df4115fd818c4571ec8.jpg", "/cdn-image/226632dfb143f8307671461b.jpg"]
-price: 99900.0
 in_stock: true
 ---
 

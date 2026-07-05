@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35 Mechanical Men Watch Skeleton Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-035-031"
 category: "Richard Mille > RM 35"
 image: "/cdn-image/609ec3cb89b56d0a15a2f697.jpg"
 images: ["/cdn-image/609ec3cb89b56d0a15a2f697.jpg", "/cdn-image/b4cb28807f01727b89912941.jpg", "/cdn-image/6c7fa0507f00bf08dbbbfbe8.jpg", "/cdn-image/89e8004349b6d05090f2ef28.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

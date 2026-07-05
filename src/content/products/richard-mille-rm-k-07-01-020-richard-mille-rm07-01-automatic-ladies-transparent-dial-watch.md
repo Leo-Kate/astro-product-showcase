@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM07-01 Automatic Ladies Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-07-01-020"
 category: "Richard Mille > RM 07-01"
 image: "/cdn-image/5dee38f547260fe701601f2e.jpg"
 images: ["/cdn-image/5dee38f547260fe701601f2e.jpg", "/cdn-image/998d005f1a3b8b6852786f0d.jpg", "/cdn-image/d302b6c08b309a2d6ccf750c.jpg", "/cdn-image/20b078b77929060eee553305.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

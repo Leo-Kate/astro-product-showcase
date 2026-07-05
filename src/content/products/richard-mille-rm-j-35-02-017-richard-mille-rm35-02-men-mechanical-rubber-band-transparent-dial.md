@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Men Mechanical Rubber Band Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-35-02-017"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/49ec945bd07a06d40473a646.jpg"
 images: ["/cdn-image/49ec945bd07a06d40473a646.jpg", "/cdn-image/d8a67ac42be123def0faa882.jpg", "/cdn-image/a6c0cad4b54cf0899b1586fd.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

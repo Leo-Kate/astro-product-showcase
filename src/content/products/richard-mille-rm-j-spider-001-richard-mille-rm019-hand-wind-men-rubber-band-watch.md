@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM019 Hand Wind Men Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-J-Spider-001"
 category: "Richard Mille > RM 019"
 image: "/cdn-image/23875dcb67b671e09b170e41.jpg"
 images: ["/cdn-image/23875dcb67b671e09b170e41.jpg", "/cdn-image/e0bed69bde7194b7b5074885.jpg", "/cdn-image/7022177506e2a79fb77126ea.jpg", "/cdn-image/5b6b3d5aab066496882b65e5.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

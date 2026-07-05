@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM55 KVF White Ceramic Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2600"
 category: "Richard Mille > RM 55"
 image: "/cdn-image/00223ef39b84ca9c4ff6bae8.jpg"
 images: ["/cdn-image/00223ef39b84ca9c4ff6bae8.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

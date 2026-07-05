@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM27-02 PVD Orange &amp; Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2728"
 category: "Richard Mille > RM 27-02"
 image: "/cdn-image/173625b824fedec08d175223.jpg"
 images: ["/cdn-image/173625b824fedec08d175223.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

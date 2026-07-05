@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Automatic Men Rubber Band Ceramics Bezel Watch"
 brand: "Richard Mille"
 sku: "RM-J-011-012"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/143a10b5b5b66861894d6039.jpg"
 images: ["/cdn-image/143a10b5b5b66861894d6039.jpg", "/cdn-image/10b2e62f181b930bbe3938d9.jpg", "/cdn-image/15e6c495e03f61324d9076d7.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

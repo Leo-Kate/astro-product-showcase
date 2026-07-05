@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM27-03 Men Mechanical Watch Carbon Fiber"
 brand: "Richard Mille"
 sku: "RM-J-27-03-001"
 category: "Richard Mille > RM 27-03"
 image: "/cdn-image/6e35bbdacdd351c98c3b38a7.jpg"
 images: ["/cdn-image/6e35bbdacdd351c98c3b38a7.jpg", "/cdn-image/c48baa720b4538277b916520.jpg", "/cdn-image/ed5ac99e182712b860275f0c.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

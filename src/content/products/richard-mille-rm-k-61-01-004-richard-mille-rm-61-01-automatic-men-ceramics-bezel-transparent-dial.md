@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 61-01 Automatic Men Ceramics Bezel Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-K-61-01-004"
 category: "Richard Mille > RM 61-01"
 image: "/cdn-image/a46599527b40ee68c6c8b400.jpg"
 images: ["/cdn-image/a46599527b40ee68c6c8b400.jpg", "/cdn-image/542cf830625e61885a27ff91.jpg", "/cdn-image/206c729d8d3dc3f54597b1fa.jpg", "/cdn-image/886e7cc00dbcae12932f5df5.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

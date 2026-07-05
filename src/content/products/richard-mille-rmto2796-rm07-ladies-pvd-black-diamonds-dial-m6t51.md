@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM07 Ladies PVD Black &amp; Diamonds Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2796"
 category: "Richard Mille > RM 07"
 image: "/cdn-image/b111267c644221738f92ecb2.jpg"
 images: ["/cdn-image/b111267c644221738f92ecb2.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

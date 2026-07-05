@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 07-01 Ladies Automatic Rubber Band Watch Red With Diamonds Dial"
 brand: "Richard Mille"
 sku: "RM-K-07-01-013"
 category: "Richard Mille > RM 07-01"
 image: "/cdn-image/eb8ed330a27efde86dd2af52.jpg"
 images: ["/cdn-image/eb8ed330a27efde86dd2af52.jpg", "/cdn-image/24f2fa0f3f771e95cd47899b.jpg", "/cdn-image/64fca8c9c1be7a667d6da3f9.jpg", "/cdn-image/b57b0c1423a3bab180aff366.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

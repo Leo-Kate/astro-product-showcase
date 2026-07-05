@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 11-01 Flyback Chronograph Roberto Mancini Automatic Black Dial Men&#8217;s Watch RM11-01"
 brand: "Richard Mille"
 sku: "RMTO2887"
 category: "Richard Mille > RM 11-01"
 image: "/cdn-image/5708637adc4c00aa208ed46d.jpg"
 images: ["/cdn-image/5708637adc4c00aa208ed46d.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

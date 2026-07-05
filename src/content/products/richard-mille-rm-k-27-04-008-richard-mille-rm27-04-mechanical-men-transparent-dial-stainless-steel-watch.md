@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM27-04 Mechanical Men Transparent Dial Stainless Steel Watch"
 brand: "Richard Mille"
 sku: "RM-K-27-04-008"
 category: "Richard Mille > RM 27-04"
 image: "/cdn-image/f7c3153ab8b9b1c1b003abae.jpg"
 images: ["/cdn-image/f7c3153ab8b9b1c1b003abae.jpg", "/cdn-image/e662434374ea16fc1efa7c83.jpg", "/cdn-image/7d6178fbe7ab9c8e53167922.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

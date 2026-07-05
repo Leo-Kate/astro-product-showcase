@@ -1,11 +1,10 @@
----
+﻿---
 title: "EUR Factory Richard Mille RM056 Tourbillon Sapphire Felipe Massa Watch 1-1 Super Clone"
 brand: "Richard Mille"
 sku: "RMTO2543"
 category: "Richard Mille > RM 056"
 image: "/cdn-image/58aee289a064d51fa9b4b491.jpg"
 images: ["/cdn-image/58aee289a064d51fa9b4b491.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

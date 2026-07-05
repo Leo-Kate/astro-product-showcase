@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM12-01 Automatic Men Strap Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-12-01-014"
 category: "Richard Mille > RM 12-01"
 image: "/cdn-image/49b74775fe36e9ebf0da8c00.jpg"
 images: ["/cdn-image/49b74775fe36e9ebf0da8c00.jpg", "/cdn-image/925be646ccf0745a76c5a5e0.jpg", "/cdn-image/84786e7c87fdcc535816ae8a.jpg", "/cdn-image/52fb129a173ee2e2f79e6b4a.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM27-02 SS Black &amp; Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2316"
 category: "Richard Mille > RM 27-02"
 image: "/cdn-image/e48a6d5eb9e6a48d6fcbc79b.jpg"
 images: ["/cdn-image/e48a6d5eb9e6a48d6fcbc79b.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

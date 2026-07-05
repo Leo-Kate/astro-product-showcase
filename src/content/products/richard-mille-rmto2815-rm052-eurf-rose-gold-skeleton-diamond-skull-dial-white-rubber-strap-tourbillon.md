@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 EURF Rose Gold Skeleton Diamond Skull Dial White Rubber Strap Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2815"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/e327c86d3aebeba371f64832.jpg"
 images: ["/cdn-image/e327c86d3aebeba371f64832.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

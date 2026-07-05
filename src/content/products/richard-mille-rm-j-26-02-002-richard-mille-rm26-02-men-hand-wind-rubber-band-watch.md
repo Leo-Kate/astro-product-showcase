@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM26-02 Men Hand Wind Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-J-26-02-002"
 category: "Richard Mille > RM 26-02"
 image: "/cdn-image/f296f76012cbca9d80071d05.jpg"
 images: ["/cdn-image/f296f76012cbca9d80071d05.jpg", "/cdn-image/95ea2dc25968985fb2c509f9.jpg", "/cdn-image/7d9d80ed5d372012cb20ce38.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

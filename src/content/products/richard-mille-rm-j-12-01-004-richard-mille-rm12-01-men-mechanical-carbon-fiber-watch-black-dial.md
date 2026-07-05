@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM12-01 Men Mechanical Carbon Fiber Watch Black Dial"
 brand: "Richard Mille"
 sku: "RM-J-12-01-004"
 category: "Richard Mille > RM 12-01"
 image: "/cdn-image/2283a5f7a75ea3afabdfb41b.jpg"
 images: ["/cdn-image/2283a5f7a75ea3afabdfb41b.jpg", "/cdn-image/5d2b56ee0d4d89123cfebec7.jpg", "/cdn-image/e69117fa717954ea9688f9c5.jpg", "/cdn-image/3d28e5ecd7d8fd2d9dde6d60.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

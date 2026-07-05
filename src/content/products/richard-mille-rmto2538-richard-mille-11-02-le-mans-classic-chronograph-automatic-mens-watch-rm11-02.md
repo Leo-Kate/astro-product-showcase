@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille 11-02 Le Mans Classic Chronograph Automatic Men&#8217;s Watch RM11-02"
 brand: "Richard Mille"
 sku: "RMTO2538"
 category: "Richard Mille > RM 11-02"
 image: "/cdn-image/d36f915ac67047affbc59eb7.jpg"
 images: ["/cdn-image/d36f915ac67047affbc59eb7.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 SF Titanium &amp; Diamond Diamond Skull Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2435"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/fc5d7950d8269287b2931880.jpg"
 images: ["/cdn-image/fc5d7950d8269287b2931880.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

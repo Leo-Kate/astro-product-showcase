@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Drivers Automatic Men&#8217;s Watch RM-028AJTI"
 brand: "Richard Mille"
 sku: "RMTO2289"
 category: "Richard Mille > RM 057"
 image: "/cdn-image/908e7436e4e8251c3fcf0764.jpg"
 images: ["/cdn-image/908e7436e4e8251c3fcf0764.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

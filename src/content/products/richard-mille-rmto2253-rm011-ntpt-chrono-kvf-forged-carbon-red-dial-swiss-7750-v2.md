@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 NTPT Chrono KVF Forged Carbon Red Dial Swiss 7750 V2"
 brand: "Richard Mille"
 sku: "RMTO2253"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/553ca17e03b0319567fc3a37.jpg"
 images: ["/cdn-image/553ca17e03b0319567fc3a37.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

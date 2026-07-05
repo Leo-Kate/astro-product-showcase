@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Men Automatic Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-J-011-004"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/798b592889374de79211db87.jpg"
 images: ["/cdn-image/798b592889374de79211db87.jpg", "/cdn-image/d78473547cb64c9d8a1d8ed7.jpg", "/cdn-image/dedf72074898b67943eb8427.jpg", "/cdn-image/8cd91c81a3cd8535822da84f.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

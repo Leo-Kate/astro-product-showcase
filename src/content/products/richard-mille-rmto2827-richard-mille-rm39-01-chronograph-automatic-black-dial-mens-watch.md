@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM39-01 Chronograph Automatic Black Dial Men&#8217;s Watch"
 brand: "Richard Mille"
 sku: "RMTO2827"
 category: "Richard Mille > RM 39-01"
 image: "/cdn-image/4a89c66fcf5657fd4b125f4f.jpg"
 images: ["/cdn-image/4a89c66fcf5657fd4b125f4f.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

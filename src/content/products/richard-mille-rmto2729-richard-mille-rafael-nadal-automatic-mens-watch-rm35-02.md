@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Rafael Nadal Automatic Men&#8217;s Watch RM35-02"
 brand: "Richard Mille"
 sku: "RMTO2729"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/7bbd311a40ac326856c4b346.jpg"
 images: ["/cdn-image/7bbd311a40ac326856c4b346.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

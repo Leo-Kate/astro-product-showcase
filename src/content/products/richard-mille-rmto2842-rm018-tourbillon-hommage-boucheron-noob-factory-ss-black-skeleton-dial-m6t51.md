@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM018 Tourbillon Hommage Boucheron Noob Factory SS Black Skeleton Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2842"
 category: "Richard Mille > RM 018"
 image: "/cdn-image/42c66d898504728d37a6db56.jpg"
 images: ["/cdn-image/42c66d898504728d37a6db56.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

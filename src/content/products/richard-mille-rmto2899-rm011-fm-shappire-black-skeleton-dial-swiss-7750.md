@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM Shappire Black &amp; Skeleton Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2899"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/7c4eb2d947f7a6782f038169.jpg"
 images: ["/cdn-image/7c4eb2d947f7a6782f038169.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

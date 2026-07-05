@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM50-27-01 NTPT KVF Red Forged Carbon Black &amp; Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2843"
 category: "Richard Mille > RM 50-27-01"
 image: "/cdn-image/97637f842669702ea4572b98.jpg"
 images: ["/cdn-image/97637f842669702ea4572b98.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

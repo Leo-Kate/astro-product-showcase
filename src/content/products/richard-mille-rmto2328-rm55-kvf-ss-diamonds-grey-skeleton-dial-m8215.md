@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM55 KVF SS &amp; Diamonds Grey Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2328"
 category: "Richard Mille > RM 55"
 image: "/cdn-image/f3e9d6fcbe630449c8c215cf.jpg"
 images: ["/cdn-image/f3e9d6fcbe630449c8c215cf.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

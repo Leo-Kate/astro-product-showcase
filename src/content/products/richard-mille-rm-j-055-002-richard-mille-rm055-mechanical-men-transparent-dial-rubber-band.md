@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Mechanical Men Transparent Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-055-002"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/33e1bdb019e5dfae751f3fcc.jpg"
 images: ["/cdn-image/33e1bdb019e5dfae751f3fcc.jpg", "/cdn-image/7b333b432da9e09df089a22d.jpg", "/cdn-image/0caea721fe525152c03d994f.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

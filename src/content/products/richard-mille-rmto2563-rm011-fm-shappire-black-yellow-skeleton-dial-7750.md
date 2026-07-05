@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM Shappire Black &amp; Yellow Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2563"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/e198e845785c383b3f31df3f.jpg"
 images: ["/cdn-image/e198e845785c383b3f31df3f.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

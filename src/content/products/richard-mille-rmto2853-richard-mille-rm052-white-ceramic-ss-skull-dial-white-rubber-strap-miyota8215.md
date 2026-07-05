@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM052 White Ceramic SS Skull Dial White Rubber Strap MIYOTA8215"
 brand: "Richard Mille"
 sku: "RMTO2853"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/e86a1ff56a15afefc23b652c.jpg"
 images: ["/cdn-image/e86a1ff56a15afefc23b652c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

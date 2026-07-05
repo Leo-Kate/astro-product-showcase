@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM023 Men Automatic Roman Numeral Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-023-004"
 category: "Richard Mille > RM 023"
 image: "/cdn-image/1be319a9b2b6261d19f47905.jpg"
 images: ["/cdn-image/1be319a9b2b6261d19f47905.jpg", "/cdn-image/bcfac86d7357136a0bcf0555.jpg", "/cdn-image/335811d0ff881631f5791063.jpg", "/cdn-image/c98b752a8cc0b84d15ad67bc.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

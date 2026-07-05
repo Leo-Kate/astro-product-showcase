@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM61 Titanium Green Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2416"
 category: "Richard Mille > RM 61"
 image: "/cdn-image/f7d8c28209fcb958f50ff846.jpg"
 images: ["/cdn-image/f7d8c28209fcb958f50ff846.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

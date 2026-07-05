@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Manual Winding Tourbillon Worldtimer Hand Wind Men&#8217;s Watch RM58-01"
 brand: "Richard Mille"
 sku: "RMTO2378"
 category: "Richard Mille > RM 58-01"
 image: "/cdn-image/4a75dddfca01b32e49fd3b66.jpg"
 images: ["/cdn-image/4a75dddfca01b32e49fd3b66.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM07 Ladies Sapphire Orange &amp; Diamonds Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2458"
 category: "Richard Mille > RM 07"
 image: "/cdn-image/87e4fed0546936673f5e7c16.jpg"
 images: ["/cdn-image/87e4fed0546936673f5e7c16.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

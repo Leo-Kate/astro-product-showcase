@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM007 Ladies Rose Gold Orange Diamonds Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2713"
 category: "Richard Mille > RM 007"
 image: "/cdn-image/efc0604398b7e79f4922bff4.jpg"
 images: ["/cdn-image/efc0604398b7e79f4922bff4.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

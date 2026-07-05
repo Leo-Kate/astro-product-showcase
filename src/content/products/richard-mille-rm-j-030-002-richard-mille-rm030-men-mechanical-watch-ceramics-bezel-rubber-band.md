@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM030 Men Mechanical Watch Ceramics Bezel Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-030-002"
 category: "Richard Mille > RM 030"
 image: "/cdn-image/c53d9e9768632362aa9341fd.jpg"
 images: ["/cdn-image/c53d9e9768632362aa9341fd.jpg", "/cdn-image/4290750cfe1d32823fbc251e.jpg", "/cdn-image/df354278de7125029198c6ce.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

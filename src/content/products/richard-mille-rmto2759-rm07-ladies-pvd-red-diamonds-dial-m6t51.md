@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM07 Ladies PVD Red &amp; Diamonds Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2759"
 category: "Richard Mille > RM 07"
 image: "/cdn-image/ad5a0bb96b66d82b36041ffb.jpg"
 images: ["/cdn-image/ad5a0bb96b66d82b36041ffb.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

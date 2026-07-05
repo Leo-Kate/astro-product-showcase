@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 11-03 Felipe Massa Flyback Chronograph Rose Gold/Titanium"
 brand: "Richard Mille"
 sku: "RMTO2371"
 category: "Richard Mille > RM 11-03"
 image: "/cdn-image/ce13219627a0ab30150d6628.jpg"
 images: ["/cdn-image/ce13219627a0ab30150d6628.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

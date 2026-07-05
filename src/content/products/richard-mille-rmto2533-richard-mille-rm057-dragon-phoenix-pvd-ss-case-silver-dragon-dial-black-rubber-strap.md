@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM057 Dragon Phoenix PVD SS Case Silver Dragon Dial Black Rubber Strap"
 brand: "Richard Mille"
 sku: "RMTO2533"
 category: "Richard Mille > RM 057"
 image: "/cdn-image/989503dbe1ad7abd62eebccf.jpg"
 images: ["/cdn-image/989503dbe1ad7abd62eebccf.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

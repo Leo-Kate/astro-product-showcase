@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM022 Automatic Men Watch Rubber Band Arabic Numeral"
 brand: "Richard Mille"
 sku: "RM-K-022-003"
 category: "Richard Mille > RM 022"
 image: "/cdn-image/876904777b5220cedb6701c4.jpg"
 images: ["/cdn-image/876904777b5220cedb6701c4.jpg", "/cdn-image/831b734d2c74549289d29768.jpg", "/cdn-image/663ff6b85733e0223093d7cc.jpg", "/cdn-image/56b50a97a12cf39945afa0c5.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

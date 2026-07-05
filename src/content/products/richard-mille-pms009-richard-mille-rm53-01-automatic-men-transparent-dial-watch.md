@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM53-01 Automatic Men Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "PMS009"
 category: "Richard Mille > RM 53-01"
 image: "/cdn-image/2ffb881e7f8b9994aef2244b.jpg"
 images: ["/cdn-image/2ffb881e7f8b9994aef2244b.jpg", "/cdn-image/1a9fab3c772fd30f9ef614e4.jpg", "/cdn-image/71f50993b9523978881bc52c.jpg", "/cdn-image/f77534f70eb856b167b12ae8.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

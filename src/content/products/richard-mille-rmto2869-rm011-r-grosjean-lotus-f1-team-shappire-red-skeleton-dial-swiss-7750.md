@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 R Grosjean Lotus F1 Team Shappire Red &amp; Skeleton Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2869"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/1206fa717ef056ff98bff39c.jpg"
 images: ["/cdn-image/1206fa717ef056ff98bff39c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

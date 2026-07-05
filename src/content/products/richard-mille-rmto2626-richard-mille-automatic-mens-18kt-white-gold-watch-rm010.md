@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Automatic Men&#8217;s 18kt White Gold Watch RM010"
 brand: "Richard Mille"
 sku: "RMTO2626"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/1cbc3371df4854af3e85b2b2.jpg"
 images: ["/cdn-image/1cbc3371df4854af3e85b2b2.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM061 Men Hand Wind Rubber Band Skeleton Dial Stainless Steel"
 brand: "Richard Mille"
 sku: "RM-J-061-001"
 category: "Richard Mille > RM 061"
 image: "/cdn-image/b442563049df4903fcdfcccd.jpg"
 images: ["/cdn-image/b442563049df4903fcdfcccd.jpg", "/cdn-image/f237830cb5cfcd26b13f7d2b.jpg", "/cdn-image/7248bdf6f4ad0c13cb10c854.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

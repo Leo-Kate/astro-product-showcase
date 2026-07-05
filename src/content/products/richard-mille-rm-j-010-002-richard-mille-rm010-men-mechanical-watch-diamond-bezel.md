@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM010 Men Mechanical Watch Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-J-010-002"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/591663aa6ef889b220502d1d.jpg"
 images: ["/cdn-image/591663aa6ef889b220502d1d.jpg", "/cdn-image/df3b36200b412527cc20b0df.jpg", "/cdn-image/80d0e8368920bad4434e501c.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

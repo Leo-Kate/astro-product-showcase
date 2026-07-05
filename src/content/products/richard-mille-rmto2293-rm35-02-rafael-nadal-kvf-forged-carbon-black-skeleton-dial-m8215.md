@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-02 Rafael Nadal KVF Forged Carbon Black Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2293"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/532c8749cb4618d8d70e528e.jpg"
 images: ["/cdn-image/532c8749cb4618d8d70e528e.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

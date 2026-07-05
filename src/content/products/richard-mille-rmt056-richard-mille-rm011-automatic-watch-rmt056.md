@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Automatic Watch &#8211; RMT056"
 brand: "Richard Mille"
 sku: "RMT056"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/9096431957fe2adfdab05547.jpg"
 images: ["/cdn-image/9096431957fe2adfdab05547.jpg", "/cdn-image/c680618276d305dc23788a96.jpg", "/cdn-image/a3feb1448a6f86b7c3c682d9.jpg", "/cdn-image/2f41418b06f77bcf2226c12d.jpg", "/cdn-image/32518a568256df272c7ed7c7.jpg", "/cdn-image/22239ea5c4ff22b60bba1149.jpg", "/cdn-image/8e605e4c7ed0aa0a32245a27.jpg", "/cdn-image/833060b7857904477f8cea1c.jpg", "/cdn-image/ce7dea506fee38658eecc686.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

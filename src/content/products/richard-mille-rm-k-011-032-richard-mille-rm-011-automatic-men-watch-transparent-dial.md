@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 011 Automatic Men Watch Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-K-011-032"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/9555499c1bfd2cfeda30df4b.jpg"
 images: ["/cdn-image/9555499c1bfd2cfeda30df4b.jpg", "/cdn-image/2f87ce2f35795573b2d09003.jpg", "/cdn-image/6c2c6b73544eef2ac2136c5c.jpg", "/cdn-image/a527d65d606da2a2ea1c065f.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

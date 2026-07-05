@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM27-02 PVD Black &amp; Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2781"
 category: "Richard Mille > RM 27-02"
 image: "/cdn-image/f7538343e7fa32db7cb5d737.jpg"
 images: ["/cdn-image/f7538343e7fa32db7cb5d737.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

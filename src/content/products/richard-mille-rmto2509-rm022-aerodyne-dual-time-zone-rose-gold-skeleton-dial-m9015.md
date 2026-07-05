@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM022 Aerodyne Dual Time Zone Rose Gold Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2509"
 category: "Richard Mille > RM 022"
 image: "/cdn-image/b64cfa3098fb8ab448bd803a.jpg"
 images: ["/cdn-image/b64cfa3098fb8ab448bd803a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

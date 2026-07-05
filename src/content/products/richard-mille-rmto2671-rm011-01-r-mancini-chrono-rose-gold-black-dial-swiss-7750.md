@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-01 R Mancini Chrono Rose Gold Black Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2671"
 category: "Richard Mille > RM 011-01"
 image: "/cdn-image/17a2eda308c30710cb2dfb18.jpg"
 images: ["/cdn-image/17a2eda308c30710cb2dfb18.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-01 Mechanical Men Stainless Steel Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-J-52-01-003"
 category: "Richard Mille > RM 52-01"
 image: "/cdn-image/63d838e4c0bbd7fcd2c64e6b.jpg"
 images: ["/cdn-image/63d838e4c0bbd7fcd2c64e6b.jpg", "/cdn-image/ecfc5baafd45e4e810b59358.jpg", "/cdn-image/f5a527fbdcb777caea6bffa8.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

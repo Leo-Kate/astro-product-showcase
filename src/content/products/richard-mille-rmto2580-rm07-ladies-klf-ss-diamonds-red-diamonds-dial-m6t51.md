@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM07 Ladies KLF SS &amp; Diamonds Red &amp; Diamonds Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2580"
 category: "Richard Mille > RM 07"
 image: "/cdn-image/0cbbcb47aea84981510cda4b.jpg"
 images: ["/cdn-image/0cbbcb47aea84981510cda4b.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

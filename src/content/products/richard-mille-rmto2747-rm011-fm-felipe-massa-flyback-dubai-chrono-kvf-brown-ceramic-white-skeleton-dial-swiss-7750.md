@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM Felipe Massa Flyback Dubai Chrono KVF Brown Ceramic White Skeleton Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2747"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/5eaf6f71cf70e9bd459f3079.jpg"
 images: ["/cdn-image/5eaf6f71cf70e9bd459f3079.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

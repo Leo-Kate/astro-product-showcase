@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM68-01 Hand Wind Men Transparent Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-68-01-001"
 category: "Richard Mille > RM 68-01"
 image: "/cdn-image/9ed6cce2f4f1577bf1f90f99.jpg"
 images: ["/cdn-image/9ed6cce2f4f1577bf1f90f99.jpg", "/cdn-image/934995eb23f02d750a97baa9.jpg", "/cdn-image/6d027375a85714f0681271b4.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

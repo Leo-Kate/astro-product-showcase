@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM53-01 Men Mechanical Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-53-01-001"
 category: "Richard Mille > RM 53-01"
 image: "/cdn-image/5657b18aa888f3025db91934.jpg"
 images: ["/cdn-image/5657b18aa888f3025db91934.jpg", "/cdn-image/3528687553f678d5dfcfbead.jpg", "/cdn-image/8503e728c72078e712009756.jpg", "/cdn-image/2e09024d6d6d7ecbe0c1a357.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

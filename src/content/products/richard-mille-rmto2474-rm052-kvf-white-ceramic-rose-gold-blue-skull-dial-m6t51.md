@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 KVF White Ceramic &amp; Rose Gold Blue Skull Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2474"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/3f03fe33979b8c68b79e0945.jpg"
 images: ["/cdn-image/3f03fe33979b8c68b79e0945.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

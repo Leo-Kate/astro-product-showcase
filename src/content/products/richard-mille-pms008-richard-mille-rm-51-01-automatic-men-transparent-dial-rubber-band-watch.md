@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 51-01 Automatic Men Transparent Dial Rubber Band Watch"
 brand: "Richard Mille"
 sku: "PMS008"
 category: "Richard Mille > RM 51-01"
 image: "/cdn-image/b0d08f645ed1d9679957142e.jpg"
 images: ["/cdn-image/b0d08f645ed1d9679957142e.jpg", "/cdn-image/5f843902573eca16c8fd0c8b.jpg", "/cdn-image/056501c09d4e1494aea0dc2b.jpg", "/cdn-image/8c8cc9125fb75462e63ef4d5.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM53-01 Automatic Men Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-53-01-008"
 category: "Richard Mille > RM 53-01"
 image: "/cdn-image/156c041aadd3d9f2fdd9bf60.jpg"
 images: ["/cdn-image/156c041aadd3d9f2fdd9bf60.jpg", "/cdn-image/efdcd269a3bf769a951f1c9c.jpg", "/cdn-image/9ded20dfc21a3c04a15e088b.jpg", "/cdn-image/da41c25575e91c38bf67cf8d.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

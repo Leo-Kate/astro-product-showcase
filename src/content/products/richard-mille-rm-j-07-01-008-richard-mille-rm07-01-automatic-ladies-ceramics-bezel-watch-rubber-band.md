@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM07-01 Automatic Ladies Ceramics Bezel Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-07-01-008"
 category: "Richard Mille > RM 07-01"
 image: "/cdn-image/68d7195c58236be89784a302.jpg"
 images: ["/cdn-image/68d7195c58236be89784a302.jpg", "/cdn-image/9bc1582a0cb03e2a913c6126.jpg", "/cdn-image/387869137adc3dc4ea06805f.jpg", "/cdn-image/60a29c49ccfe4067eba7a0cb.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-03 KVF Rose Gold &amp; Titanium Black Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2835"
 category: "Richard Mille > RM 011-03"
 image: "/cdn-image/38e2e160ebe47a376c4a08d2.jpg"
 images: ["/cdn-image/38e2e160ebe47a376c4a08d2.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

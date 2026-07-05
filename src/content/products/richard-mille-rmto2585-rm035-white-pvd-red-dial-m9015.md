@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM035 White PVD Red Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2585"
 category: "Richard Mille > RM 035"
 image: "/cdn-image/b60b109e32addca4186c2ebf.jpg"
 images: ["/cdn-image/b60b109e32addca4186c2ebf.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

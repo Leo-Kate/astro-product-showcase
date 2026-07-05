@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Les Voiles de St Barth Chronograph Automatic Men&#8217;s Watch RM 60-01 St Barth"
 brand: "Richard Mille"
 sku: "RMTO2593"
 category: "Richard Mille > RM 60-01"
 image: "/cdn-image/1e603e8c26abe9e222d219c3.jpg"
 images: ["/cdn-image/1e603e8c26abe9e222d219c3.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

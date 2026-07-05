@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Mechanical Men Diamond Bezel Watch"
 brand: "Richard Mille"
 sku: "RM-K-011-025"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/11d77cf34e068d59fb96652f.jpg"
 images: ["/cdn-image/11d77cf34e068d59fb96652f.jpg", "/cdn-image/106ad673187743329df50111.jpg", "/cdn-image/0bca91648f60bce8e3401e12.jpg", "/cdn-image/a11e418152eac056cce5615d.jpg", "/cdn-image/441a65308a56543f8ffe13e7.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

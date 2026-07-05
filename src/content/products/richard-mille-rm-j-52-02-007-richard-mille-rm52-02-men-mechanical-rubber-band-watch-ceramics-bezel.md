@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Men Mechanical Rubber Band Watch Ceramics Bezel"
 brand: "Richard Mille"
 sku: "RM-J-52-02-007"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/510e07c5415f1e8968094a4f.jpg"
 images: ["/cdn-image/510e07c5415f1e8968094a4f.jpg", "/cdn-image/510df0b39c3dd5b8c2c66b55.jpg", "/cdn-image/d5968fb3fe5aa6a419a2196f.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

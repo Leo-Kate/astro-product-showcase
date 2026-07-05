@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Mechanical Men Rubber Band Horse Dial Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-K-52-02-009"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/ed4ef0c05b510ea64f52bdb8.jpg"
 images: ["/cdn-image/ed4ef0c05b510ea64f52bdb8.jpg", "/cdn-image/dd7ba36a450783327a448890.jpg", "/cdn-image/ba4bc5770863a9e0eabca353.jpg", "/cdn-image/9bce742700337fe604536d27.jpg", "/cdn-image/a2fb3d7d80565f89e8290886.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

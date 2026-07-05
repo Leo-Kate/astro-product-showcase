@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM018 Mechanical Men Watch Stainless Steel Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-018-001"
 category: "Richard Mille > RM 018"
 image: "/cdn-image/5b4eff28e0e90c8a647f5df2.jpg"
 images: ["/cdn-image/5b4eff28e0e90c8a647f5df2.jpg", "/cdn-image/66734f00cb63dd443b780c64.jpg", "/cdn-image/db33778a89451af1b207d2c4.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

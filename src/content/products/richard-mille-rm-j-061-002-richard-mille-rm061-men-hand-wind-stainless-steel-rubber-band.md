@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM061 Men Hand Wind Stainless Steel Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-061-002"
 category: "Richard Mille > RM 061"
 image: "/cdn-image/cca70ef619096de3c19efcfd.jpg"
 images: ["/cdn-image/cca70ef619096de3c19efcfd.jpg", "/cdn-image/b13e6741ccfb63bf94b70d5d.jpg", "/cdn-image/f5517f05a0988f8cd95f607c.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

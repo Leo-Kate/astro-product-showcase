@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Men Automatic Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-35-02-033"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/b84a8ef34179614d5662a2bb.jpg"
 images: ["/cdn-image/b84a8ef34179614d5662a2bb.jpg", "/cdn-image/ad9be0a72c3ca473cfe36d96.jpg", "/cdn-image/1aaa83a24736bcb4f2a4da47.jpg", "/cdn-image/ec522cfd5c0f81cb39fc9af1.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

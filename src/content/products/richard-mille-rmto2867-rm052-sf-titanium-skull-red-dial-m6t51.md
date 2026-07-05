@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 SF Titanium Skull &amp; Red Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2867"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/66f50d3ea6808fbd16f78172.jpg"
 images: ["/cdn-image/66f50d3ea6808fbd16f78172.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

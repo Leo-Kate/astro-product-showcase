@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM57-01 Mechanical Men Gold Dragon and Phoenix Dial Stainless Steel"
 brand: "Richard Mille"
 sku: "RM-J-57-01-002"
 category: "Richard Mille > RM 57-01"
 image: "/cdn-image/e1d4c1fbcc7946b6a8f4486d.jpg"
 images: ["/cdn-image/e1d4c1fbcc7946b6a8f4486d.jpg", "/cdn-image/9f8e39259dcf8dde0d9777e7.jpg", "/cdn-image/53db10d396e873c9a9c998d2.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-01 Men Mechanical Watch Red Skull Dial"
 brand: "Richard Mille"
 sku: "RM-J-52-01-001"
 category: "Richard Mille > RM 52-01"
 image: "/cdn-image/79673c8a3d4b40c421dc8097.jpg"
 images: ["/cdn-image/79673c8a3d4b40c421dc8097.jpg", "/cdn-image/877314d6ec4bf5ed928c6f61.jpg", "/cdn-image/f6c5d5fcd3fd3f61a0150153.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

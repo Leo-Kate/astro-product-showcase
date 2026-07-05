@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM63-01 Men Mechanical Watch Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-63-01-001"
 category: "Richard Mille > RM 63-01"
 image: "/cdn-image/e53cd703a726145b163fdc6f.jpg"
 images: ["/cdn-image/e53cd703a726145b163fdc6f.jpg", "/cdn-image/fd63c5ced78f381f6623eb5e.jpg", "/cdn-image/251b958c4324a4472f55d327.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

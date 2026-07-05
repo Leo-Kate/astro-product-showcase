@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-03 KVF V2 SS Black Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2261"
 category: "Richard Mille > RM 011-03"
 image: "/cdn-image/51f2f4ad855cd63bbf5e471b.jpg"
 images: ["/cdn-image/51f2f4ad855cd63bbf5e471b.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

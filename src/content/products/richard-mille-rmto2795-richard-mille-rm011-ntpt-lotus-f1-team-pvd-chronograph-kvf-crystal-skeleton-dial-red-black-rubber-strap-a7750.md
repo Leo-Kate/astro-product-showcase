@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 NTPT Lotus F1 Team PVD Chronograph KVF Crystal Skeleton Dial Red Black Rubber Strap A7750"
 brand: "Richard Mille"
 sku: "RMTO2795"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/6507c21b0a53eb13984907f4.jpg"
 images: ["/cdn-image/6507c21b0a53eb13984907f4.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

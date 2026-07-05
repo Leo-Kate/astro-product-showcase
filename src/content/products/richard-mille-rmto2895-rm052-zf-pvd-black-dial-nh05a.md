@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 ZF PVD Black Dial NH05A"
 brand: "Richard Mille"
 sku: "RMTO2895"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/878ddc43cf86aa682e821d47.jpg"
 images: ["/cdn-image/878ddc43cf86aa682e821d47.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

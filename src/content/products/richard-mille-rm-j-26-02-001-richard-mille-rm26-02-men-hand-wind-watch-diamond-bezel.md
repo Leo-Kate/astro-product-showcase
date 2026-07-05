@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM26-02 Men Hand Wind Watch Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-J-26-02-001"
 category: "Richard Mille > RM 26-02"
 image: "/cdn-image/619267f570a7eae4f6cfe294.jpg"
 images: ["/cdn-image/619267f570a7eae4f6cfe294.jpg", "/cdn-image/0bc20052e7dd649c4ae00d5c.jpg", "/cdn-image/b87b722ca78e0016a73fdfce.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 Chrono KVF SS Black Dial Swiss 7750 V3"
 brand: "Richard Mille"
 sku: "RMTO2665"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/30213665406622bc69ef5935.jpg"
 images: ["/cdn-image/30213665406622bc69ef5935.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

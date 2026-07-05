@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 055 Men Automatic Watch Rubber Band Acrylic"
 brand: "Richard Mille"
 sku: "RM-K-055-024"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/207397fb438bdf407c204cc1.jpg"
 images: ["/cdn-image/207397fb438bdf407c204cc1.jpg", "/cdn-image/c147906728a8c5b318698029.jpg", "/cdn-image/40d1efb71720afb875803341.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 011 Men Automatic Rubber Band Acrylic Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-K-011-028"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/0b5ad3c85662497b133d4e6d.jpg"
 images: ["/cdn-image/0b5ad3c85662497b133d4e6d.jpg", "/cdn-image/651a19679680a86c0cfcc93f.jpg", "/cdn-image/9d7e83c3099ffda6e5a7b121.jpg", "/cdn-image/26e33c3afa4a2a51eb52a97b.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

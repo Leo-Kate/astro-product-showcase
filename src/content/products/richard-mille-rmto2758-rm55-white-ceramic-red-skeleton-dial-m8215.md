@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM55 White Ceramic Red Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2758"
 category: "Richard Mille > RM 55"
 image: "/cdn-image/02cd396eaaa5a0148ddc82f5.jpg"
 images: ["/cdn-image/02cd396eaaa5a0148ddc82f5.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

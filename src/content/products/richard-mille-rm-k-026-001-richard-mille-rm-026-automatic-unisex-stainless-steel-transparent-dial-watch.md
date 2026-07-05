@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 026 Automatic Unisex Stainless Steel Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-026-001"
 category: "Richard Mille > RM 026"
 image: "/cdn-image/b45f577cf795b0a163ecc6a9.jpg"
 images: ["/cdn-image/b45f577cf795b0a163ecc6a9.jpg", "/cdn-image/81998991fa350a1f1e9d1491.jpg", "/cdn-image/8569ee56b9b6ded9580ce22f.jpg", "/cdn-image/5083b1da54b919c86210d12a.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

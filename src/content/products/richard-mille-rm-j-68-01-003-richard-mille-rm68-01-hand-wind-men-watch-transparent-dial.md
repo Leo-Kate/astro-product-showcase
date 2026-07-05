@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM68-01 Hand Wind Men Watch Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-68-01-003"
 category: "Richard Mille > RM 68-01"
 image: "/cdn-image/12f48a68addfc080008b5dce.jpg"
 images: ["/cdn-image/12f48a68addfc080008b5dce.jpg", "/cdn-image/8b3c6a87dc4d96e1a50efde1.jpg", "/cdn-image/c3e61f9f9e1bd080c62c965b.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

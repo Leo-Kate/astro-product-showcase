@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM27-04 Men Mechanical Stainless Steel Rubber Band Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-27-04-001"
 category: "Richard Mille > RM 27-04"
 image: "/cdn-image/0a955e5b86b701a650eb5314.jpg"
 images: ["/cdn-image/0a955e5b86b701a650eb5314.jpg", "/cdn-image/81d5ccac2a6a169b406a32ba.jpg", "/cdn-image/c9b4ea3fc04e475d2879bfa4.jpg", "/cdn-image/2adc4ee87347e80d7ac29ae3.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

@@ -80,16 +80,6 @@ def get_field(row, *names):
     return ""
 
 
-def parse_price(value):
-    cleaned = re.sub(r"[^0-9.]", "", str(value or ""))
-    if not cleaned:
-        return None
-    try:
-        return float(cleaned)
-    except ValueError:
-        return None
-
-
 def frontmatter(data):
     lines = ["---"]
 
@@ -151,7 +141,6 @@ def main():
         image = images[0] if images else "/images/uploads/atlas-modular-pack.svg"
         excerpt = strip_tags(get_field(row, "简短描述", "Short description"))[:280]
         body = clean_description(get_field(row, "描述", "Description") or excerpt)
-        price = parse_price(get_field(row, "常规价格", "Regular price"))
 
         base_slug = slugify(f"{brand}-{sku or get_field(row, 'ID')}-{title}")
         count = used_slugs.get(base_slug, 0)
@@ -165,7 +154,6 @@ def main():
             "category": category or None,
             "image": image,
             "images": images[:12],
-            "price": price,
             "in_stock": truthy(get_field(row, "有货？", "In stock?")),
             "source_id": get_field(row, "ID").strip() or None,
             "excerpt": excerpt or None,

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM051-01 Tourbillon Tiger &amp; Dragon Michelle Yeoh KVF Rose Gold &amp; Diamonds Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2698"
 category: "Richard Mille > RM 051-01"
 image: "/cdn-image/f2a05c8fbfdae6740add2cfd.jpg"
 images: ["/cdn-image/f2a05c8fbfdae6740add2cfd.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

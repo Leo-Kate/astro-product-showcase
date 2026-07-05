@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM Felipe Massa Chrono Forged Carbon Gold Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2514"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/b2bfd43f48031fec433fcdba.jpg"
 images: ["/cdn-image/b2bfd43f48031fec433fcdba.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

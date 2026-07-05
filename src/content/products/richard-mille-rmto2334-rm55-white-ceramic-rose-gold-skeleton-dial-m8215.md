@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM55 White Ceramic Rose Gold Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2334"
 category: "Richard Mille > RM 55"
 image: "/cdn-image/6536e5cce3324e2619ce5bcb.jpg"
 images: ["/cdn-image/6536e5cce3324e2619ce5bcb.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

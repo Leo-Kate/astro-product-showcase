@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM07-02 Ladies Automatic Black With Diamonds Dial Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-07-02-001"
 category: "Richard Mille > RM 07-02"
 image: "/cdn-image/6b2813cea56d41f58a24ec0e.jpg"
 images: ["/cdn-image/6b2813cea56d41f58a24ec0e.jpg", "/cdn-image/358a1a408c6433cc397397ab.jpg", "/cdn-image/89bd91a6dd6cc83665d5231d.jpg"]
-price: 99900.0
 in_stock: true
 ---
 

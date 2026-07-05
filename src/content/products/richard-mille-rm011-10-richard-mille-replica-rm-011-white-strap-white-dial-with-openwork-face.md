@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Replica RM 011 White Strap White Dial With Openwork Face"
 brand: "Richard Mille"
 sku: "RM011-10"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/8b56830a9890cce0a2f9ea9a.jpg"
 images: ["/cdn-image/8b56830a9890cce0a2f9ea9a.jpg", "/cdn-image/ad59f6a0f7f2ff275ddb6f2d.jpg", "/cdn-image/f8057a507a2052a50cf09a5c.jpg", "/cdn-image/788f87e3f60710ac80a37333.jpg", "/cdn-image/d5b67948bbbb61becff8d263.jpg", "/cdn-image/4f43b4f44b2d9464a65e4f88.jpg", "/cdn-image/f69bd4f1a2578fff0179ee8a.jpg", "/cdn-image/e6423d5393728454bacd8c82.jpg", "/cdn-image/3a66c9d8ba485aae819043b3.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

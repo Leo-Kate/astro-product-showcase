@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM51-02 Mechanical Ladies Watch Transparent Dial Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-J-51-02-002"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/1a17cbccc80eb9aa8b77f3fd.jpg"
 images: ["/cdn-image/1a17cbccc80eb9aa8b77f3fd.jpg", "/cdn-image/fd86baba383e7e42a4fb54f1.jpg", "/cdn-image/1ff2862dc8d89dd3c8a852a0.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

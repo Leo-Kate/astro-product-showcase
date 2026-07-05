@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM51-02 Ladies Mechanical Diamond Paved Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-51-02-006"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/ae617065f7a60e136a7e9bf0.jpg"
 images: ["/cdn-image/ae617065f7a60e136a7e9bf0.jpg", "/cdn-image/05214883816f6c4724af8ff6.jpg", "/cdn-image/bd05f569a98005ea81a86e63.jpg", "/cdn-image/cdbba74370e8e2ed3246ffd9.jpg", "/cdn-image/834a537816346e47e520d802.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM030 Men Mechanical Stainless Steel Watch"
 brand: "Richard Mille"
 sku: "RM-J-030-001"
 category: "Richard Mille > RM 030"
 image: "/cdn-image/e6525093e6f3cd6cd8f053b3.jpg"
 images: ["/cdn-image/e6525093e6f3cd6cd8f053b3.jpg", "/cdn-image/dafb2ab27178d07fbb070d80.jpg", "/cdn-image/2e2c8cae647505fb68257cb9.jpg", "/cdn-image/de3840b90e48aac50474aed2.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

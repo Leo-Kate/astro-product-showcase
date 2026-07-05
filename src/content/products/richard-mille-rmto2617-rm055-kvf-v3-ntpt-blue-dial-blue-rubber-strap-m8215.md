@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM055 KVF V3 NTPT Blue Dial Blue Rubber Strap M8215"
 brand: "Richard Mille"
 sku: "RMTO2617"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/1c35090cf73efdec60685e26.jpg"
 images: ["/cdn-image/1c35090cf73efdec60685e26.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

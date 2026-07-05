@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM57-01 Jackie Chan PVD Silver Dial Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2598"
 category: "Richard Mille > RM 57-01"
 image: "/cdn-image/38d0b1f526d45c3307f8b63c.jpg"
 images: ["/cdn-image/38d0b1f526d45c3307f8b63c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-01 Men Mechanical Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-52-01-002"
 category: "Richard Mille > RM 52-01"
 image: "/cdn-image/e5d89f51883f28fc0beb7d17.jpg"
 images: ["/cdn-image/e5d89f51883f28fc0beb7d17.jpg", "/cdn-image/84a26d9ef3fa311581bea632.jpg", "/cdn-image/81977cbeaaa6681fcbf152f1.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

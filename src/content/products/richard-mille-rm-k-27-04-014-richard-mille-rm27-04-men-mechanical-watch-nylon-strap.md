@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM27-04 Men Mechanical Watch Nylon Strap"
 brand: "Richard Mille"
 sku: "RM-K-27-04-014"
 category: "Richard Mille > RM 27-04"
 image: "/cdn-image/5b9df6f2eef6ca5d3c15bf56.jpg"
 images: ["/cdn-image/5b9df6f2eef6ca5d3c15bf56.jpg", "/cdn-image/185ea74548d6c72dbc9a688b.jpg", "/cdn-image/0dc4d67cea089c098a502003.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

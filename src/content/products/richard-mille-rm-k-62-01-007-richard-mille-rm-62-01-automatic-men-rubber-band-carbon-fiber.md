@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 62-01 Automatic Men Rubber Band Carbon Fiber"
 brand: "Richard Mille"
 sku: "RM-K-62-01-007"
 category: "Richard Mille > RM 62-01"
 image: "/cdn-image/20f31abfd30cbe82642d8694.jpg"
 images: ["/cdn-image/20f31abfd30cbe82642d8694.jpg", "/cdn-image/00648ce3574cb5d6d35f36c5.jpg", "/cdn-image/fef5a51b5979d2b4da101d49.jpg", "/cdn-image/9c73d7b830bbf52f7caf011b.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

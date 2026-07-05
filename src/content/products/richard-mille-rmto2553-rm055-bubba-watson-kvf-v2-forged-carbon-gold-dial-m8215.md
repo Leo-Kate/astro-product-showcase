@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM055 Bubba Watson KVF V2 Forged Carbon Gold Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2553"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/43060ddb2180eaba43a462d8.jpg"
 images: ["/cdn-image/43060ddb2180eaba43a462d8.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

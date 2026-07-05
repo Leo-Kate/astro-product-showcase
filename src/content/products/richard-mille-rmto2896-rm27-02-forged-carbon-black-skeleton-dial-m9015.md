@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM27-02 Forged Carbon Black &amp; Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2896"
 category: "Richard Mille > RM 27-02"
 image: "/cdn-image/216a4814b3f222e55f3d6dfb.jpg"
 images: ["/cdn-image/216a4814b3f222e55f3d6dfb.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

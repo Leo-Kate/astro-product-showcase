@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM19-02 Hand Wind Men Rubber Band Flowers Dial"
 brand: "Richard Mille"
 sku: "RM-J-19-02-001"
 category: "Richard Mille > RM 19-02"
 image: "/cdn-image/85168d9d1b3c96d2f3925f7e.jpg"
 images: ["/cdn-image/85168d9d1b3c96d2f3925f7e.jpg", "/cdn-image/86f7aa44e4078df9135e5d17.jpg", "/cdn-image/9de8c4f3ab0d0b1d435de4b6.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 SF PVD Gold Skull Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2712"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/1a2da8cb0bf09ab7f9fdf6ee.jpg"
 images: ["/cdn-image/1a2da8cb0bf09ab7f9fdf6ee.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

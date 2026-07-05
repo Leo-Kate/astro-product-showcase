@@ -1,11 +1,10 @@
----
+﻿---
 title: "Best Richard Mille RM 61-01 Replica Yohan Blake Watch | Swiss Movement | Luxury Ceramic Carbon Fiber Design"
 brand: "Richard Mille"
 sku: "RM-61-01-00003"
 category: "Richard Mille > RM 61-01"
 image: "/cdn-image/6025d3a40e38b12fa828ddef.jpg"
 images: ["/cdn-image/6025d3a40e38b12fa828ddef.jpg", "/cdn-image/71bfb6266ed7bc662a2255de.jpg", "/cdn-image/2c5a3769860154d45d10a00f.jpg", "/cdn-image/5a53aa26c8e74c01a0a63950.jpg", "/cdn-image/8cd0bc52021e92309f4c0f7f.jpg", "/cdn-image/510c3215a26d17fe347c350e.jpg", "/cdn-image/c69c3c820b0fbcb062b3d61d.jpg", "/cdn-image/7602066cca2603cf8ec59c28.jpg", "/cdn-image/10a979e65ffdd5e0c8d0bfdb.jpg"]
-price: 96900.0
 in_stock: true
 ---
 

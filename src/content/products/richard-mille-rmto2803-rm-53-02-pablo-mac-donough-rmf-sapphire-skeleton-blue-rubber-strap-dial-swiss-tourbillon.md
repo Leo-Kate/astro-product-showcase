@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM 53-02 Pablo Mac Donough RMF Sapphire Skeleton Blue Rubber Strap Dial Swiss Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2803"
 category: "Richard Mille > RM 53-02"
 image: "/cdn-image/23bfe0c7dea35a579da4d4f3.jpg"
 images: ["/cdn-image/23bfe0c7dea35a579da4d4f3.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

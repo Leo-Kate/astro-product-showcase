@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 07-02 Automatic Ladies Diamonds Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-07-02-003"
 category: "Richard Mille > RM 07-02"
 image: "/cdn-image/089608b03142c44cf0715f5b.jpg"
 images: ["/cdn-image/089608b03142c44cf0715f5b.jpg", "/cdn-image/a20cc32dc6ca00377a5be3b9.jpg", "/cdn-image/49802decda1e0f2a5700682a.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

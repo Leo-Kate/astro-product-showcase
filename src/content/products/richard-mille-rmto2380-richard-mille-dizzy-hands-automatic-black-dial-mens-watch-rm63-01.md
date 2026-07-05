@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Dizzy Hands Automatic Black Dial Men&#8217;s Watch RM63-01"
 brand: "Richard Mille"
 sku: "RMTO2380"
 category: "Richard Mille > RM 63-01"
 image: "/cdn-image/45f5864e65e6a33d1b22cd30.jpg"
 images: ["/cdn-image/45f5864e65e6a33d1b22cd30.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

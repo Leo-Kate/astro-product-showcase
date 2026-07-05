@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Replica RM 055 Black Strap"
 brand: "Richard Mille"
 sku: "RM055"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/bd0123fa12b223f27e527ef8.jpg"
 images: ["/cdn-image/bd0123fa12b223f27e527ef8.jpg", "/cdn-image/5cb869c689b86b1e9527f6c5.jpg", "/cdn-image/ef509fd2ee1009032e828ce2.jpg", "/cdn-image/0f4506b7eaafa00496c56cea.jpg", "/cdn-image/667d7f668af2c104aaa45eb4.jpg", "/cdn-image/4be8f1d943549e48cce7ada8.jpg", "/cdn-image/30f80e745e941a15e5549988.jpg", "/cdn-image/48dbcfc90b71026e4a4bf76b.jpg", "/cdn-image/f3a268a4f3be33c0b996b109.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

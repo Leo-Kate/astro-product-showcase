@@ -1,15 +1,13 @@
----
+﻿---
 title: "Color 5 prongs Watch Screw for Richard Mille Watch Bezel/case Back"
 brand: "Richard Mille"
 sku: "5-prongs"
 category: "Richard Mille"
 image: "/cdn-image/cbe54a274115223ef48f0003.jpg"
 images: ["/cdn-image/cbe54a274115223ef48f0003.jpg", "/cdn-image/90e1d5d90f7403807df4cc42.jpg", "/cdn-image/9378ad6dbd6665b873c6a56f.jpg"]
-price: 10000.0
 in_stock: true
 ---
 
-<p>If You Only Buy Accessories. Need To Pay $20 Shipping.   </p>
 <ul></p>
 <li>for Richard Mille watch bezel /case back</li>
 

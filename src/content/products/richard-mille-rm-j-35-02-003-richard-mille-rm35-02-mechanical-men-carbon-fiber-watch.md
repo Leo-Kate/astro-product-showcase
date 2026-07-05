@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Mechanical Men Carbon Fiber Watch"
 brand: "Richard Mille"
 sku: "RM-J-35-02-003"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/829b1c56b0fa0660f93fa3d7.jpg"
 images: ["/cdn-image/829b1c56b0fa0660f93fa3d7.jpg", "/cdn-image/d99149f9e66ddca263ade3c5.jpg", "/cdn-image/21ff9c8e2ab2b3ba9ba3eeed.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 011 Men Automatic Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-011-029"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/7de1a1950c717c272efe877a.jpg"
 images: ["/cdn-image/7de1a1950c717c272efe877a.jpg", "/cdn-image/af916a9c05f775b1b476b09f.jpg", "/cdn-image/0b6e02cb39ca24d6b226cb41.jpg", "/cdn-image/c0970395f259ece9c472cb2d.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

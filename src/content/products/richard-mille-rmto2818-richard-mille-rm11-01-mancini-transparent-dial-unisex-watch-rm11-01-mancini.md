@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM11-01 Mancini Transparent Dial Unisex Watch RM11-01 Mancini"
 brand: "Richard Mille"
 sku: "RMTO2818"
 category: "Richard Mille > RM 11-01"
 image: "/cdn-image/e2233e2a62cbac3f33d8b9ad.jpg"
 images: ["/cdn-image/e2233e2a62cbac3f33d8b9ad.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

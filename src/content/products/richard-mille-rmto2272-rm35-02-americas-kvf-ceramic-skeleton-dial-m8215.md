@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-02 Americas KVF Ceramic Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2272"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/b8f9b4f69e30dee7ec69eb5e.jpg"
 images: ["/cdn-image/b8f9b4f69e30dee7ec69eb5e.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

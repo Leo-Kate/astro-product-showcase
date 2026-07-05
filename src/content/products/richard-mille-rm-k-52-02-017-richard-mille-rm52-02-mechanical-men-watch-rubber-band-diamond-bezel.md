@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Mechanical Men Watch Rubber Band Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-K-52-02-017"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/ddca5826308eb071f77a490c.jpg"
 images: ["/cdn-image/ddca5826308eb071f77a490c.jpg", "/cdn-image/93186b28a193f3491de2c001.jpg", "/cdn-image/a1121d7f12805447eeb0dc6f.jpg", "/cdn-image/c0e0b59e681790066613e201.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

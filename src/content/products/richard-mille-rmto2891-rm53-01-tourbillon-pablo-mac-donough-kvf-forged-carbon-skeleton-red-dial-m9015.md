@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM53-01 Tourbillon Pablo Mac Donough KVF Forged Carbon Skeleton Red Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2891"
 category: "Richard Mille > RM 53-01"
 image: "/cdn-image/0ff2499ce47a51ca0e463d15.jpg"
 images: ["/cdn-image/0ff2499ce47a51ca0e463d15.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

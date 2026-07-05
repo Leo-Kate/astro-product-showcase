@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-05 Mechanical Men Mars Earth Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-52-05-004"
 category: "Richard Mille > RM 52-05"
 image: "/cdn-image/931bb3e871c555b32afbba1b.jpg"
 images: ["/cdn-image/931bb3e871c555b32afbba1b.jpg", "/cdn-image/dfe1152faaeebaaa0deaaac7.jpg", "/cdn-image/2179d420a91866b8785107a4.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-06 Automatic Men Dot Watch Hero Dial"
 brand: "Richard Mille"
 sku: "RM-K-52-06-010"
 category: "Richard Mille > RM 52-06"
 image: "/cdn-image/f9ac6f2fa6ddc41bf2b752e2.jpg"
 images: ["/cdn-image/f9ac6f2fa6ddc41bf2b752e2.jpg", "/cdn-image/7bb58d547ab780c4ebc545ee.jpg", "/cdn-image/774bfdc7e15e4b5769398527.jpg", "/cdn-image/611cd64a9fc16a5fa0f98c7a.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

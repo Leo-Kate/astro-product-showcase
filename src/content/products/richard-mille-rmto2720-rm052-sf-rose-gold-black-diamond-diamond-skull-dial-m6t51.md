@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 SF Rose Gold &amp; Black Diamond Diamond Skull Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2720"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/3eab09c55e466914d398a460.jpg"
 images: ["/cdn-image/3eab09c55e466914d398a460.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

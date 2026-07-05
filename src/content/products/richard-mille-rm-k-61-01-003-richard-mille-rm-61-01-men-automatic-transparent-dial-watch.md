@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 61-01 Men Automatic Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-61-01-003"
 category: "Richard Mille > RM 61-01"
 image: "/cdn-image/e148ad853e2eff387c9f3f8c.jpg"
 images: ["/cdn-image/e148ad853e2eff387c9f3f8c.jpg", "/cdn-image/3b3172eea505f548c6b014ae.jpg", "/cdn-image/5585ba4f90f7ecc0d7251a07.jpg", "/cdn-image/9ab0367d1db6666ba7735d69.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

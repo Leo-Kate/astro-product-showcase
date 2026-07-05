@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM053 PVD Fake Tourbillon Skeleton Dial Black Rubber Strap A2824"
 brand: "Richard Mille"
 sku: "RMTO2396"
 category: "Richard Mille > RM 053"
 image: "/cdn-image/e2091fb8677d24af215bcddb.jpg"
 images: ["/cdn-image/e2091fb8677d24af215bcddb.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

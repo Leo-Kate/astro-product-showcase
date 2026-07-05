@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM061 Men Hand Wind Rubber Band Ceramics Bezel Watch"
 brand: "Richard Mille"
 sku: "RM-J-061-003"
 category: "Richard Mille > RM 061"
 image: "/cdn-image/6d754d2f944a23e2d5bddaf5.jpg"
 images: ["/cdn-image/6d754d2f944a23e2d5bddaf5.jpg", "/cdn-image/292ff8e07834f46c05897200.jpg", "/cdn-image/d090bb8b2f6b0ef34a536c26.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

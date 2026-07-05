@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM26-02 Hand Wind Men Flame Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-26-02-003"
 category: "Richard Mille > RM 26-02"
 image: "/cdn-image/b97590e7c148f31e57f82e82.jpg"
 images: ["/cdn-image/b97590e7c148f31e57f82e82.jpg", "/cdn-image/d6035f4260a8e7cf8087b443.jpg", "/cdn-image/3b313796f670e91e960af7e5.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

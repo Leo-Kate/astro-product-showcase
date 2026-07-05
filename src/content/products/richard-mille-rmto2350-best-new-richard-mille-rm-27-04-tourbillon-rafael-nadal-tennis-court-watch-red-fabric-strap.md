@@ -1,11 +1,10 @@
----
+﻿---
 title: "Best New Richard Mille RM 27-04 Tourbillon Rafael Nadal Tennis Court Watch Red Fabric Strap"
 brand: "Richard Mille"
 sku: "RMTO2350"
 category: "Richard Mille > RM 27-04"
 image: "/cdn-image/4480c3c018d98aae24012f6f.jpg"
 images: ["/cdn-image/4480c3c018d98aae24012f6f.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

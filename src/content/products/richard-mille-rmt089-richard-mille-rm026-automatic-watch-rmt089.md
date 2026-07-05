@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM026 Automatic Watch &#8211; RMT089"
 brand: "Richard Mille"
 sku: "RMT089"
 category: "Richard Mille > RM 026"
 image: "/cdn-image/ce0e79c261cacbff9b0fb944.jpg"
 images: ["/cdn-image/ce0e79c261cacbff9b0fb944.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "19-01 SF PVD / SS Diamond Spyder Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2363"
 category: "Richard Mille > RM 51-01"
 image: "/cdn-image/dd640760c736b2bbdf446f51.jpg"
 images: ["/cdn-image/dd640760c736b2bbdf446f51.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

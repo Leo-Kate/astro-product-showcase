@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-02 Rafa Nadal KUF NTPT Green Rubber Strap Seiko NH05A"
 brand: "Richard Mille"
 sku: "RMTO2742"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/1d4cb0a166520f9da7ca8758.jpg"
 images: ["/cdn-image/1d4cb0a166520f9da7ca8758.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

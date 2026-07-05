@@ -1,11 +1,10 @@
----
+﻿---
 title: "Premium Richard Mille RM 055 Bubba Watson Replica Watch – Swiss Movement, Carbon Fiber Case, Skeleton Dial"
 brand: "Richard Mille"
 sku: "RM-055-00553"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/e235a31416fd1a99c4554260.jpg"
 images: ["/cdn-image/e235a31416fd1a99c4554260.jpg", "/cdn-image/b8c607b774daa50916a48cf6.jpg", "/cdn-image/a7ac0f978b64d4a2e6b4f045.jpg", "/cdn-image/0b59464363a6970a43ca987f.jpg", "/cdn-image/9239bd6a915c22ff465975c5.jpg", "/cdn-image/ce2e7822775e8f5d44c4e6cd.jpg", "/cdn-image/7f8171b07300d2d42ce28a76.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

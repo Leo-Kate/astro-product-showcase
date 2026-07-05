@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM027 SS Skeleton Dial Gray Rubber Strap 6T51"
 brand: "Richard Mille"
 sku: "RMTO2370"
 category: "Richard Mille > RM 027"
 image: "/cdn-image/7e9686fb4a3e3f460305f412.jpg"
 images: ["/cdn-image/7e9686fb4a3e3f460305f412.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

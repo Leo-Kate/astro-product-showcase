@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 61-01 Automatic Men Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-61-01-002"
 category: "Richard Mille > RM 61-01"
 image: "/cdn-image/ffc67ee3cac6775d64bea0da.jpg"
 images: ["/cdn-image/ffc67ee3cac6775d64bea0da.jpg", "/cdn-image/fe4bde791d0210ea7f97e1d1.jpg", "/cdn-image/89a4aab40566a8e776a185bd.jpg", "/cdn-image/5068f4afa2629e7f8f09d4a1.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

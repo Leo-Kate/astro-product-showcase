@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM007 Ladies SS Red Diamonds Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2234"
 category: "Richard Mille > RM 007"
 image: "/cdn-image/2f4e04471b48af38b683381a.jpg"
 images: ["/cdn-image/2f4e04471b48af38b683381a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

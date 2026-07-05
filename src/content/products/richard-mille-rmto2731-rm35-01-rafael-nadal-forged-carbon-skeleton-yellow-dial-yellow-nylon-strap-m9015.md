@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-01 Rafael Nadal Forged Carbon Skeleton Yellow Dial Yellow Nylon Strap M9015"
 brand: "Richard Mille"
 sku: "RMTO2731"
 category: "Richard Mille > RM 35-01"
 image: "/cdn-image/8ecc333a9f125518175c3dcb.jpg"
 images: ["/cdn-image/8ecc333a9f125518175c3dcb.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 052 Automatic Men Rubber Band Watch Stainless Steel"
 brand: "Richard Mille"
 sku: "RM-K-052-015"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/8938ffe0e1944ff4db019f58.jpg"
 images: ["/cdn-image/8938ffe0e1944ff4db019f58.jpg", "/cdn-image/1e61cc39db5e8ffaedc02fe5.jpg", "/cdn-image/6eaeab40cd6a9c71ea60f257.jpg", "/cdn-image/c295ab3848e73741e648ded4.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

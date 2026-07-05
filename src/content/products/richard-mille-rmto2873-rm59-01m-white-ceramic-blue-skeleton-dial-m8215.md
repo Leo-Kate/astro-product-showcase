@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM59-01M White Ceramic Blue Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2873"
 category: "Richard Mille > RM 59-01M"
 image: "/cdn-image/1e215990be07063addfe8e93.jpg"
 images: ["/cdn-image/1e215990be07063addfe8e93.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

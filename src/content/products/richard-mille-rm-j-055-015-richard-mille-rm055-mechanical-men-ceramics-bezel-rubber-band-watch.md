@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Mechanical Men Ceramics Bezel Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-J-055-015"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/088008084f1a28f8911d68bf.jpg"
 images: ["/cdn-image/088008084f1a28f8911d68bf.jpg", "/cdn-image/854cf139a0260ebed0c72cad.jpg", "/cdn-image/730ec7718a21745dc8c54bd0.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

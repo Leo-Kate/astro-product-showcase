@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Automatic Ladies Watch RM037"
 brand: "Richard Mille"
 sku: "RMTO2230"
 category: "Richard Mille > RM 037"
 image: "/cdn-image/56d5968eac12f18d44fd9509.jpg"
 images: ["/cdn-image/56d5968eac12f18d44fd9509.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

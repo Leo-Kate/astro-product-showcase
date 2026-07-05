@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM51-02 Mechanical Ladies Watch Diamond Paved Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-51-02-017"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/cfac2a6604f6f966212f7ba8.jpg"
 images: ["/cdn-image/cfac2a6604f6f966212f7ba8.jpg", "/cdn-image/5dec7dec63a08e64e549ce57.jpg", "/cdn-image/9946315a101d31016d066519.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

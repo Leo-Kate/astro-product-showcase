@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM023 KVF SS &amp; Diamonds Diamond Eagle Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2866"
 category: "Richard Mille > RM 023"
 image: "/cdn-image/3ccc190272337129cecb192c.jpg"
 images: ["/cdn-image/3ccc190272337129cecb192c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

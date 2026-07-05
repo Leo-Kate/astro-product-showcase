@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM51-02 Ladies Mechanical Diamond Bezel Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-51-02-001"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/237ba77cea9bc58f908fde9b.jpg"
 images: ["/cdn-image/237ba77cea9bc58f908fde9b.jpg", "/cdn-image/8ebc1f48cc3caa8a2cf561db.jpg", "/cdn-image/4e0bfdf2a9ece59b3b195367.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

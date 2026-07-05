@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Felipe Massa Americas Automatic Black Dial Unisex Watch RM011"
 brand: "Richard Mille"
 sku: "RMTO2467"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/1c898c49c228a13d13f0fec2.jpg"
 images: ["/cdn-image/1c898c49c228a13d13f0fec2.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

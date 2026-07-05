@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Men Automatic Watch Stainless Steel"
 brand: "Richard Mille"
 sku: "RM-J-011-008"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/c4a78a11af94bd43cf048e21.jpg"
 images: ["/cdn-image/c4a78a11af94bd43cf048e21.jpg", "/cdn-image/081d97e9963bea883ed90cef.jpg", "/cdn-image/490ce5bc5f022d355babbe18.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

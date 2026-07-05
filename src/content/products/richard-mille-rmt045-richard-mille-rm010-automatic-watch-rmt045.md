@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM010 Automatic Watch &#8211; RMT045"
 brand: "Richard Mille"
 sku: "RMT045"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/f5b4f3256fa61564565e08a8.jpg"
 images: ["/cdn-image/f5b4f3256fa61564565e08a8.jpg", "/cdn-image/9a39870cef2c0232cbba9a23.jpg", "/cdn-image/163a02d87599a4cd40dd359a.jpg", "/cdn-image/a341deae2f53279dd6e7ccf6.jpg", "/cdn-image/82c47971590203b9f944170c.jpg", "/cdn-image/34706f3afb991f518e426d47.jpg", "/cdn-image/93e6f962a50c77fbe64fc33c.jpg", "/cdn-image/f945908e1f4adc3c4ae51db1.jpg", "/cdn-image/f703850fb855db4318444c50.jpg"]
-price: 169900.0
 in_stock: true
 ---
 
@@ -16,5 +15,4 @@ in_stock: true
 <p>3. **Design**: Richard Mille watches are known for their distinctive and futuristic designs. The RM010 typically features a tonneau-shaped case, a skeletonized dial that showcases the intricate movement, and a unique crown design.</p>
 <p>4. **Functionality**: In addition to telling time, the RM010 may include additional features like a date display, power reserve indicator, and possibly other complications depending on the specific model.</p>
 <p>5. **Limited Editions**: Richard Mille often releases limited edition versions of their watches, which are highly sought after by collectors and enthusiasts.</p>
-<p>6. **Price**: Richard Mille watches are positioned in the ultra-luxury segment of the market, with prices that can range from tens of thousands to hundreds of thousands of dollars, depending on the model and materials used.</p>
 <p>Overall, the Richard Mille RM010 Automatic Watch is a symbol of luxury, innovation, and craftsmanship, appealing to watch enthusiasts who appreciate both technical excellence and exquisite design.</p>

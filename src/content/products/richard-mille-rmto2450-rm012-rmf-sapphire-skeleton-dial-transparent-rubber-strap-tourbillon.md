@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM012 RMF Sapphire Skeleton Dial Transparent Rubber Strap Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2450"
 category: "Richard Mille > RM 012"
 image: "/cdn-image/e5f379d89b056cc99612446d.jpg"
 images: ["/cdn-image/e5f379d89b056cc99612446d.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Men Mechanical Ceramics Bezel Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-35-02-007"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/17b65bd126366d5a44cd759f.jpg"
 images: ["/cdn-image/17b65bd126366d5a44cd759f.jpg", "/cdn-image/43bcde4551a026d651c56304.jpg", "/cdn-image/28dbb9db151656e67424cd01.jpg", "/cdn-image/59f518198c4e5f14ce422fc3.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

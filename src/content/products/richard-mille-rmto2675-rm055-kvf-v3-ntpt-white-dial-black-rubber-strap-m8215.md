@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM055 KVF V3 NTPT White Dial Black Rubber Strap M8215"
 brand: "Richard Mille"
 sku: "RMTO2675"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/a3ea2b4a87352e02c5355006.jpg"
 images: ["/cdn-image/a3ea2b4a87352e02c5355006.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

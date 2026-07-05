@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Mechanical Men Watch Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-35-02-004"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/e7471494d01fe7cf0692641a.jpg"
 images: ["/cdn-image/e7471494d01fe7cf0692641a.jpg", "/cdn-image/064b2e4c11dfe0a2abc0b6c8.jpg", "/cdn-image/bd2f8bb0d687eb8ffa318943.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

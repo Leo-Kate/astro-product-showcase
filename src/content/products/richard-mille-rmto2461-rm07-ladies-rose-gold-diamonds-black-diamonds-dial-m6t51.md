@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM07 Ladies Rose Gold &amp; Diamonds Black &amp; Diamonds Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2461"
 category: "Richard Mille > RM 07"
 image: "/cdn-image/2fe59e4c5b6db753ae3268e0.jpg"
 images: ["/cdn-image/2fe59e4c5b6db753ae3268e0.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

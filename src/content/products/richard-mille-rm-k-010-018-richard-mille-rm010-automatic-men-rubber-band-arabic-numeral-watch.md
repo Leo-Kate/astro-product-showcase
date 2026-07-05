@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM010 Automatic Men Rubber Band Arabic Numeral Watch"
 brand: "Richard Mille"
 sku: "RM-K-010-018"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/d4c19909ab8be14c4efb198b.jpg"
 images: ["/cdn-image/d4c19909ab8be14c4efb198b.jpg", "/cdn-image/0351bc7e1044ebe16dae9534.jpg", "/cdn-image/2526297107093d1cb3a6e403.jpg", "/cdn-image/4b1f5f0de6d78737770b0115.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

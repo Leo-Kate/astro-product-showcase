@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM55 KVF V3 White Ceramic &amp; Titanium Black Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2651"
 category: "Richard Mille > RM 55"
 image: "/cdn-image/56bd79e11ad237f14fc21dc5.jpg"
 images: ["/cdn-image/56bd79e11ad237f14fc21dc5.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

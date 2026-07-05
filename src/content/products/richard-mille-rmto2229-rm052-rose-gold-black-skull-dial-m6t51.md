@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 Rose Gold Black Skull Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2229"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/9aea6b45ad5cc89844694799.jpg"
 images: ["/cdn-image/9aea6b45ad5cc89844694799.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

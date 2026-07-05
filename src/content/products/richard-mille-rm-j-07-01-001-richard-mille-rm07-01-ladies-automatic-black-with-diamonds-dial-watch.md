@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM07-01 Ladies Automatic Black With Diamonds Dial Watch"
 brand: "Richard Mille"
 sku: "RM-J-07-01-001"
 category: "Richard Mille > RM 07-01"
 image: "/cdn-image/8ed6feaeb8d7c2e7f9daec21.jpg"
 images: ["/cdn-image/8ed6feaeb8d7c2e7f9daec21.jpg", "/cdn-image/d88d65c1d3d5ddd98629b22a.jpg", "/cdn-image/ecbb9759b034ff6dac8b0700.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

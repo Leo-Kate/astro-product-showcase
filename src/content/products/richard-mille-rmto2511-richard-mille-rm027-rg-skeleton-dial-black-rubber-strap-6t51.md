@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM027 RG Skeleton Dial Black Rubber Strap 6T51"
 brand: "Richard Mille"
 sku: "RMTO2511"
 category: "Richard Mille > RM 027"
 image: "/cdn-image/4371d9d19437cb247d987769.jpg"
 images: ["/cdn-image/4371d9d19437cb247d987769.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

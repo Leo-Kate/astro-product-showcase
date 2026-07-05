@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 07-02 Ladies Automatic Acrylic Watch Red With Diamonds Dial"
 brand: "Richard Mille"
 sku: "RM-K-07-02-005"
 category: "Richard Mille > RM 07-02"
 image: "/cdn-image/fc8c0eb9e1167b7b6badb311.jpg"
 images: ["/cdn-image/fc8c0eb9e1167b7b6badb311.jpg", "/cdn-image/feb9fab08eebc425ea870777.jpg", "/cdn-image/ada3ee803a9d58b5ff488876.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM21-01 Men Automatic Rubber Band Arabic Numeral Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-K-21-01-001"
 category: "Richard Mille > RM 21-01"
 image: "/cdn-image/fd4b171c09ca481b8deb674f.jpg"
 images: ["/cdn-image/fd4b171c09ca481b8deb674f.jpg", "/cdn-image/fa10faa6c77280b4bf1fa832.jpg", "/cdn-image/760b083ae7ff25df3e77e9a5.jpg", "/cdn-image/a45765db9f2e4e1342e11c2d.jpg"]
-price: 109900.0
 in_stock: true
 ---
 

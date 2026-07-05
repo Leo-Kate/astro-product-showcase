@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM001 Tourbillon JBF Ceramic Black Dial Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2653"
 category: "Richard Mille > RM 001"
 image: "/cdn-image/a8d937ce9cd54fd860f28cad.jpg"
 images: ["/cdn-image/a8d937ce9cd54fd860f28cad.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

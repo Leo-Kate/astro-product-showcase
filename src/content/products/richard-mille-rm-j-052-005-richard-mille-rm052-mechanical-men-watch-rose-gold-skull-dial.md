@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM052 Mechanical Men Watch Rose Gold Skull Dial"
 brand: "Richard Mille"
 sku: "RM-J-052-005"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/9fd1f3c795ed65b953d5513d.jpg"
 images: ["/cdn-image/9fd1f3c795ed65b953d5513d.jpg", "/cdn-image/2e814ee2e0936c12de7264d0.jpg", "/cdn-image/410f58a69422df35fa645abc.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

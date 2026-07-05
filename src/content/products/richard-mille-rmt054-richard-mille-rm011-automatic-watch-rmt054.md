@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Automatic Watch &#8211; RMT054"
 brand: "Richard Mille"
 sku: "RMT054"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/566f6650234d22cca9f520fe.jpg"
 images: ["/cdn-image/566f6650234d22cca9f520fe.jpg"]
-price: 169900.0
 in_stock: true
 ---
 
@@ -15,6 +14,5 @@ in_stock: true
 <p>3. **Design**: The RM011 features a distinctive tonneau-shaped case, which is a signature design element of Richard Mille watches. The dial is typically skeletonized, allowing a view of the intricate movement inside.</p>
 <p>4. **Chronograph Function**: The RM011 often includes a chronograph function, allowing the wearer to measure elapsed time with precision.</p>
 <p>5. **Limited Editions**: Richard Mille frequently releases limited editions of their watches, featuring unique materials, color schemes, or design elements that make them highly collectible.</p>
-<p>6. **Price**: Richard Mille watches are considered ultra-luxury timepieces, with prices often reaching into the hundreds of thousands of dollars, depending on the model and materials used.</p>
 <p>7. **Popularity**: The RM011 Automatic Watch has gained popularity among watch enthusiasts, celebrities, and collectors for its blend of cutting-edge technology, avant-garde design, and exclusivity.</p>
 <p>Overall, the Richard Mille RM011 Automatic Watch is a symbol of luxury and innovation in the world of high-end watchmaking, appealing to those who appreciate both technical excellence and distinctive design aesthetics.</p>

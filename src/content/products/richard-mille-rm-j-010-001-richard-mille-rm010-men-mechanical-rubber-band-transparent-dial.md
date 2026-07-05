@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM010 Men Mechanical Rubber Band Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-010-001"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/e3287de834e92e989d9ca7f2.jpg"
 images: ["/cdn-image/e3287de834e92e989d9ca7f2.jpg", "/cdn-image/fd5dcd20d77960a6ca906c5d.jpg", "/cdn-image/e4250eb9d396683209f6adf1.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

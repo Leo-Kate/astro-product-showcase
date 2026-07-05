@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Automatic Men Watch Rubber Band Titanium"
 brand: "Richard Mille"
 sku: "RM-J-011-011"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/59b828cc6532acf9775c675b.jpg"
 images: ["/cdn-image/59b828cc6532acf9775c675b.jpg", "/cdn-image/b22ecd1397a7924701d47a44.jpg", "/cdn-image/62f67be389bfea33d126bd0a.jpg"]
-price: 99900.0
 in_stock: true
 ---
 

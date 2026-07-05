@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM12-01 Men Automatic Transparent Dial Dot"
 brand: "Richard Mille"
 sku: "RM-K-12-01-013"
 category: "Richard Mille > RM 12-01"
 image: "/cdn-image/4efbce5bcfa8f3e3bac3dede.jpg"
 images: ["/cdn-image/4efbce5bcfa8f3e3bac3dede.jpg", "/cdn-image/671a6ab05b96c5f6f7ae28c3.jpg", "/cdn-image/8bbfc54509a64eeec30d671d.jpg", "/cdn-image/163d6b97610386edbd5e6d9f.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

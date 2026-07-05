@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35 Americas ZF Ceramic Black Dial NH05A"
 brand: "Richard Mille"
 sku: "RMTO2813"
 category: "Richard Mille > RM 35"
 image: "/cdn-image/42197367fdcd2b66051bf5b8.jpg"
 images: ["/cdn-image/42197367fdcd2b66051bf5b8.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM026 Automatic Watch &#8211; RMT090"
 brand: "Richard Mille"
 sku: "RMT090"
 category: "Richard Mille > RM 026"
 image: "/cdn-image/34a7ac6e7ba5e419378517d1.jpg"
 images: ["/cdn-image/34a7ac6e7ba5e419378517d1.jpg", "/cdn-image/2cf036c38f991b8dbc817cc9.jpg", "/cdn-image/263d4c9dca06f3b5339354f1.jpg", "/cdn-image/0fb288efea0794f2043a2407.jpg", "/cdn-image/84aa57dd17b4066d1b509fa4.jpg", "/cdn-image/6c6005be3aca19bedf5a3b54.jpg", "/cdn-image/532491c821451c2888876152.jpg", "/cdn-image/cbfaeeccb7d85227b217f0a0.jpg", "/cdn-image/ee407b16b0455df1f7f332f4.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

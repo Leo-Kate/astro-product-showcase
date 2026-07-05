@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Men Mechanical Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-35-02-023"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/1b907fceeb9414539137bf52.jpg"
 images: ["/cdn-image/1b907fceeb9414539137bf52.jpg", "/cdn-image/3a2710b69adb42da42c10bf7.jpg", "/cdn-image/b72832aef1007006292d0466.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

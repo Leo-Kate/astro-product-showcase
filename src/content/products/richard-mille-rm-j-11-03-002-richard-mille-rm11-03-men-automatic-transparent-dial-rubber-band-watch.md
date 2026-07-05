@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM11-03 Men Automatic Transparent Dial Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-J-11-03-002"
 category: "Richard Mille > RM 11-03"
 image: "/cdn-image/11a0f760040acbd9786117d2.jpg"
 images: ["/cdn-image/11a0f760040acbd9786117d2.jpg", "/cdn-image/d5df811c07928b88b28b7a21.jpg", "/cdn-image/12b2d59dde1f6fd9c3b9bcd5.jpg", "/cdn-image/222079033a1cd6dcddef0cec.jpg", "/cdn-image/342d5a9038ae4e3bd1e5137d.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

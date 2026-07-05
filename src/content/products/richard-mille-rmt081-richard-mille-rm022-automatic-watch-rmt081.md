@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM022 Automatic Watch &#8211; RMT081"
 brand: "Richard Mille"
 sku: "RMT081"
 category: "Richard Mille > RM 022"
 image: "/cdn-image/72c38900a6d060da976785df.jpg"
 images: ["/cdn-image/72c38900a6d060da976785df.jpg"]
-price: 169900.0
 in_stock: true
 ---
 
@@ -15,5 +14,4 @@ in_stock: true
 <p>3. **Functionality**: As an automatic watch, the RM022 harnesses the wearer’s wrist movement to power its mechanism, delivering precise and reliable timekeeping, characteristic of this esteemed brand.</p>
 <p>4. **Complications**: A hallmark of Richard Mille watches is their impressive complications, offering additional functionalities beyond basic timekeeping. These may include features like a tourbillon, power reserve indicator, GMT function, or a chronograph, enhancing the watch’s versatility and technical sophistication.</p>
 <p>5. **Limited Editions**: Richard Mille frequently introduces limited edition variants of their watches, amplifying their exclusivity and allure among discerning collectors and enthusiasts seeking an exceptional timepiece.</p>
-<p>6. **Price**: Positioned among the most expensive luxury watches globally, Richard Mille timepieces, including the RM022, command substantial price tags reaching into the hundreds of thousands or even millions of dollars, reflecting the brand’s unparalleled quality, innovation, and desirability.</p>
 <p>In essence, the Richard Mille RM022 Automatic Watch epitomizes luxury, innovation, and exquisite craftsmanship, appealing to aficionados and collectors with a discerning taste for high-end timepieces that transcend mere functionality to become symbols of sophistication and opulence.</p>

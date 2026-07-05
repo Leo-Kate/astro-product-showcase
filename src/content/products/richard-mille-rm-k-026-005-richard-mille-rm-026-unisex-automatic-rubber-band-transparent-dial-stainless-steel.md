@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 026 Unisex Automatic Rubber Band Transparent Dial Stainless Steel"
 brand: "Richard Mille"
 sku: "RM-K-026-005"
 category: "Richard Mille > RM 026"
 image: "/cdn-image/6ec152be052e08dcaafe24c2.jpg"
 images: ["/cdn-image/6ec152be052e08dcaafe24c2.jpg", "/cdn-image/f0edb968c13dc9bf1625121d.jpg", "/cdn-image/a28f6e8122e10dfc9f0328cf.jpg", "/cdn-image/c865ccf30ef0c5d7530d729b.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

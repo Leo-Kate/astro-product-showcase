@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM035-01 Rafa Forged Carbon Black Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2386"
 category: "Richard Mille > RM 035-01"
 image: "/cdn-image/f6ab1b8274648e802b1e21df.jpg"
 images: ["/cdn-image/f6ab1b8274648e802b1e21df.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

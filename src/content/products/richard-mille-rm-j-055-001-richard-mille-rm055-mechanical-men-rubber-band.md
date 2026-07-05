@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Mechanical Men Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-055-001"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/17f44747658818441de9d52a.jpg"
 images: ["/cdn-image/17f44747658818441de9d52a.jpg", "/cdn-image/af978b94b7dea5ce910bb157.jpg", "/cdn-image/a5e969e901d88d4cb9a07e63.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM010 Mechanical Men Rubber Band Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-J-010-003"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/602f352bee39158e420eb28b.jpg"
 images: ["/cdn-image/602f352bee39158e420eb28b.jpg", "/cdn-image/65013f82b3ec0927bd223934.jpg", "/cdn-image/b1021aaa01886e7937a45e27.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

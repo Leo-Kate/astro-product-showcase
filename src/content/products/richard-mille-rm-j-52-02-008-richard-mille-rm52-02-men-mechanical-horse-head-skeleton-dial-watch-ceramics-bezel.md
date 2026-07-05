@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Men Mechanical Horse Head Skeleton Dial Watch Ceramics Bezel"
 brand: "Richard Mille"
 sku: "RM-J-52-02-008"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/92a8af6a4f7ddd06df456f42.jpg"
 images: ["/cdn-image/92a8af6a4f7ddd06df456f42.jpg", "/cdn-image/c41004028b5f3ad291465aa4.jpg", "/cdn-image/1c6ece45a7a126727fb62375.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

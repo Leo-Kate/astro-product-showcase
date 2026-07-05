@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-01 Roberto Mancini Flyback Chrono KVF Red Forged Carbon Black Skeleton Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2535"
 category: "Richard Mille > RM 011-01"
 image: "/cdn-image/8bf7891915c80e279d13a45a.jpg"
 images: ["/cdn-image/8bf7891915c80e279d13a45a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

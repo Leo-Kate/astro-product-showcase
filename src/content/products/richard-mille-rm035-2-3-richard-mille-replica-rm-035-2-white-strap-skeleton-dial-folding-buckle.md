@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Replica RM 035-2 White Strap Skeleton Dial Folding Buckle"
 brand: "Richard Mille"
 sku: "RM035-2-3"
 category: "Richard Mille > RM 035-2"
 image: "/cdn-image/2f50455774f1c0b1953454b5.jpg"
 images: ["/cdn-image/2f50455774f1c0b1953454b5.jpg", "/cdn-image/1e9aa56537de14115141fc65.jpg", "/cdn-image/5e7157b50ae737b4fc79317e.jpg", "/cdn-image/5436c991f6556f57e3b4d96b.jpg", "/cdn-image/138c99a962ba0c93ba36bd64.jpg", "/cdn-image/05ce581f1361c230a2b034e7.jpg", "/cdn-image/e7f821148cd69d4ba91f3874.jpg", "/cdn-image/bc46f5426aee33139878f417.jpg", "/cdn-image/6065b371bf4917f0e6d48bd2.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

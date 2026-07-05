@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM21-01 Men Automatic Arabic Numeral Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-21-01-002"
 category: "Richard Mille > RM 21-01"
 image: "/cdn-image/9b120599cfd5b576d7fdb795.jpg"
 images: ["/cdn-image/9b120599cfd5b576d7fdb795.jpg", "/cdn-image/c38fe00f1dfae11123a46019.jpg", "/cdn-image/07b636a1393b26befe98200e.jpg", "/cdn-image/e13bb87164a7558d4e519a87.jpg"]
-price: 109900.0
 in_stock: true
 ---
 

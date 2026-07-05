@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 RG Black Ceramic Chrono Skeleton Dial RG Inner Bezel Black Rubber Strap A7750"
 brand: "Richard Mille"
 sku: "RMTO2282"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/be2310f1ad15f405a5318ec9.jpg"
 images: ["/cdn-image/be2310f1ad15f405a5318ec9.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

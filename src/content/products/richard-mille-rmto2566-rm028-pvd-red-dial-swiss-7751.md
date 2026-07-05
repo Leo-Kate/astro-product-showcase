@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM028 PVD Red Dial Swiss 7751"
 brand: "Richard Mille"
 sku: "RMTO2566"
 category: "Richard Mille > RM 028"
 image: "/cdn-image/42c6a1bf313c96b74b591c73.jpg"
 images: ["/cdn-image/42c6a1bf313c96b74b591c73.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

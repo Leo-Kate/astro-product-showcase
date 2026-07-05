@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM12-01 Mechanical Men Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-J-12-01-007"
 category: "Richard Mille > RM 12-01"
 image: "/cdn-image/367a0059501c007937635819.jpg"
 images: ["/cdn-image/367a0059501c007937635819.jpg", "/cdn-image/0d33dbfa12369496c7bf1fd8.jpg", "/cdn-image/a6623f5d239b209d84d54faa.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

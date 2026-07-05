@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 Felipe Massa Chrono KVF Rose Gold &amp; Diamonds Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2393"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/f85ea929892cce17891eb03b.jpg"
 images: ["/cdn-image/f85ea929892cce17891eb03b.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

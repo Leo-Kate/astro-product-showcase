@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 56-01 Automatic Men Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-56-01-001"
 category: "Richard Mille > RM 56-01"
 image: "/cdn-image/ae1c23827fe830b407f09ea1.jpg"
 images: ["/cdn-image/ae1c23827fe830b407f09ea1.jpg", "/cdn-image/bfcd4e9ea17be52184d79326.jpg", "/cdn-image/7feb7271c87861240dc66b20.jpg", "/cdn-image/24d98c5f7cbb2049d5da4699.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

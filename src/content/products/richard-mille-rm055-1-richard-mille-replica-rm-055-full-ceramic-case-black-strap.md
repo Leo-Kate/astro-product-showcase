@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Replica RM 055 Full Ceramic Case Black Strap"
 brand: "Richard Mille"
 sku: "RM055-1"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/e7d790693e9e35d4cef51da0.jpg"
 images: ["/cdn-image/e7d790693e9e35d4cef51da0.jpg", "/cdn-image/3a60d137fd980f5c960e1419.jpg", "/cdn-image/ed4d7fea1812adfe8d799ab3.jpg", "/cdn-image/2fdb719f7d6308ac93562bc1.jpg", "/cdn-image/f5f03ec5c4bbdc166f15d531.jpg", "/cdn-image/13566f9771cab863d9ea209c.jpg", "/cdn-image/861ba70c1744accb3e9b06e4.jpg", "/cdn-image/469d37b4df192e7ade069c57.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

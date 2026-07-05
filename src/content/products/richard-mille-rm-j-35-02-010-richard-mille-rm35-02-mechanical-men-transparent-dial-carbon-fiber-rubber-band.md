@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Mechanical Men Transparent Dial Carbon Fiber Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-35-02-010"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/2ca9337e3a4d016a1aa89f9d.jpg"
 images: ["/cdn-image/2ca9337e3a4d016a1aa89f9d.jpg", "/cdn-image/107a1a371be678d1ba9c454a.jpg", "/cdn-image/1d9f8f5c38eb2573fc273e71.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

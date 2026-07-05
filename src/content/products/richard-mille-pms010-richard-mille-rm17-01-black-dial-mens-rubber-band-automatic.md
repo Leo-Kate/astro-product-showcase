@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM17-01 Black Dial Men’s Rubber Band Automatic"
 brand: "Richard Mille"
 sku: "PMS010"
 category: "Richard Mille > RM 17-01"
 image: "/cdn-image/dc07d34bf84c69cacbadeff9.jpg"
 images: ["/cdn-image/dc07d34bf84c69cacbadeff9.jpg", "/cdn-image/be54da16e594fce185d8b506.jpg", "/cdn-image/7b7aacc8372ebed31430fd24.jpg", "/cdn-image/46fb56916f88adb079be5cad.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM051-01 Tiger &amp; Dragon KVF Ceramic Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2802"
 category: "Richard Mille > RM 051-01"
 image: "/cdn-image/67e1402f79757ed4f6321f29.jpg"
 images: ["/cdn-image/67e1402f79757ed4f6321f29.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

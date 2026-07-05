@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Mechanical Men Rubber Band Watch Horse Head Skeleton Dial"
 brand: "Richard Mille"
 sku: "RM-J-52-02-003"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/297cc3fcb438b7f301323b29.jpg"
 images: ["/cdn-image/297cc3fcb438b7f301323b29.jpg", "/cdn-image/a8cd002f68d2f5d15012e837.jpg", "/cdn-image/7c28e9707e91aaa18129629c.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

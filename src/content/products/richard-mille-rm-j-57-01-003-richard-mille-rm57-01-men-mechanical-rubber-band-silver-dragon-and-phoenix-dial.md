@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM57-01 Men Mechanical Rubber Band Silver Dragon and Phoenix Dial"
 brand: "Richard Mille"
 sku: "RM-J-57-01-003"
 category: "Richard Mille > RM 57-01"
 image: "/cdn-image/28f49e190a390a5b41e317c4.jpg"
 images: ["/cdn-image/28f49e190a390a5b41e317c4.jpg", "/cdn-image/d2e161bdbb335899fe6a9266.jpg", "/cdn-image/4ab1a8412e1b446a8d8eb33b.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

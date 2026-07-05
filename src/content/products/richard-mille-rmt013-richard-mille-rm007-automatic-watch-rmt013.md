@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM007 Automatic Watch &#8211; RMT013"
 brand: "Richard Mille"
 sku: "RMT013"
 category: "Richard Mille > RM 007"
 image: "/cdn-image/796a7bc7571688b8738385b4.jpg"
 images: ["/cdn-image/796a7bc7571688b8738385b4.jpg"]
-price: 169900.0
 in_stock: true
 ---
 
@@ -16,5 +15,4 @@ in_stock: true
 <p>3. **Innovation**: Richard Mille watches are known for their technical innovation, with features such as skeletonized dials, complex movements, and unique case designs.</p>
 <p>4. **Design**: The RM007 has a distinctive and modern design that sets it apart from traditional luxury watches. The brand is known for its futuristic aesthetic and attention to detail.</p>
 <p>5. **Limited Editions**: Richard Mille often releases limited editions of their watches, making them highly sought after by collectors and enthusiasts.</p>
-<p>6. **Price**: Richard Mille watches are considered to be among the most expensive in the world, with prices often reaching into the hundreds of thousands of dollars.</p>
 <p>Overall, the Richard Mille RM007 Automatic Watch is a symbol of luxury and craftsmanship, appealing to those who appreciate cutting-edge design and horological innovation.</p>

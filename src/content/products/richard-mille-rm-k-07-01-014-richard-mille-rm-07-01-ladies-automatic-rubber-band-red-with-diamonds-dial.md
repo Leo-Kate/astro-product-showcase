@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 07-01 Ladies Automatic Rubber Band Red With Diamonds Dial"
 brand: "Richard Mille"
 sku: "RM-K-07-01-014"
 category: "Richard Mille > RM 07-01"
 image: "/cdn-image/97132ab358b6cf8c2d56370f.jpg"
 images: ["/cdn-image/97132ab358b6cf8c2d56370f.jpg", "/cdn-image/6237bcc502ae3c2e16fc4efe.jpg", "/cdn-image/817d35439d97f85331491da1.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Men Mechanical Rubber Band Ceramics Bezel"
 brand: "Richard Mille"
 sku: "RM-J-35-02-011"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/3353ac3a43ec948d481831ee.jpg"
 images: ["/cdn-image/3353ac3a43ec948d481831ee.jpg", "/cdn-image/c5fbfd1a37ce0a249fccf478.jpg", "/cdn-image/65bc8467f42d309eb91acd0f.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM69 Erotic Tourbillon KVF Titanium Black Dial Caliber RM69"
 brand: "Richard Mille"
 sku: "RMTO2513"
 category: "Richard Mille > RM 69"
 image: "/cdn-image/802682cd7b440ca55f084b8c.jpg"
 images: ["/cdn-image/802682cd7b440ca55f084b8c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

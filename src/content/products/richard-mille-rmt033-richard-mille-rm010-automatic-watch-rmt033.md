@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM010 Automatic Watch &#8211; RMT033"
 brand: "Richard Mille"
 sku: "RMT033"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/f713e9cc66caedcd992ae19c.jpg"
 images: ["/cdn-image/f713e9cc66caedcd992ae19c.jpg", "/cdn-image/48deee5ddc15c539eb549fed.jpg", "/cdn-image/890221c527ec64e3910ebdbb.jpg", "/cdn-image/965648facbf2841f53661b4e.jpg", "/cdn-image/6cf49d24fc8695b84f95786a.jpg", "/cdn-image/89398a3172f25cf51457400d.jpg", "/cdn-image/dde7fa2c2238cdf22e96a4d5.jpg", "/cdn-image/e92446d13ef3d6955c769349.jpg", "/cdn-image/3eadf20b3953ec74dbbcb75a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 
@@ -16,5 +15,4 @@ in_stock: true
 <p>3. **Automatic Movement**: The RM010 is equipped with an automatic movement, which means it is self-winding and does not require manual winding to keep it running.</p>
 <p>4. **Complications**: Depending on the specific model, the RM010 may include additional complications such as a date display, power reserve indicator, or other features that enhance the functionality of the watch.</p>
 <p>5. **Limited Editions**: Richard Mille often releases limited edition versions of their watches, which can make certain models highly sought after by collectors.</p>
-<p>6. **Price**: Richard Mille watches are known for their high price tags, reflecting the craftsmanship, materials, and exclusivity of the brand.</p>
 <p>Overall, the Richard Mille RM010 Automatic Watch is a symbol of luxury and technological prowess in the world of haute horlogerie, appealing to watch enthusiasts who appreciate both design innovation and mechanical excellence.</p>

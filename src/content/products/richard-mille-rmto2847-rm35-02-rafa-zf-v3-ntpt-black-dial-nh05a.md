@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-02 Rafa ZF V3 NTPT Black Dial NH05A"
 brand: "Richard Mille"
 sku: "RMTO2847"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/17cd07b686df53de4cb505b7.jpg"
 images: ["/cdn-image/17cd07b686df53de4cb505b7.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

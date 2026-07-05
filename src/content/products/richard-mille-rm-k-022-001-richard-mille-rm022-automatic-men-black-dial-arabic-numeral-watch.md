@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM022 Automatic Men Black Dial Arabic Numeral Watch"
 brand: "Richard Mille"
 sku: "RM-K-022-001"
 category: "Richard Mille > RM 022"
 image: "/cdn-image/9bba8b994f0cbafd2d57e224.jpg"
 images: ["/cdn-image/9bba8b994f0cbafd2d57e224.jpg", "/cdn-image/3a6ca5564ea8c50666ae0903.jpg", "/cdn-image/21caf70547b781976c104459.jpg", "/cdn-image/d4481de82b991ab49f045fd7.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

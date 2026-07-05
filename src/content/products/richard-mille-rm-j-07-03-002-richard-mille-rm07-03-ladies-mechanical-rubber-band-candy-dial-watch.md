@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM07-03 Ladies Mechanical Rubber Band Candy Dial Watch"
 brand: "Richard Mille"
 sku: "RM-J-07-03-002"
 category: "Richard Mille > RM 07-03"
 image: "/cdn-image/d2263b9bd9fc3fdb879fce40.jpg"
 images: ["/cdn-image/d2263b9bd9fc3fdb879fce40.jpg", "/cdn-image/dbe04cbeb8fdf899a2b78f0a.jpg", "/cdn-image/6ee1f0a249b5220ee59d1203.jpg", "/cdn-image/9dafe5b8f906fab132b446c2.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

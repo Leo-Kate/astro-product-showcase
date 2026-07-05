@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM052 Men Mechanical Watch Black Skull Dial"
 brand: "Richard Mille"
 sku: "RM-J-052-010"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/e3573072adfa867d74409126.jpg"
 images: ["/cdn-image/e3573072adfa867d74409126.jpg", "/cdn-image/19449967a74029f004c04682.jpg", "/cdn-image/f9fdb28c29590110671a8e09.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

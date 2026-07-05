@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM37-01 Mechanical Ladies Watch Stainless Steel Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-37-01-001"
 category: "Richard Mille > RM 37-01"
 image: "/cdn-image/2a24b06cddd8e0130e98e172.jpg"
 images: ["/cdn-image/2a24b06cddd8e0130e98e172.jpg", "/cdn-image/6d458a4ccf3b900e2d50ea2e.jpg", "/cdn-image/806794e7b66fc7ab7663fecd.jpg", "/cdn-image/972ae4eb77548891e9567411.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

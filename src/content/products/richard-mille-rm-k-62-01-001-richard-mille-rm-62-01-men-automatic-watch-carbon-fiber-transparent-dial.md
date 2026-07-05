@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 62-01 Men Automatic Watch Carbon Fiber Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-K-62-01-001"
 category: "Richard Mille > RM 62-01"
 image: "/cdn-image/ffeb5bd178bea4b3c0c637cf.jpg"
 images: ["/cdn-image/ffeb5bd178bea4b3c0c637cf.jpg", "/cdn-image/5b24dece8d90d280f70aaff1.jpg", "/cdn-image/ea6362a7126dee018a1eb62f.jpg", "/cdn-image/3ebea6492cea704572cf8013.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

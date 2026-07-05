@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-03 KVF Titanium Black Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2526"
 category: "Richard Mille > RM 011-03"
 image: "/cdn-image/ad2c74dffc08ed61b00fc051.jpg"
 images: ["/cdn-image/ad2c74dffc08ed61b00fc051.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

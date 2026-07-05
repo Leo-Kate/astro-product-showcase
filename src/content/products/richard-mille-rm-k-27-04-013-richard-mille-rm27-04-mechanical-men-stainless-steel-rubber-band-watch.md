@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM27-04 Mechanical Men Stainless Steel Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-27-04-013"
 category: "Richard Mille > RM 27-04"
 image: "/cdn-image/ff3f155f73e8b50c38da9724.jpg"
 images: ["/cdn-image/ff3f155f73e8b50c38da9724.jpg", "/cdn-image/d5866f3dca4e8357685e40fb.jpg", "/cdn-image/1efd83a6933cad473ccba205.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

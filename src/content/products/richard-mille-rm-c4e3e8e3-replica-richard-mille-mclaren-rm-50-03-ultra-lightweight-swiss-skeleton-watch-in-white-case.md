@@ -1,11 +1,10 @@
----
+﻿---
 title: "Replica Richard Mille McLaren RM 50-03 – Ultra Lightweight Swiss Skeleton Watch In White Case"
 brand: "Richard Mille"
 sku: "RM-C4E3E8E3"
 category: "Richard Mille > RM 50-03"
 image: "/cdn-image/774ccd5f4e303c31a89e8b76.jpg"
 images: ["/cdn-image/774ccd5f4e303c31a89e8b76.jpg", "/cdn-image/a5383b31557131b4f3672b60.jpg", "/cdn-image/39f2f9c20a5f3bee7ee3de63.jpg", "/cdn-image/b911c9a49b6002b02646aa8c.jpg", "/cdn-image/cb8209299b4bf12b509971bf.jpg", "/cdn-image/2d24d0fe2b0f35aef388b614.jpg", "/cdn-image/74a992b5526a927a2535d014.jpg", "/cdn-image/184b9b9a2f29ccdfeb5a9487.jpg", "/cdn-image/d7cee29cabaaeb03050a0b65.jpg", "/cdn-image/c91a47fcf3ebd7042d846f1f.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

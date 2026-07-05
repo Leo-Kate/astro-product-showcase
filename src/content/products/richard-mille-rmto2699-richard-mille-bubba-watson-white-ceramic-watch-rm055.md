@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Bubba Watson White Ceramic Watch RM055"
 brand: "Richard Mille"
 sku: "RMTO2699"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/b42df48a7e11bc0df7f0cace.jpg"
 images: ["/cdn-image/b42df48a7e11bc0df7f0cace.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 61-01 Men Automatic Ceramics Bezel Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-61-01-001"
 category: "Richard Mille > RM 61-01"
 image: "/cdn-image/5fabf631e1cd34c5992c0b2c.jpg"
 images: ["/cdn-image/5fabf631e1cd34c5992c0b2c.jpg", "/cdn-image/4186dcfa4a96dbf81f6b449b.jpg", "/cdn-image/ac3b50fff7fb58b7a1d66414.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

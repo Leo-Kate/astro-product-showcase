@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM61-01 Yohan Blake NTPT ZF White Dial Black Nylon Strap Seiko NH05A"
 brand: "Richard Mille"
 sku: "RMTO2495"
 category: "Richard Mille > RM 61-01"
 image: "/cdn-image/61df365a9c96865e861b65fb.jpg"
 images: ["/cdn-image/61df365a9c96865e861b65fb.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Polo Club Saint Tropez RM052 KVF Black Ceramic Silver Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2519"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/e896298fb839db9279a35478.jpg"
 images: ["/cdn-image/e896298fb839db9279a35478.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

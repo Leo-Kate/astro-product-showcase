@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 010 Automatic Men Carbon Fiber Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-K-010-013"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/41e1a85ef1c7b5f5222bb56b.jpg"
 images: ["/cdn-image/41e1a85ef1c7b5f5222bb56b.jpg", "/cdn-image/66b731efdf251dc2a4c575a5.jpg", "/cdn-image/32e0c62fc806328dd57a6291.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-05 Mechanical Men Watch"
 brand: "Richard Mille"
 sku: "RM-K-52-05-009"
 category: "Richard Mille > RM 52-05"
 image: "/cdn-image/5fb5c19fd13200474c7ed63b.jpg"
 images: ["/cdn-image/5fb5c19fd13200474c7ed63b.jpg", "/cdn-image/a2e3e2d2647165fec8d27607.jpg", "/cdn-image/1a0e000281a7e8da2d6801f6.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

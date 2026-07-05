@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-02 Rafa ZF NTPT Black Dial Black Rubber Strap NH05A V4"
 brand: "Richard Mille"
 sku: "RMTO2499"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/f5ac048a4bc1aafa38d7760d.jpg"
 images: ["/cdn-image/f5ac048a4bc1aafa38d7760d.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

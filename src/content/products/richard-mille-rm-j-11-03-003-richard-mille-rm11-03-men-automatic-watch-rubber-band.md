@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM11-03 Men Automatic Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-11-03-003"
 category: "Richard Mille > RM 11-03"
 image: "/cdn-image/db64c740207b58dd39e0b482.jpg"
 images: ["/cdn-image/db64c740207b58dd39e0b482.jpg", "/cdn-image/2dc5e7e3f0653f548c450934.jpg", "/cdn-image/25b352564e789facea8799fc.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

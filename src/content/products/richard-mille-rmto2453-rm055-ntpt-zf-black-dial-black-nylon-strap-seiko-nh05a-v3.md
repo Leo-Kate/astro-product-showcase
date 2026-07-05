@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM055 NTPT ZF Black Dial Black Nylon Strap Seiko NH05A V3"
 brand: "Richard Mille"
 sku: "RMTO2453"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/ad4adc4d2cade1568545c16c.jpg"
 images: ["/cdn-image/ad4adc4d2cade1568545c16c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

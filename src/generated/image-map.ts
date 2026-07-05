@@ -3619,7 +3619,6 @@ export const imageMap: Record<string, string> = {
   "9a77e4203663a8da29680745.jpg": "https://www.rmwatches.net/wp-content/uploads/2020/06/RM-35-02-Green-7.jpg",
   "9a7840dccb4c4a79585bed72.jpg": "https://cdn.gfimage.com/product/30/image/2025/08/18/92c796fe1625d84db4246719f7e1713f.jpg",
   "9a835a995a81337446117117.jpg": "https://www.rmwatches.net/wp-content/uploads/2020/06/RM027-Black.jpg",
-  "9a87be5b0c079e654bb1e68a.jpg": "https://www.rmwatches.net/wp-content/uploads/2020/10/1.jpg",
   "9a92b02261dc28a8ed63f803.jpg": "https://www.rmwatches.net/wp-content/uploads/2022/04/RM-K-052-017-2.jpg",
   "9ab0367d1db6666ba7735d69.jpg": "https://www.rmwatches.net/wp-content/uploads/2022/04/RM-K-61-01-003-4.jpg",
   "9abb2525a47161cbcc88b416.jpg": "https://www.rmwatches.net/wp-content/uploads/2024/08/rm00388-1.jpg",
@@ -5876,5 +5875,5 @@ export const imageMap: Record<string, string> = {
   "ffe7b7e5dae0bcc004c57ac1.jpg": "https://cdn.gfimage.com/product/30/image/2025/08/18/68d080edf6d74da51d53426b8b8dd88b.jpg",
   "ffeb5bd178bea4b3c0c637cf.jpg": "https://www.rmwatches.net/wp-content/uploads/2022/04/RM-K-62-01-001-1.jpg",
   "fff6d71ca1f178f80ba4d7ae.jpg": "https://cdn.gfimage.com/product/30/image/2026/03/02/4ebecf197aef4d068d05f2e9f5b3b4cb.jpg",
-  "fffeb15fd799289dcb3c59e8.jpg": "https://www.rmwatches.net/wp-content/uploads/2022/05/19927589-wb80xoaqa54qh8h9rgpcz7u5-ExtraLarge.jpg",
+  "fffeb15fd799289dcb3c59e8.jpg": "https://www.rmwatches.net/wp-content/uploads/2022/05/19927589-wb80xoaqa54qh8h9rgpcz7u5-ExtraLarge.jpg"
 };

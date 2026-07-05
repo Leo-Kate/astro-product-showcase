@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM007 Mechanical Ladies Watch Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-J-007-001"
 category: "Richard Mille > RM 007"
 image: "/cdn-image/333599c2f6889d309b4659dc.jpg"
 images: ["/cdn-image/333599c2f6889d309b4659dc.jpg", "/cdn-image/97bd24200c5fc99f6f497ea0.jpg", "/cdn-image/c4e85747a737477b6cadc5ae.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Replica RM 027 Black Rubber Strap Dense Bottom"
 brand: "Richard Mille"
 sku: "RM027-1"
 category: "Richard Mille > RM 027"
 image: "/cdn-image/9a835a995a81337446117117.jpg"
 images: ["/cdn-image/9a835a995a81337446117117.jpg", "/cdn-image/66028918afa50bfe317768ed.jpg", "/cdn-image/8941ce4f1912273fbf9914b9.jpg", "/cdn-image/e42f00d2cba159dc8d082d53.jpg", "/cdn-image/748fffe65f22455628b98dec.jpg", "/cdn-image/cc80f5a120c6ad0472e3c3d3.jpg", "/cdn-image/c43c7b8b193ccfd508de52ea.jpg", "/cdn-image/fa8e28ca6ce971108226060b.jpg", "/cdn-image/68d82c9416c50bfbbc55130a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

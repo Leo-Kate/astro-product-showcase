@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM055 Ti ZF White Ceramic Skeleton Dial White Rubber Strap NH05A V2"
 brand: "Richard Mille"
 sku: "RMTO2552"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/8da50fdfd74c8cb30bd387c0.jpg"
 images: ["/cdn-image/8da50fdfd74c8cb30bd387c0.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

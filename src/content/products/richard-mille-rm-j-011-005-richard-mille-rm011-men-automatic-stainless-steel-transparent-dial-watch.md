@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Men Automatic Stainless Steel Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-J-011-005"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/f266df6491692fa9117b1ac3.jpg"
 images: ["/cdn-image/f266df6491692fa9117b1ac3.jpg", "/cdn-image/6790637f12d6273a00041d62.jpg", "/cdn-image/a0f157b4b9d0674cc7ebe170.jpg"]
-price: 99900.0
 in_stock: true
 ---
 

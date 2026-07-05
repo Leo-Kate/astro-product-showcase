@@ -27,16 +27,6 @@ export function collectionPath(category?: string) {
 	return `/collections/${slugify(collectionName(category))}/`;
 }
 
-export function priceLabel(price?: number) {
-	return typeof price === 'number'
-		? new Intl.NumberFormat('en-US', {
-				style: 'currency',
-				currency: 'USD',
-				maximumFractionDigits: 0,
-			}).format(price)
-		: 'Price on request';
-}
-
 export function whatsappHref(message: string) {
 	if (!site.whatsappNumber) {
 		return '';

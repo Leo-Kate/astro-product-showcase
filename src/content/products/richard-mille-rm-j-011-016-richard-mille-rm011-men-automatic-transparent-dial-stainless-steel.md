@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Men Automatic Transparent Dial Stainless Steel"
 brand: "Richard Mille"
 sku: "RM-J-011-016"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/b359e651d39c5dce887ef960.jpg"
 images: ["/cdn-image/b359e651d39c5dce887ef960.jpg", "/cdn-image/d77bdbea5c69778ea45db256.jpg", "/cdn-image/c68c6b2a9847fde9f05a8710.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

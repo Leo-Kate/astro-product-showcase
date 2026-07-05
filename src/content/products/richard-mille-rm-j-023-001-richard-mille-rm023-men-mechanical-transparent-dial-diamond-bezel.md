@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM023 Men Mechanical Transparent Dial Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-J-023-001"
 category: "Richard Mille > RM 023"
 image: "/cdn-image/a7041c270be4982fb011ee2d.jpg"
 images: ["/cdn-image/a7041c270be4982fb011ee2d.jpg", "/cdn-image/7b40162126a12d01b2e9f3be.jpg", "/cdn-image/6a5e613d8aa83dbe03601501.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

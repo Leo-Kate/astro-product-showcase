@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM007 Automatic Watch &#8211; RMT018"
 brand: "Richard Mille"
 sku: "RMT018"
 category: "Richard Mille > RM 007"
 image: "/cdn-image/098a43b4999424dda7877420.jpg"
 images: ["/cdn-image/098a43b4999424dda7877420.jpg", "/cdn-image/6ed90a77629cbb80bead98dd.jpg", "/cdn-image/88c764999b7e2ed93e5c14b4.jpg", "/cdn-image/ca7ffc4595c1329f1e88c4ae.jpg", "/cdn-image/bc9a4c6d23a381b7130efa43.jpg", "/cdn-image/b4539442bce9afa18c477aaf.jpg", "/cdn-image/3ec5c60b5d5e6c06c31b0c6e.jpg", "/cdn-image/1a9e89e29fe069fa24fd28a3.jpg", "/cdn-image/d9d6d9bd0c359327e30436d4.jpg"]
-price: 169900.0
 in_stock: true
 ---
 
@@ -15,5 +14,4 @@ in_stock: true
 <p>3. **Design**: Richard Mille watches are known for their avant-garde and futuristic designs. The RM007 typically features a tonneau-shaped case, which is a signature design element of the brand. The dial is often skeletonized, showcasing the intricate inner workings of the watch.</p>
 <p>4. **Complications**: Depending on the specific model, the RM007 may include various complications such as a date display, power reserve indicator, or even a tourbillon. These complications add functionality and complexity to the watch.</p>
 <p>5. **Limited Editions**: Richard Mille often releases limited edition versions of their watches, featuring unique designs, materials, and color schemes. These limited editions are highly sought after by collectors and enthusiasts.</p>
-<p>6. **Price**: Richard Mille watches are considered high-end luxury timepieces, with prices often reaching into the hundreds of thousands of dollars. The RM007 is no exception and is typically priced at a premium due to its craftsmanship and exclusivity.</p>
 <p>Overall, the Richard Mille RM007 Automatic Watch is a symbol of luxury and innovation in the world of haute horlogerie, appealing to those who appreciate fine watchmaking and cutting-edge design.</p>

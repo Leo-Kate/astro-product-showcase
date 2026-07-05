@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM27-01 Rafael Nadal Anthracite Black Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2670"
 category: "Richard Mille > RM 27-01"
 image: "/cdn-image/002bfff179cb795e80797d77.jpg"
 images: ["/cdn-image/002bfff179cb795e80797d77.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

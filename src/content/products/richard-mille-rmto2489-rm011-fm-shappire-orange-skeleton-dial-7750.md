@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM Shappire Orange &amp; Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2489"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/0a9a8d2c0d9876cc58f3e4ef.jpg"
 images: ["/cdn-image/0a9a8d2c0d9876cc58f3e4ef.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

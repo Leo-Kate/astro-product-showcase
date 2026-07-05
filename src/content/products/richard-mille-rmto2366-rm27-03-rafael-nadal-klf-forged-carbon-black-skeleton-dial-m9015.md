@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM27-03 Rafael Nadal KLF Forged Carbon Black Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2366"
 category: "Richard Mille > RM 27-03"
 image: "/cdn-image/d3c5aef7518c1b231318ed69.jpg"
 images: ["/cdn-image/d3c5aef7518c1b231318ed69.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

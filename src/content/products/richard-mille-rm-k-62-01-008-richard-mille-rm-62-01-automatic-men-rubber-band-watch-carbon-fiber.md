@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 62-01 Automatic Men Rubber Band Watch Carbon Fiber"
 brand: "Richard Mille"
 sku: "RM-K-62-01-008"
 category: "Richard Mille > RM 62-01"
 image: "/cdn-image/27e7afe9d705dd305c286e38.jpg"
 images: ["/cdn-image/27e7afe9d705dd305c286e38.jpg", "/cdn-image/ce63c22789f1f1f57762e81a.jpg", "/cdn-image/c1b9429ac17dc8d54338799d.jpg", "/cdn-image/225d84daf8c368b4781e3337.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

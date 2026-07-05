@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-02 Rafael Nadal KVF Forged Carbon Black &amp; Skeleton Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2783"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/7addbfaded64113db2b11b7c.jpg"
 images: ["/cdn-image/7addbfaded64113db2b11b7c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM59-01M Black Ceramic Green Skeleton Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2881"
 category: "Richard Mille > RM 59-01M"
 image: "/cdn-image/bd3b456b0b2a136bca9cb75b.jpg"
 images: ["/cdn-image/bd3b456b0b2a136bca9cb75b.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

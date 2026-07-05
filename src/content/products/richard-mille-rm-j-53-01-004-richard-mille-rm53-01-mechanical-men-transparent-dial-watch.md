@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM53-01 Mechanical Men Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-J-53-01-004"
 category: "Richard Mille > RM 53-01"
 image: "/cdn-image/bf85f9498d25a1b23759d163.jpg"
 images: ["/cdn-image/bf85f9498d25a1b23759d163.jpg", "/cdn-image/5733160cb277c958784ec6d8.jpg", "/cdn-image/4486360fc2d89c28b01fd608.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

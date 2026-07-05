@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 07-02 Ladies Automatic Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-07-02-008"
 category: "Richard Mille > RM 07-02"
 image: "/cdn-image/b77ce2a21d39cb1eb0b53de4.jpg"
 images: ["/cdn-image/b77ce2a21d39cb1eb0b53de4.jpg", "/cdn-image/01499adb4d65a55fda67b749.jpg", "/cdn-image/86410f03190f3bbb38f4c108.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

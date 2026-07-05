@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Mechanical Men Watch Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-K-35-02-031"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/e59eb70cd6615d64a264ad59.jpg"
 images: ["/cdn-image/e59eb70cd6615d64a264ad59.jpg", "/cdn-image/fedf79d1f365c3d3d63c4094.jpg", "/cdn-image/24191abcae4b22dcb9e7982c.jpg", "/cdn-image/55d133270c6895ccec3df592.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

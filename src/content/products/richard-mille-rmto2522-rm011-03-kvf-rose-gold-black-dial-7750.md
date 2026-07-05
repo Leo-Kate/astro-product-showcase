@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-03 KVF Rose Gold Black Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2522"
 category: "Richard Mille > RM 011-03"
 image: "/cdn-image/3cd1e8514a1c371ac5952859.jpg"
 images: ["/cdn-image/3cd1e8514a1c371ac5952859.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

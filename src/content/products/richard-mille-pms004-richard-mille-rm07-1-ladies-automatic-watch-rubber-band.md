@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM07-1 Ladies Automatic Watch Rubber Band"
 brand: "Richard Mille"
 sku: "PMS004"
 category: "Richard Mille > RM 07-1"
 image: "/cdn-image/5585db5c0ce10c783eab5bcb.jpg"
 images: ["/cdn-image/5585db5c0ce10c783eab5bcb.jpg", "/cdn-image/4834565bf8b8ad13dc6558c0.jpg", "/cdn-image/e7c22083534747e0d8794095.jpg", "/cdn-image/00dad05a0c338e68db644a15.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

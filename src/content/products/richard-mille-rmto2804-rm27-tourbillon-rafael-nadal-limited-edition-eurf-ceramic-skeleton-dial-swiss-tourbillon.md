@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM27 Tourbillon Rafael Nadal Limited Edition EURF Ceramic Skeleton Dial Swiss Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2804"
 category: "Richard Mille > RM 27"
 image: "/cdn-image/f85364db42aaedb994222535.jpg"
 images: ["/cdn-image/f85364db42aaedb994222535.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

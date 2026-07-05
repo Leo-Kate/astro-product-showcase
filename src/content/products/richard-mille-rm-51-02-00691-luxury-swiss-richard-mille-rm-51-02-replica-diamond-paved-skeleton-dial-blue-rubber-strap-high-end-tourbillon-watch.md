@@ -1,11 +1,10 @@
----
+﻿---
 title: "Luxury Swiss Richard Mille RM 51-02 Replica – Diamond-Paved Skeleton Dial, Blue Rubber Strap, High-End Tourbillon Watch"
 brand: "Richard Mille"
 sku: "RM-51-02-00691"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/418b18d2e16931f3ffe647e0.jpg"
 images: ["/cdn-image/418b18d2e16931f3ffe647e0.jpg", "/cdn-image/05ad481a3eae40aa2cf185ad.jpg", "/cdn-image/95976b53cbeb4f470e8887a8.jpg", "/cdn-image/84644a7c32b0dcb8c8a5452f.jpg", "/cdn-image/e15489fbaed77cc470596b9a.jpg", "/cdn-image/4e7d96912a06249b9745695c.jpg", "/cdn-image/9e0a2f03a7789fe951fcf811.jpg"]
-price: 179900.0
 in_stock: true
 ---
 

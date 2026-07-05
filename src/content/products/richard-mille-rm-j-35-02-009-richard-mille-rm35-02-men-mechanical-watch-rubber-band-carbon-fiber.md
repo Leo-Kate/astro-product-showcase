@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Men Mechanical Watch Rubber Band Carbon Fiber"
 brand: "Richard Mille"
 sku: "RM-J-35-02-009"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/8f6242f115feacbe50a64f14.jpg"
 images: ["/cdn-image/8f6242f115feacbe50a64f14.jpg", "/cdn-image/868cd205becf9333880f5b4f.jpg", "/cdn-image/8172eaab168fe75db80c0b33.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

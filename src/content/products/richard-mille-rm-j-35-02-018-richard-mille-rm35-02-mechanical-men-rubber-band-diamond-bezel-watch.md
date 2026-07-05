@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Mechanical Men Rubber Band Diamond Bezel Watch"
 brand: "Richard Mille"
 sku: "RM-J-35-02-018"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/d253acbc108cee75620b7f43.jpg"
 images: ["/cdn-image/d253acbc108cee75620b7f43.jpg", "/cdn-image/72019e0bcbdcb47adc27064d.jpg", "/cdn-image/bde5d63b2d275a7b67d8bb04.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

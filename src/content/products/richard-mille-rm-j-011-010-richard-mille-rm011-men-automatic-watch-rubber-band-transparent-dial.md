@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Men Automatic Watch Rubber Band Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-J-011-010"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/08b17442560513615c6293ff.jpg"
 images: ["/cdn-image/08b17442560513615c6293ff.jpg", "/cdn-image/c04222eedc815844562e89e9.jpg", "/cdn-image/18c36472d95cd4e84d95c50e.jpg"]
-price: 99900.0
 in_stock: true
 ---
 

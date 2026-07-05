@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 019 Men Automatic Carbon Fiber Watch Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-K-019-004"
 category: "Richard Mille > RM 019"
 image: "/cdn-image/b6749fad24a67cd5ead37bf9.jpg"
 images: ["/cdn-image/b6749fad24a67cd5ead37bf9.jpg", "/cdn-image/39500eb99429ed50224b615e.jpg", "/cdn-image/148ed31aa27baba43fa4da37.jpg", "/cdn-image/ef2aeef5c6cd2bc55bf81525.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

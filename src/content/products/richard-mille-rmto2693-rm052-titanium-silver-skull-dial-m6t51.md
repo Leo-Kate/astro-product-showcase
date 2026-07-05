@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 Titanium Silver Skull Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2693"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/18098157cac92552455b635f.jpg"
 images: ["/cdn-image/18098157cac92552455b635f.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

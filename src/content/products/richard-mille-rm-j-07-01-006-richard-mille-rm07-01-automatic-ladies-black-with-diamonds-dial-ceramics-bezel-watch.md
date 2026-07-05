@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM07-01 Automatic Ladies Black With Diamonds Dial Ceramics Bezel Watch"
 brand: "Richard Mille"
 sku: "RM-J-07-01-006"
 category: "Richard Mille > RM 07-01"
 image: "/cdn-image/568b2d319e29df32a541c830.jpg"
 images: ["/cdn-image/568b2d319e29df32a541c830.jpg", "/cdn-image/6c88d024c9db6aea88a3ea02.jpg", "/cdn-image/74eb46f91818fc32e683c2f3.jpg", "/cdn-image/1ee58a6aa9eb2f72f3bc6e40.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "2021 New Richard Mille RM 27-04 Tourbillon Rafael Nadal Tennis Court Watch Best Replica"
 brand: "Richard Mille"
 sku: "RMTO2668"
 category: "Richard Mille > RM 27-04"
 image: "/cdn-image/7f958aa426f40234ce5b2544.jpg"
 images: ["/cdn-image/7f958aa426f40234ce5b2544.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

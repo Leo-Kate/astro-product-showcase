@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 11-03 Transparent Dial Rubber Band Men&#8217;s Red"
 brand: "Richard Mille"
 sku: "RM-J-11-03-011"
 category: "Richard Mille > RM 11-03"
 image: "/cdn-image/8bbb251617068ac08844072f.jpg"
 images: ["/cdn-image/8bbb251617068ac08844072f.jpg", "/cdn-image/a83865b67d4ac675bd276559.jpg", "/cdn-image/61ae0a0a50c2bf22493d92df.jpg", "/cdn-image/17974b0b70570752c7dbba65.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

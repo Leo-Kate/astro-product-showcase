@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM038 PVD Black Inner Bezel Skeleton Dial Black Rubber Strap Jap Quartz"
 brand: "Richard Mille"
 sku: "RMTO2411"
 category: "Richard Mille > RM 038"
 image: "/cdn-image/ca2fd06da65f3c487ec9b64b.jpg"
 images: ["/cdn-image/ca2fd06da65f3c487ec9b64b.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

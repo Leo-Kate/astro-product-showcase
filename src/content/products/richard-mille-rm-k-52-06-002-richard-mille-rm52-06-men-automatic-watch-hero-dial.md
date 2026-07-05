@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-06 Men Automatic Watch Hero Dial"
 brand: "Richard Mille"
 sku: "RM-K-52-06-002"
 category: "Richard Mille > RM 52-06"
 image: "/cdn-image/1d14144fbef2e91cfd3f9ce1.jpg"
 images: ["/cdn-image/1d14144fbef2e91cfd3f9ce1.jpg", "/cdn-image/2dbbe9ee12e575b6be1a22fd.jpg", "/cdn-image/dfead73e16a215475c068111.jpg", "/cdn-image/2886a26aef490f91877c1e72.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

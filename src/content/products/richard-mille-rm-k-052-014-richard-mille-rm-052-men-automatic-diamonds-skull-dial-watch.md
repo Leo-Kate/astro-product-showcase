@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 052 Men Automatic Diamonds Skull Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-052-014"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/5f3d664aff0aa8ba48e4bc5a.jpg"
 images: ["/cdn-image/5f3d664aff0aa8ba48e4bc5a.jpg", "/cdn-image/aac0a51f9f8b128f3448ef2a.jpg", "/cdn-image/fa84c9be5aa09a377bb1ce5c.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

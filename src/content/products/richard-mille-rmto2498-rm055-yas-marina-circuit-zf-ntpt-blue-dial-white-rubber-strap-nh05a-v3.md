@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM055 Yas Marina Circuit ZF NTPT Blue Dial White Rubber Strap NH05A V3"
 brand: "Richard Mille"
 sku: "RMTO2498"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/7b2ded1f1ce2080b13e91f40.jpg"
 images: ["/cdn-image/7b2ded1f1ce2080b13e91f40.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

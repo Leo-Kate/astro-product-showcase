@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Replica RM 052 Black Strap Dense Bottom Sapphire Mirror"
 brand: "Richard Mille"
 sku: "RM052-6"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/a8854935429aedb3e8415976.jpg"
 images: ["/cdn-image/a8854935429aedb3e8415976.jpg", "/cdn-image/9608f5f705556b98d71451a2.jpg", "/cdn-image/cd6ba51466cc92ad93171c9d.jpg", "/cdn-image/fd455b230843e9956b13c874.jpg", "/cdn-image/3bd663c25fbf5c1c7bb35209.jpg", "/cdn-image/2cc170dd47629113b538e24e.jpg", "/cdn-image/69550a65f96e6069ab23db7e.jpg", "/cdn-image/7793e3b3a06d9b91a8a5bddb.jpg", "/cdn-image/6c69e781e3a8a6d597d61f93.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

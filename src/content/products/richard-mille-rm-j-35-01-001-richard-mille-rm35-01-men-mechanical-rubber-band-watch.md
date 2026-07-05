@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-01 Men Mechanical Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-J-35-01-001"
 category: "Richard Mille > RM 35-01"
 image: "/cdn-image/cc92e50eb23781214d6bbe13.jpg"
 images: ["/cdn-image/cc92e50eb23781214d6bbe13.jpg", "/cdn-image/07f581fd2b2b667325fac0f2.jpg", "/cdn-image/86b09fdfb58d1e58c863c954.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

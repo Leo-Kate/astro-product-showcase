@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-06 Automatic Men Hero Dial Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-52-06-005"
 category: "Richard Mille > RM 52-06"
 image: "/cdn-image/fa3fde35416a6de108e10ac1.jpg"
 images: ["/cdn-image/fa3fde35416a6de108e10ac1.jpg", "/cdn-image/8fbd5aec5f7e5a904c842e9e.jpg", "/cdn-image/150fc87d1660e838e948fb93.jpg", "/cdn-image/56f18b80672a9816fc181d59.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

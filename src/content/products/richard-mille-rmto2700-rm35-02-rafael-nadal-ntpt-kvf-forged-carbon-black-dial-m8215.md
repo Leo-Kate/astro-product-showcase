@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-02 Rafael Nadal NTPT KVF Forged Carbon Black Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2700"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/0f8f91437f5225f4ecdd38a6.jpg"
 images: ["/cdn-image/0f8f91437f5225f4ecdd38a6.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

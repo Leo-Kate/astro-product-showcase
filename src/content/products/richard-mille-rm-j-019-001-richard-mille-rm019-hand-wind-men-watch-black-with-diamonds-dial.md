@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM019 Hand Wind Men Watch Black With Diamonds Dial"
 brand: "Richard Mille"
 sku: "RM-J-019-001"
 category: "Richard Mille > RM 019"
 image: "/cdn-image/7370292c7ae40e4c4ddb67f3.jpg"
 images: ["/cdn-image/7370292c7ae40e4c4ddb67f3.jpg", "/cdn-image/c733ba51685828a4fea15a30.jpg", "/cdn-image/0760e6c097209cfebd14c580.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

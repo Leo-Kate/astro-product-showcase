@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 KVF Black Ceramic Gold Skull Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2893"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/c0eb3d1f0e9e83678bea12fd.jpg"
 images: ["/cdn-image/c0eb3d1f0e9e83678bea12fd.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

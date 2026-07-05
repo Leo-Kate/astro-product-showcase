@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM035-01 Rafa Nadal KVF V3 Forged Carbon Black Dial White Strap M8215"
 brand: "Richard Mille"
 sku: "RMTO2505"
 category: "Richard Mille > RM 035-01"
 image: "/cdn-image/2643692ebd39b0c2d718eafb.jpg"
 images: ["/cdn-image/2643692ebd39b0c2d718eafb.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

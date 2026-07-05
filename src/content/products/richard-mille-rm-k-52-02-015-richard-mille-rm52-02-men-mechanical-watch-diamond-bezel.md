@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Men Mechanical Watch Diamond Bezel"
 brand: "Richard Mille"
 sku: "RM-K-52-02-015"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/d434033df65566affdbfcc48.jpg"
 images: ["/cdn-image/d434033df65566affdbfcc48.jpg", "/cdn-image/50add01c2a40a113943276a2.jpg", "/cdn-image/90de61774e5a69f94a598e57.jpg", "/cdn-image/6c64cd803da26538be64ea5e.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

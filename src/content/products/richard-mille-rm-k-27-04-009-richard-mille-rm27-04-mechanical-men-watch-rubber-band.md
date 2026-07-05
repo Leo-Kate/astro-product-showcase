@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM27-04 Mechanical Men Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-27-04-009"
 category: "Richard Mille > RM 27-04"
 image: "/cdn-image/9fa8de743e46fe9443599cd9.jpg"
 images: ["/cdn-image/9fa8de743e46fe9443599cd9.jpg", "/cdn-image/3e0aa3afefaa00c107a0fc51.jpg", "/cdn-image/b17445dd00008c0c355befdf.jpg", "/cdn-image/7ee831bafec70879f0f3d18b.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

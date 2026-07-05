@@ -1,11 +1,10 @@
----
+﻿---
 title: "Luxury Richard Mille RM 27-03 Replica Swiss Tourbillon Skeleton Dial – White Rubber Strap, Carbon Fiber Case"
 brand: "Richard Mille"
 sku: "RM-8FA8CFF0"
 category: "Richard Mille > RM 27-03"
 image: "/cdn-image/2c5ab09f73fb3bad0fc51fac.jpg"
 images: ["/cdn-image/2c5ab09f73fb3bad0fc51fac.jpg", "/cdn-image/1bb3e18ef28ade45c221eb83.jpg", "/cdn-image/3433cbed74cef4023c1fded9.jpg", "/cdn-image/15e215824ba0017b363ae557.jpg", "/cdn-image/7717956db1d56c4d98dfce56.jpg", "/cdn-image/47145394d8097f96ad20e43a.jpg", "/cdn-image/135f6ed0bcf83854457277fe.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

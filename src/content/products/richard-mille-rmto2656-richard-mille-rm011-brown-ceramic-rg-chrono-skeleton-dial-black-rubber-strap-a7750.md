@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Brown Ceramic RG Chrono Skeleton Dial Black Rubber Strap A7750"
 brand: "Richard Mille"
 sku: "RMTO2656"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/8969a1833831e6a45b4de498.jpg"
 images: ["/cdn-image/8969a1833831e6a45b4de498.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

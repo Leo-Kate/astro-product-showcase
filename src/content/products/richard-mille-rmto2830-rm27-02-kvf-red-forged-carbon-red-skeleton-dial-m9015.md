@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM27-02 KVF Red Forged Carbon Red &amp; Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2830"
 category: "Richard Mille > RM 27-02"
 image: "/cdn-image/c022fe1ce358a9727fe6f08b.jpg"
 images: ["/cdn-image/c022fe1ce358a9727fe6f08b.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-03 Flyback Chrono KVF Forged Carbon Black Skeleton Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2837"
 category: "Richard Mille > RM 011-03"
 image: "/cdn-image/916158beaf04160e1006f75b.jpg"
 images: ["/cdn-image/916158beaf04160e1006f75b.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

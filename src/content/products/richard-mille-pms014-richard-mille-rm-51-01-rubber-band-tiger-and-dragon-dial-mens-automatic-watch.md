@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 51-01 Rubber Band Tiger and Dragon Dial Men’s Automatic Watch"
 brand: "Richard Mille"
 sku: "PMS014"
 category: "Richard Mille > RM 51-01"
 image: "/cdn-image/ccc0579ef766820d30a62544.jpg"
 images: ["/cdn-image/ccc0579ef766820d30a62544.jpg", "/cdn-image/f915fe0dc62bdde95e8db172.jpg", "/cdn-image/42d51729287b390c18f9ce18.jpg", "/cdn-image/9c3ff021e46662228038b12a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

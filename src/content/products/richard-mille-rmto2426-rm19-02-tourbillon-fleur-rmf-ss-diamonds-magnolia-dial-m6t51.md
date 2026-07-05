@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM19-02 Tourbillon Fleur RMF SS &amp; Diamonds Magnolia Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2426"
 category: "Richard Mille > RM 19-02"
 image: "/cdn-image/440c1580d943b9405d970f20.jpg"
 images: ["/cdn-image/440c1580d943b9405d970f20.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

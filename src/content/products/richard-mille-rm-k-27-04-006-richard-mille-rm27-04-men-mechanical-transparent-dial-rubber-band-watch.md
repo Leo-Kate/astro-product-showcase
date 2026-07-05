@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM27-04 Men Mechanical Transparent Dial Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-27-04-006"
 category: "Richard Mille > RM 27-04"
 image: "/cdn-image/cedd5bcb08e7127ee94ece8d.jpg"
 images: ["/cdn-image/cedd5bcb08e7127ee94ece8d.jpg", "/cdn-image/63854ee394659e0961faa020.jpg", "/cdn-image/987e1e3bfc55314c084b3fdd.jpg", "/cdn-image/451285b945ffba7d7d188f62.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

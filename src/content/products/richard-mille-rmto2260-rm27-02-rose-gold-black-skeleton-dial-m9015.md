@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM27-02 Rose Gold Black &amp; Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2260"
 category: "Richard Mille > RM 27-02"
 image: "/cdn-image/36c08ab8860f92c9b2c10d2f.jpg"
 images: ["/cdn-image/36c08ab8860f92c9b2c10d2f.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

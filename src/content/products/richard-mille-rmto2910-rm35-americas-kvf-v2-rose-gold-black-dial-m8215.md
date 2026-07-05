@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35 Americas KVF V2 Rose Gold Black Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2910"
 category: "Richard Mille > RM 35"
 image: "/cdn-image/092f8d44272fcd6a99d953b0.jpg"
 images: ["/cdn-image/092f8d44272fcd6a99d953b0.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

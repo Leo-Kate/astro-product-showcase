@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35 Men Mechanical Skeleton Dial"
 brand: "Richard Mille"
 sku: "RM-K-035-016"
 category: "Richard Mille > RM 35"
 image: "/cdn-image/3537a13cf956be7f790739f5.jpg"
 images: ["/cdn-image/3537a13cf956be7f790739f5.jpg", "/cdn-image/d387213156779591fda857d1.jpg", "/cdn-image/f9c326477c42eedb2248c854.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

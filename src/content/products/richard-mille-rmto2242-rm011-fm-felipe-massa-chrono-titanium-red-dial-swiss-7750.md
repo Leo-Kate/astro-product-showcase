@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM Felipe Massa Chrono Titanium Red Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2242"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/f720a35593b18313d20cb61e.jpg"
 images: ["/cdn-image/f720a35593b18313d20cb61e.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

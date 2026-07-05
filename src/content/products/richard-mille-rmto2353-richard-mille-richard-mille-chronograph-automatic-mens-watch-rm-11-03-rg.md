@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Richard Mille Chronograph Automatic Men&#8217;s Watch RM 11-03 RG"
 brand: "Richard Mille"
 sku: "RMTO2353"
 category: "Richard Mille > RM 11-03"
 image: "/cdn-image/cf7b9c5dc9bcb10e3c8561d8.jpg"
 images: ["/cdn-image/cf7b9c5dc9bcb10e3c8561d8.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM07-01 Ladies Automatic Watch Transparent Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-07-01-018"
 category: "Richard Mille > RM 07-01"
 image: "/cdn-image/89be5121f9d310e82937a252.jpg"
 images: ["/cdn-image/89be5121f9d310e82937a252.jpg", "/cdn-image/3a0c9f32fc5efa063e0a349e.jpg", "/cdn-image/1c020a5d86d4dae26faf3560.jpg", "/cdn-image/c8fda5925e3955e0f53dc76f.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 Chrono KVF NTPT Yellow Dial Yellow Rubber Strap Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2238"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/14a88e71c262a8515755abaf.jpg"
 images: ["/cdn-image/14a88e71c262a8515755abaf.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

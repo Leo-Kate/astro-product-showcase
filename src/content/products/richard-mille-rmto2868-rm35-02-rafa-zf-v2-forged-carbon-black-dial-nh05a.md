@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-02 Rafa ZF V2 Forged Carbon Black Dial NH05A"
 brand: "Richard Mille"
 sku: "RMTO2868"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/a66a7b73f29c740afdaf90df.jpg"
 images: ["/cdn-image/a66a7b73f29c740afdaf90df.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

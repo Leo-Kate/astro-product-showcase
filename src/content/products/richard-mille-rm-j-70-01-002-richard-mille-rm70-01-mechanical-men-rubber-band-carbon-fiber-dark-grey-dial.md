@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM70-01 Mechanical Men Rubber Band Carbon Fiber Dark Grey Dial"
 brand: "Richard Mille"
 sku: "RM-J-70-01-002"
 category: "Richard Mille > RM 70-01"
 image: "/cdn-image/8cde97d8563dd1674837020a.jpg"
 images: ["/cdn-image/8cde97d8563dd1674837020a.jpg", "/cdn-image/ec03bdaa08cc8ddf90d6c7fb.jpg", "/cdn-image/c5f8eaad9f921312cc71d970.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

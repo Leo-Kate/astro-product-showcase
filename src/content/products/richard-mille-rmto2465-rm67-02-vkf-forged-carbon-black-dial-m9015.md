@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM67-02 VKF Forged Carbon Black Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2465"
 category: "Richard Mille > RM 67-02"
 image: "/cdn-image/970a770f2ea4ad406468be7e.jpg"
 images: ["/cdn-image/970a770f2ea4ad406468be7e.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Automatic Men Rubber Band Dot Transparent Dial"
 brand: "Richard Mille"
 sku: "RM-K-055-028"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/b17579810ab1593fff435e98.jpg"
 images: ["/cdn-image/b17579810ab1593fff435e98.jpg", "/cdn-image/bf25b922a469288f322910d2.jpg", "/cdn-image/161d82bde0a99d6d7704c363.jpg", "/cdn-image/925a30a7cb8bebe7741aac7a.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

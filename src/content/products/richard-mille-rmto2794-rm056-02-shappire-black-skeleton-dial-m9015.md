@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM056-02 Shappire Black &amp; Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2794"
 category: "Richard Mille > RM 056-02"
 image: "/cdn-image/760777a13950b4b3d9dcb1f3.jpg"
 images: ["/cdn-image/760777a13950b4b3d9dcb1f3.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM35-01 Rafael Nadal Forged Carbon Skeleton Black Dial Green Nylon M9015"
 brand: "Richard Mille"
 sku: "RMTO2654"
 category: "Richard Mille > RM 35-01"
 image: "/cdn-image/c2e572ba00233183260aca7f.jpg"
 images: ["/cdn-image/c2e572ba00233183260aca7f.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

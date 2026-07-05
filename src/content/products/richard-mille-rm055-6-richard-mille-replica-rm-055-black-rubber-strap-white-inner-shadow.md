@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Replica RM 055 Black Rubber Strap White Inner Shadow"
 brand: "Richard Mille"
 sku: "RM055-6"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/79c534197b6af3c91e8c8597.jpg"
 images: ["/cdn-image/79c534197b6af3c91e8c8597.jpg", "/cdn-image/c4c63737fff70c01c304e308.jpg", "/cdn-image/a720a204eec638b3340b363f.jpg", "/cdn-image/3450fdbb9d3c81f06ed30cec.jpg", "/cdn-image/cd7d4898f1e9c3bec9e63fdd.jpg", "/cdn-image/f0455e306cca3468c70354fa.jpg", "/cdn-image/a7342169791933c9a391036d.jpg", "/cdn-image/008d435d8b3f9b1ffd5a8654.jpg", "/cdn-image/dacdb9cd3a6ebd713df460aa.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

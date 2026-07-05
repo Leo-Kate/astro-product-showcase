@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM023 Automatic Watch &#8211; RMT085"
 brand: "Richard Mille"
 sku: "RMT085"
 category: "Richard Mille > RM 023"
 image: "/cdn-image/046d17a8f8f1b089b8b17b10.jpg"
 images: ["/cdn-image/046d17a8f8f1b089b8b17b10.jpg", "/cdn-image/e7673ec337f1246df9a08cb5.jpg", "/cdn-image/30b903a6a56c7f2174c0d345.jpg", "/cdn-image/4fcf1ab41047455ef1c2ee0c.jpg", "/cdn-image/2cedd8cc7eb1158f46b01cd8.jpg", "/cdn-image/10cd8d9a456add088a5f4a59.jpg", "/cdn-image/c0fc37c41b8820026f63ccf7.jpg", "/cdn-image/a39723d5a157fcc2b63a3142.jpg", "/cdn-image/33d149de16e87515ad2ece40.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

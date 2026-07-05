@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM052 Men Mechanical Watch Diamonds Skull Dial"
 brand: "Richard Mille"
 sku: "RM-J-052-001"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/067764bd9ffd760d3c88a0bc.jpg"
 images: ["/cdn-image/067764bd9ffd760d3c88a0bc.jpg", "/cdn-image/61cdec51fd5966232976686b.jpg", "/cdn-image/eb07de62550c1ce8d5fe48a7.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

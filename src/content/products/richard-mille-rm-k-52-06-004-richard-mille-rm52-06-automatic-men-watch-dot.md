@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-06 Automatic Men Watch Dot"
 brand: "Richard Mille"
 sku: "RM-K-52-06-004"
 category: "Richard Mille > RM 52-06"
 image: "/cdn-image/bdfce1b8794520bdae13fece.jpg"
 images: ["/cdn-image/bdfce1b8794520bdae13fece.jpg", "/cdn-image/915beab50bacc16fe3ba6b57.jpg", "/cdn-image/d826f1b5adba5c607dd7a007.jpg", "/cdn-image/62e7933b05cf48f2c030099c.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

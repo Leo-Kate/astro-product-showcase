@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM035 Americas KVF Rose Gold &amp; Diamond Black Dial White Rubber Strap M8215 V3"
 brand: "Richard Mille"
 sku: "RMTO2590"
 category: "Richard Mille > RM 035"
 image: "/cdn-image/392412b0151d11e2e039d732.jpg"
 images: ["/cdn-image/392412b0151d11e2e039d732.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM F Massa Brazil GPF Chrono Forged Carbon Yellow Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2778"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/ca81904965c0c91044619d3a.jpg"
 images: ["/cdn-image/ca81904965c0c91044619d3a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

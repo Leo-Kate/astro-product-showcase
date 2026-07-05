@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM07-01 Automatic Ladies Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-07-01-003"
 category: "Richard Mille > RM 07-01"
 image: "/cdn-image/82372110b1c60ceaa5321e48.jpg"
 images: ["/cdn-image/82372110b1c60ceaa5321e48.jpg", "/cdn-image/14b64cdf0bfce388ec144eab.jpg", "/cdn-image/2380235e7b09d96c6f6503b2.jpg", "/cdn-image/c2e68c27c25604f7dc7766bc.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

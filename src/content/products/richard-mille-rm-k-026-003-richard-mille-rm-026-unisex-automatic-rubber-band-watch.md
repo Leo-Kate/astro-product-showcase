@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 026 Unisex Automatic Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-K-026-003"
 category: "Richard Mille > RM 026"
 image: "/cdn-image/08ccf369aa593d1b478104ed.jpg"
 images: ["/cdn-image/08ccf369aa593d1b478104ed.jpg", "/cdn-image/2d96d07ca8e085622d71530d.jpg", "/cdn-image/49ac8411a6e70dc2628fa6f3.jpg", "/cdn-image/a117352a9b670be7bcd285bf.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "New RM 21-01 Tourbillon Aerodyne Rubber Band Mechanical Men Watch"
 brand: "Richard Mille"
 sku: "RM-68159D38"
 category: "Richard Mille > RM 21-01"
 image: "/cdn-image/1aafeaa4e830d52563ee2c36.jpg"
 images: ["/cdn-image/1aafeaa4e830d52563ee2c36.jpg", "/cdn-image/5a4941f54393a69edda9b217.jpg", "/cdn-image/8b8e789d9021305f57154d7b.jpg", "/cdn-image/3b8a4ac15b28c59ba05adc70.jpg", "/cdn-image/ae46f2604aface891e4504c9.jpg", "/cdn-image/7f340a5ce862177c4a315f15.jpg", "/cdn-image/e99f718d1ed36247f36d3225.jpg", "/cdn-image/6a1d15661c22f771eeeea89c.jpg"]
-price: 189900.0
 in_stock: true
 ---
 

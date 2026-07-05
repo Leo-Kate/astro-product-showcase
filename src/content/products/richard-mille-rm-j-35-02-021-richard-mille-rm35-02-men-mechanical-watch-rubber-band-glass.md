@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35-02 Men Mechanical Watch Rubber Band Glass"
 brand: "Richard Mille"
 sku: "RM-J-35-02-021"
 category: "Richard Mille > RM 35-02"
 image: "/cdn-image/a40c1878539f649767d7dfa7.jpg"
 images: ["/cdn-image/a40c1878539f649767d7dfa7.jpg", "/cdn-image/ea73e3e1539cea92225bf358.jpg", "/cdn-image/2a36b8bdef7ef6b23db92c88.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

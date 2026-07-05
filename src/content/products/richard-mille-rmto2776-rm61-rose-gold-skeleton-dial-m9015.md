@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM61 Rose Gold Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2776"
 category: "Richard Mille > RM 61"
 image: "/cdn-image/57a2d669e70505edd080f47d.jpg"
 images: ["/cdn-image/57a2d669e70505edd080f47d.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

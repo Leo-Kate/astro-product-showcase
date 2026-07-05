@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM51-02 Automatic Ladies Dot Diamond Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-51-02-021"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/9c8dd156f3ffe8bc957cafc1.jpg"
 images: ["/cdn-image/9c8dd156f3ffe8bc957cafc1.jpg", "/cdn-image/8dbdf3209865c55feb983e99.jpg", "/cdn-image/2a91ae54884a7464ea3ae4c1.jpg", "/cdn-image/b6b476687e9d58894a5c2894.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

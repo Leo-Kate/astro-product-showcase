@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Mechanical Men Stainless Steel Watch"
 brand: "Richard Mille"
 sku: "RM-J-52-02-006"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/3492ca937542414287ccd403.jpg"
 images: ["/cdn-image/3492ca937542414287ccd403.jpg", "/cdn-image/d632aac1f1710382b48a88a8.jpg", "/cdn-image/245e3384eb5c6986a3b23ff1.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

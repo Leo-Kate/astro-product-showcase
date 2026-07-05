@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Le Mans Chronograph Automatic Men&#8217;s Watch RM11-03 CA ATZ"
 brand: "Richard Mille"
 sku: "RMTO2439"
 category: "Richard Mille > RM 11-03"
 image: "/cdn-image/f441e2c544395fb4759bb509.jpg"
 images: ["/cdn-image/f441e2c544395fb4759bb509.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM07 Ladies Ceramic Black &amp; Diamonds Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2391"
 category: "Richard Mille > RM 07"
 image: "/cdn-image/30ca10aeff06a2f63084a6e7.jpg"
 images: ["/cdn-image/30ca10aeff06a2f63084a6e7.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

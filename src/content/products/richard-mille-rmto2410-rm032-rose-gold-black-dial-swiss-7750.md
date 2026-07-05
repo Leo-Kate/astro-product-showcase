@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM032 Rose Gold Black Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2410"
 category: "Richard Mille > RM 032"
 image: "/cdn-image/310786b29d5f6392a41e0251.jpg"
 images: ["/cdn-image/310786b29d5f6392a41e0251.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

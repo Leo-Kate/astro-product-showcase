@@ -1,11 +1,10 @@
----
+﻿---
 title: "Swiss Richard Mille RM 61-01 Replica Yohan Blake Black Ceramic Skeleton Watch For Men"
 brand: "Richard Mille"
 sku: "RM-61-01-00007"
 category: "Richard Mille > RM 61-01"
 image: "/cdn-image/5800a1431015783119bcbe95.jpg"
 images: ["/cdn-image/5800a1431015783119bcbe95.jpg", "/cdn-image/9d0990d8bc99565292f18f2b.jpg", "/cdn-image/8440c4a24e77033e30e5f0dd.jpg", "/cdn-image/dfa66f34e92db455f2f592ab.jpg", "/cdn-image/793873748607fdc3fa7e550a.jpg", "/cdn-image/1d9617d63dcbb33c49c0131f.jpg", "/cdn-image/b7b99bc34aad460c59c821ee.jpg", "/cdn-image/95045aa14da3316d84b1f88b.jpg", "/cdn-image/373efc898f1d33fb1b609024.jpg"]
-price: 199900.0
 in_stock: true
 ---
 

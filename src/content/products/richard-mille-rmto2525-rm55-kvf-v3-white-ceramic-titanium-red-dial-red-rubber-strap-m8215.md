@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM55 KVF V3 White Ceramic &amp; Titanium Red Dial Red Rubber Strap M8215"
 brand: "Richard Mille"
 sku: "RMTO2525"
 category: "Richard Mille > RM 55"
 image: "/cdn-image/8de0dee865e5866bf1314f5e.jpg"
 images: ["/cdn-image/8de0dee865e5866bf1314f5e.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

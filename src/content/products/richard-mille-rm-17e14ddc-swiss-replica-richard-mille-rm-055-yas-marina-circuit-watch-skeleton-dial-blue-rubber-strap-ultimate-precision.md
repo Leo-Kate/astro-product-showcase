@@ -1,11 +1,10 @@
----
+﻿---
 title: "Swiss Replica Richard Mille RM 055 Yas Marina Circuit Watch &#8211; Skeleton Dial, Blue Rubber Strap, Ultimate Precision"
 brand: "Richard Mille"
 sku: "RM-17E14DDC"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/29024c5aebe48a157c700f61.jpg"
 images: ["/cdn-image/29024c5aebe48a157c700f61.jpg", "/cdn-image/d80a18fa9bc69dfaa77c11a1.jpg", "/cdn-image/1858e0e7eb66321953c74420.jpg", "/cdn-image/fbf0542cead0b87f38039de4.jpg", "/cdn-image/82d65ee3f2c6670b7cbe5b09.jpg", "/cdn-image/9dc89c8331d06b7be89650e7.jpg", "/cdn-image/6c4eaba8d3a769d98d67167d.jpg", "/cdn-image/423b73768eb3ce228fe16b58.jpg", "/cdn-image/86e08e173930ceb53d379566.jpg", "/cdn-image/14136eab2c1c15c151f0531d.jpg", "/cdn-image/1564e9943a250da71aaf1135.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

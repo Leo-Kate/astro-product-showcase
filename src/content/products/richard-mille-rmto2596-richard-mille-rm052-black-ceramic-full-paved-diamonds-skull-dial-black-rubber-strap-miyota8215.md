@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM052 Black Ceramic Full Paved Diamonds Skull Dial Black Rubber Strap MIYOTA8215"
 brand: "Richard Mille"
 sku: "RMTO2596"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/60d954e382e05e646d698336.jpg"
 images: ["/cdn-image/60d954e382e05e646d698336.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

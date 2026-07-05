@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 Felipe Massa Chrono Limited Edition KVF Ceramic Red Skeleton Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2692"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/e19b9512823626bb181bf503.jpg"
 images: ["/cdn-image/e19b9512823626bb181bf503.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

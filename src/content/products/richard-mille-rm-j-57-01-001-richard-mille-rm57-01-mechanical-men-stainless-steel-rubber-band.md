@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM57-01 Mechanical Men Stainless Steel Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-57-01-001"
 category: "Richard Mille > RM 57-01"
 image: "/cdn-image/6ff7651a4acf7b20b5f71b5a.jpg"
 images: ["/cdn-image/6ff7651a4acf7b20b5f71b5a.jpg", "/cdn-image/c966ba4967a706b8f2d34084.jpg", "/cdn-image/7734372fc875e9d221cf82d8.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

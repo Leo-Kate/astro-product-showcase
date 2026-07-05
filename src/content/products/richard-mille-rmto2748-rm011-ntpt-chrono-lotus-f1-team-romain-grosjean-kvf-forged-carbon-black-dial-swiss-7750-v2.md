@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 NTPT Chrono Lotus F1 Team Romain Grosjean KVF Forged Carbon Black Dial Swiss 7750 V2"
 brand: "Richard Mille"
 sku: "RMTO2748"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/5967f6d432ee5e38d84403cf.jpg"
 images: ["/cdn-image/5967f6d432ee5e38d84403cf.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

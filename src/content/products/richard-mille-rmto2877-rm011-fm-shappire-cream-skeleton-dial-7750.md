@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM Shappire Cream &amp; Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2877"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/f7d429ffe68bc357716705fd.jpg"
 images: ["/cdn-image/f7d429ffe68bc357716705fd.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

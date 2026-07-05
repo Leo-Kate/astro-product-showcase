@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-FM Polo Club Saint Tropez KVF White Ceramic Grey Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2817"
 category: "Richard Mille > RM 011-FM"
 image: "/cdn-image/798d2232a8db9abc623c81af.jpg"
 images: ["/cdn-image/798d2232a8db9abc623c81af.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

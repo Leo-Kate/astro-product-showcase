@@ -11,7 +11,6 @@ const products = defineCollection({
 		category: z.string().optional(),
 		image: z.string().min(1),
 		images: z.array(z.string().min(1)).optional(),
-		price: z.number().nonnegative().optional(),
 		in_stock: z.boolean(),
 		source_id: z.string().optional(),
 		excerpt: z.string().optional(),

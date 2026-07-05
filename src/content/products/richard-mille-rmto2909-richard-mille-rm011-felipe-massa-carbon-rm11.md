@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Felipe Massa Carbon RM11"
 brand: "Richard Mille"
 sku: "RMTO2909"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/da3438088f6f256c614a55b7.jpg"
 images: ["/cdn-image/da3438088f6f256c614a55b7.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

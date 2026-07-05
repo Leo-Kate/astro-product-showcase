@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM51-02 Ladies Automatic Dot Rubber Band Diamond Dial"
 brand: "Richard Mille"
 sku: "RM-K-51-02-020"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/472e1b944508343f3c202199.jpg"
 images: ["/cdn-image/472e1b944508343f3c202199.jpg", "/cdn-image/bacd2ad1ff49d79e78740667.jpg", "/cdn-image/13f0bb5ce5390700c1740734.jpg", "/cdn-image/86469b354c63215079e61726.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

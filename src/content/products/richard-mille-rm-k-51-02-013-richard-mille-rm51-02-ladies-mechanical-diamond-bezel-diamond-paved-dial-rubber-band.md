@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM51-02 Ladies Mechanical Diamond Bezel Diamond Paved Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-51-02-013"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/714bb96184408acc0a4a645e.jpg"
 images: ["/cdn-image/714bb96184408acc0a4a645e.jpg", "/cdn-image/a8502726eb8c5952ae0f8773.jpg", "/cdn-image/b6457ba82e0d630070204021.jpg", "/cdn-image/679b987d8f7ea3727b54872b.jpg", "/cdn-image/a1ef31ea1fb4476daeea471c.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

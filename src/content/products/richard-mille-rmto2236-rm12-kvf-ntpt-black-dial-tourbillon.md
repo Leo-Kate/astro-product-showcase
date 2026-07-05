@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM12 KVF NTPT Black Dial Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2236"
 category: "Richard Mille > RM 12"
 image: "/cdn-image/d9f6e3772351e6eaa3660868.jpg"
 images: ["/cdn-image/d9f6e3772351e6eaa3660868.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

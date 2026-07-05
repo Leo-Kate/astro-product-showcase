@@ -60,12 +60,6 @@ collections:
           label: Image
           name: image
           widget: image
-      - label: Price
-        name: price
-        widget: number
-        value_type: float
-        min: 0
-        required: false
       - label: In stock
         name: in_stock
         widget: boolean

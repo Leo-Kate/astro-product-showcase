@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM056-01 Limtied Edition Green Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2421"
 category: "Richard Mille > RM 056-01"
 image: "/cdn-image/4dfe8dd16ee708cdcbf4f981.jpg"
 images: ["/cdn-image/4dfe8dd16ee708cdcbf4f981.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

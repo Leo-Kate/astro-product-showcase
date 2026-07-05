@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM035 White PVD White Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2777"
 category: "Richard Mille > RM 035"
 image: "/cdn-image/4546f8fbfbd0768b4c7e761d.jpg"
 images: ["/cdn-image/4546f8fbfbd0768b4c7e761d.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

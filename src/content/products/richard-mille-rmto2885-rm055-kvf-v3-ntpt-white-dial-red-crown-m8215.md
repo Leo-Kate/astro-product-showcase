@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM055 KVF V3 NTPT White Dial Red Crown M8215"
 brand: "Richard Mille"
 sku: "RMTO2885"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/6825f245f473e25b350cb38b.jpg"
 images: ["/cdn-image/6825f245f473e25b350cb38b.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

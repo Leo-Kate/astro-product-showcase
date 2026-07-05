@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM052 EURF Titanium Diamond Skull Dial Swiss Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2407"
 category: "Richard Mille > RM 052"
 image: "/cdn-image/29d34667038b98a519a19936.jpg"
 images: ["/cdn-image/29d34667038b98a519a19936.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

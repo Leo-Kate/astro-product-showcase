@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 010 Men Automatic Carbon Fiber Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-010-007"
 category: "Richard Mille > RM 010"
 image: "/cdn-image/e507a456d22d87663a46852b.jpg"
 images: ["/cdn-image/e507a456d22d87663a46852b.jpg", "/cdn-image/46e9bfffdc543397acad570a.jpg", "/cdn-image/2b6c92ebd6dd5a808ab10402.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

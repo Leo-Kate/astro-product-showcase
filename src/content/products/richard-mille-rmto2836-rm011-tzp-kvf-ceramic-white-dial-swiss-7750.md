@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 TZP KVF Ceramic White Dial Swiss 7750"
 brand: "Richard Mille"
 sku: "RMTO2836"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/1f85578b3af9b18c17618420.jpg"
 images: ["/cdn-image/1f85578b3af9b18c17618420.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

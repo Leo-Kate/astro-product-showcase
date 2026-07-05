@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM27-04 Men Mechanical Stainless Steel Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-27-04-007"
 category: "Richard Mille > RM 27-04"
 image: "/cdn-image/7d1c0ad7a05067f5c943a529.jpg"
 images: ["/cdn-image/7d1c0ad7a05067f5c943a529.jpg", "/cdn-image/d8061796af3db46e3db6e673.jpg", "/cdn-image/c0a85bc84791a6cd4bdc582e.jpg", "/cdn-image/9a6429b7d09aeb0c4511ec04.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

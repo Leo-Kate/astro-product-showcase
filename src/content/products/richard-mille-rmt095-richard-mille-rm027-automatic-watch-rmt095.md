@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM027 Automatic Watch &#8211; RMT095"
 brand: "Richard Mille"
 sku: "RMT095"
 category: "Richard Mille > RM 027"
 image: "/cdn-image/7297f7cee517776e0bb2d07c.jpg"
 images: ["/cdn-image/7297f7cee517776e0bb2d07c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 Chrono KVF Rose Gold Black Dial Swiss 7750 V3"
 brand: "Richard Mille"
 sku: "RMTO2831"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/0b5d1d6b2e395a2c5c31d875.jpg"
 images: ["/cdn-image/0b5d1d6b2e395a2c5c31d875.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

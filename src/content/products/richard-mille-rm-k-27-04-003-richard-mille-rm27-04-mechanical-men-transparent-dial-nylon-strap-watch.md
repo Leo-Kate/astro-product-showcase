@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM27-04 Mechanical Men Transparent Dial Nylon Strap Watch"
 brand: "Richard Mille"
 sku: "RM-K-27-04-003"
 category: "Richard Mille > RM 27-04"
 image: "/cdn-image/7397b1bdb78de50ce145564d.jpg"
 images: ["/cdn-image/7397b1bdb78de50ce145564d.jpg", "/cdn-image/8d1c5191d4142dbf0f9b3d17.jpg", "/cdn-image/42a4e35fd0bd70302444452f.jpg", "/cdn-image/8fd076f8e1e47bf93fef4b85.jpg", "/cdn-image/4c2b621ed68466a1eb8a6d6d.jpg", "/cdn-image/928744d24ff29c427ac43cf6.jpg", "/cdn-image/43a10e9e35e05d3647fe3e9c.jpg", "/cdn-image/85ed2ecc49ea6531d0d53f53.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

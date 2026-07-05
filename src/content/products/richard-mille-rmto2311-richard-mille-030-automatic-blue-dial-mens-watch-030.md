@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille 030 Automatic Blue Dial Men&#8217;s Watch 030"
 brand: "Richard Mille"
 sku: "RMTO2311"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/0d991260af5598835f5d9993.jpg"
 images: ["/cdn-image/0d991260af5598835f5d9993.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

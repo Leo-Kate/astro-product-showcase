@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-01 R Mancini Flyback Chrono KVF Titanium Black Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2307"
 category: "Richard Mille > RM 011-01"
 image: "/cdn-image/7c837a9c70ae21d6498d7575.jpg"
 images: ["/cdn-image/7c837a9c70ae21d6498d7575.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

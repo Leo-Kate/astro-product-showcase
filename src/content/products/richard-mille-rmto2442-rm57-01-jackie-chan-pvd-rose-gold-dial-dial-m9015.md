@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM57-01 Jackie Chan PVD Rose Gold Dial Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2442"
 category: "Richard Mille > RM 57-01"
 image: "/cdn-image/ae1d60e913d8bc5aacbc8b21.jpg"
 images: ["/cdn-image/ae1d60e913d8bc5aacbc8b21.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

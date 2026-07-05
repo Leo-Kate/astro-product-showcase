@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM67-02 Van Niekerk KLF Green Forged Carbon Black Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2696"
 category: "Richard Mille > RM 67-02"
 image: "/cdn-image/6d6cdb6065ad747266081ccd.jpg"
 images: ["/cdn-image/6d6cdb6065ad747266081ccd.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

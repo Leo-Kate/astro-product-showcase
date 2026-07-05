@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille Titanium Black Rubber Men&#8217;s Watch RM016-TI"
 brand: "Richard Mille"
 sku: "RMTO2487"
 category: "Richard Mille > RM 016-TI"
 image: "/cdn-image/add3e086a44d3f6da647203a.jpg"
 images: ["/cdn-image/add3e086a44d3f6da647203a.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM007 Automatic Watch &#8211; RMT025"
 brand: "Richard Mille"
 sku: "RMT025"
 category: "Richard Mille > RM 007"
 image: "/cdn-image/ef0a7416ad30b1a21fd36c64.jpg"
 images: ["/cdn-image/ef0a7416ad30b1a21fd36c64.jpg", "/cdn-image/b4d94c1577d6264b9b4edc06.jpg", "/cdn-image/c3715ebbe58162649cafc904.jpg", "/cdn-image/43c1f3fd2e8ce4641e42f84b.jpg", "/cdn-image/b326c30e7bb4697ace330e9d.jpg", "/cdn-image/40f82448d138bba572bc0ea3.jpg", "/cdn-image/107c012920f7e98ecfbe053c.jpg", "/cdn-image/18fd48841f315e53d26846bb.jpg", "/cdn-image/a062dc474746e8033304bf03.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

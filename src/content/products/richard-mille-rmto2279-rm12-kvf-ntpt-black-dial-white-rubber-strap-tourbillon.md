@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM12 KVF NTPT Black Dial White Rubber Strap Tourbillon"
 brand: "Richard Mille"
 sku: "RMTO2279"
 category: "Richard Mille > RM 12"
 image: "/cdn-image/7256115bf1ca763fc162d9ef.jpg"
 images: ["/cdn-image/7256115bf1ca763fc162d9ef.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

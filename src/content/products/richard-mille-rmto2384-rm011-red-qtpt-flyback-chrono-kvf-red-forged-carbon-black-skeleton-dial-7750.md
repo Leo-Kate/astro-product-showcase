@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 Red QTPT Flyback Chrono KVF Red Forged Carbon Black Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2384"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/4b9871fc17d6d7332858ba61.jpg"
 images: ["/cdn-image/4b9871fc17d6d7332858ba61.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

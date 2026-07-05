@@ -1,11 +1,10 @@
----
+﻿---
 title: "19-01 SF Rose Gold Diamond Spyder Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2861"
 category: "Richard Mille > RM 011-03"
 image: "/cdn-image/3381d660aad18d5294e6a2d5.jpg"
 images: ["/cdn-image/3381d660aad18d5294e6a2d5.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

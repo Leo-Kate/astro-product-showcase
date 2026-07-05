@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM51-02 Ladies Mechanical Transparent Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-51-02-003"
 category: "Richard Mille > RM 51-02"
 image: "/cdn-image/b632eaad5d45787c4975fd35.jpg"
 images: ["/cdn-image/b632eaad5d45787c4975fd35.jpg", "/cdn-image/0b18e202782b68b21a5c776e.jpg", "/cdn-image/edcccc6a95729624def0d1a9.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

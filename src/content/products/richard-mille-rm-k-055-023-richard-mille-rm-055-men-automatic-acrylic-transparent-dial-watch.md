@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 055 Men Automatic Acrylic Transparent Dial Watch"
 brand: "Richard Mille"
 sku: "RM-K-055-023"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/2d9851267008c5befa72e294.jpg"
 images: ["/cdn-image/2d9851267008c5befa72e294.jpg", "/cdn-image/8f19ddc6576565a747fc246b.jpg", "/cdn-image/10f1ed77c6fd7eea12535c93.jpg", "/cdn-image/0978a660dd93ee2191e26c0a.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

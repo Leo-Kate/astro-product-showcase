@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 61-01 Yohan Blake Replica Watch – Swiss Manual Winding, Yellow Strap, Ceramic &#038; Carbon Barrel Case"
 brand: "Richard Mille"
 sku: "RM-61-01-00005"
 category: "Richard Mille > RM 61-01"
 image: "/cdn-image/af60c51f68e8421c2b7a1de7.jpg"
 images: ["/cdn-image/af60c51f68e8421c2b7a1de7.jpg", "/cdn-image/ac8c53d780c9efa21f0c840d.jpg", "/cdn-image/edc6a680fb353c1eaf53dfb3.jpg", "/cdn-image/423f7f6fcd13aa826c1a800f.jpg", "/cdn-image/838b23fb3930c6349f4f4182.jpg", "/cdn-image/01a84ddb4a9631273179fe37.jpg"]
-price: 89900.0
 in_stock: true
 ---
 

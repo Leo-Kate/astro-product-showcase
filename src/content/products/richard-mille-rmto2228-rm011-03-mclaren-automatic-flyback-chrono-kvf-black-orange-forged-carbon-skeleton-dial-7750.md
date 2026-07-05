@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-03 McLaren Automatic Flyback Chrono KVF Black &amp; Orange Forged Carbon Skeleton Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2228"
 category: "Richard Mille > RM 011-03"
 image: "/cdn-image/3e981de0d870d747c49947d6.jpg"
 images: ["/cdn-image/3e981de0d870d747c49947d6.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

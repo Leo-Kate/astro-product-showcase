@@ -96,3 +96,12 @@
 - Verification: `npm run build` passed and generated 1,546 pages. Local Pages dev at `127.0.0.1:8788` rendered images through `/cdn-image`; desktop/mobile screenshots checked homepage, catalogue, and PMS011 detail page. Catalogue search for `PMS011` showed 1 visible product and 1,406 hidden products.
 - Deployed commit `8b4b63b` (`Refine luxury catalogue experience`) through GitHub Actions run `28732277869`; the run completed successfully and deployed to Cloudflare Pages.
 - Live verification on `https://mirck.co` returned 200 for `/`, `/products/`, `/collections/rm-011/`, and sample PMS011 detail page; anonymous `/admin/` returned 401; sample `/cdn-image/...` returned `200 image/jpeg`; live catalogue search for `PMS011` showed 1 visible product and 1,406 hidden products.
+
+## 2026-07-05 - Codex
+
+- Removed product pricing entirely after Leo rejected the imported/fake prices.
+- Removed `price` from the Astro content schema, Sveltia CMS field config, product card display, homepage hero display, product detail display, shared catalogue helpers, and the WooCommerce import script.
+- Deleted all `price:` frontmatter lines from product Markdown and cleaned price/USD/dollar-related text from imported descriptions so public detail pages do not expose price copy.
+- Deleted the non-watch "Additional Pay / make up the difference" product and pruned its unused image mapping, reducing the catalogue from 1,407 to 1,406 products and image mappings from 5,878 to 5,877.
+- Verification before deploy: source search found no `priceLabel`, `Price on request`, `price:` frontmatter, CMS price field, `data.price`, price/USD/dollar text in product content, or built `dist` price tokens. `npm run build` passed and generated 1,545 pages.
+- Local Pages/browser QA: `/` shows `1,406` products, `/products/` text has no price tokens, search for `PMS011` shows 1 visible product, PMS011 detail page has no price tokens, the detail WhatsApp link still includes `PMS011`, mobile detail page has no horizontal overflow, and anonymous `/admin/` returns 401.

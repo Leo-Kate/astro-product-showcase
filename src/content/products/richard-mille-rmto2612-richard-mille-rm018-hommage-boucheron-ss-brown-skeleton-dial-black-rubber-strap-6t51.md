@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM018 Hommage Boucheron SS Brown Skeleton Dial Black Rubber Strap 6T51"
 brand: "Richard Mille"
 sku: "RMTO2612"
 category: "Richard Mille > RM 018"
 image: "/cdn-image/168c524c1d34d623bac7045d.jpg"
 images: ["/cdn-image/168c524c1d34d623bac7045d.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

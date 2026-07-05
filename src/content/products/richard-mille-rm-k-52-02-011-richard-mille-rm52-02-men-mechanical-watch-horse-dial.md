@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-02 Men Mechanical Watch Horse Dial"
 brand: "Richard Mille"
 sku: "RM-K-52-02-011"
 category: "Richard Mille > RM 52-02"
 image: "/cdn-image/6f94dc17f9a58384de1c94ac.jpg"
 images: ["/cdn-image/6f94dc17f9a58384de1c94ac.jpg", "/cdn-image/21b595f0be5eb8b6c0d48853.jpg", "/cdn-image/4c8a71e771cb8d84162be0b7.jpg"]
-price: 59900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM032 Rose Gold Black Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2646"
 category: "Richard Mille > RM 032"
 image: "/cdn-image/62ca2fb5d2d5634d7b81fdd2.jpg"
 images: ["/cdn-image/62ca2fb5d2d5634d7b81fdd2.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

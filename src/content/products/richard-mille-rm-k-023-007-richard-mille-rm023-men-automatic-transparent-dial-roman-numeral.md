@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM023 Men Automatic Transparent Dial Roman Numeral"
 brand: "Richard Mille"
 sku: "RM-K-023-007"
 category: "Richard Mille > RM 023"
 image: "/cdn-image/dc671a5a6ffc26e9ba882bf8.jpg"
 images: ["/cdn-image/dc671a5a6ffc26e9ba882bf8.jpg", "/cdn-image/641d194c4a72a4c645cf2842.jpg", "/cdn-image/61d939b737df7fcf9591c649.jpg", "/cdn-image/9256f4541475c4f5f2840c53.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

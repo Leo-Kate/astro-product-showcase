@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Mechanical Men Ceramics Bezel Transparent Dial Rubber Band"
 brand: "Richard Mille"
 sku: "RM-J-055-003"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/5ae2cce0e262784654b1ec5e.jpg"
 images: ["/cdn-image/5ae2cce0e262784654b1ec5e.jpg", "/cdn-image/51c5602256e4f90b63386d02.jpg", "/cdn-image/cd5253ae64f1b0daef07c6c1.jpg", "/cdn-image/2ec25561d68a0c8f4ac90d3d.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

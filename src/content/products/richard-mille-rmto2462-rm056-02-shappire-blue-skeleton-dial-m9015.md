@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM056-02 Shappire Blue &amp; Skeleton Dial M9015"
 brand: "Richard Mille"
 sku: "RMTO2462"
 category: "Richard Mille > RM 056-02"
 image: "/cdn-image/eff14e619e8c1dc97c1745ca.jpg"
 images: ["/cdn-image/eff14e619e8c1dc97c1745ca.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

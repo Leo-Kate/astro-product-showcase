@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM12-01 Men Mechanical Rubber Band Watch"
 brand: "Richard Mille"
 sku: "RM-J-12-01-003"
 category: "Richard Mille > RM 12-01"
 image: "/cdn-image/161a270616471765c1adb43b.jpg"
 images: ["/cdn-image/161a270616471765c1adb43b.jpg", "/cdn-image/249a865d228159b258ddbbd4.jpg", "/cdn-image/6e76279514ce7c8c6d9da2b9.jpg", "/cdn-image/d4832c719a7d2baebfa9aebb.jpg"]
-price: 69900.0
 in_stock: true
 ---
 

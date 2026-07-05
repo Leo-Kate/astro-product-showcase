@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM59-01A Forged Carbon Green Skeleton Dial M6T51"
 brand: "Richard Mille"
 sku: "RMTO2451"
 category: "Richard Mille > RM 59-01A"
 image: "/cdn-image/d90cd5610827549cbb3221a0.jpg"
 images: ["/cdn-image/d90cd5610827549cbb3221a0.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

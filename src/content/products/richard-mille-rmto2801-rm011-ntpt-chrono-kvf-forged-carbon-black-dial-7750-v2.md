@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011 NTPT Chrono KVF Forged Carbon Black Dial 7750 V2"
 brand: "Richard Mille"
 sku: "RMTO2801"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/fc813fea5ff1a579f998b59f.jpg"
 images: ["/cdn-image/fc813fea5ff1a579f998b59f.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

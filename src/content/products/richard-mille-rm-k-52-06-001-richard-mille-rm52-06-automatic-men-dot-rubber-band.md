@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM52-06 Automatic Men Dot Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-52-06-001"
 category: "Richard Mille > RM 52-06"
 image: "/cdn-image/a6c0d256229ab0f2e035aeb2.jpg"
 images: ["/cdn-image/a6c0d256229ab0f2e035aeb2.jpg", "/cdn-image/bb0c5b6d209fc209bb210c47.jpg", "/cdn-image/5fb1edce88ebbcb01389ee9a.jpg", "/cdn-image/83a50369303e2271f8c9c8e5.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM 037 Automatic Silver Dial Ladies Watch RM037 AO WG"
 brand: "Richard Mille"
 sku: "RMTO2745"
 category: "Richard Mille > RM 037"
 image: "/cdn-image/67605cfe5d3574e1ccb8cfd1.jpg"
 images: ["/cdn-image/67605cfe5d3574e1ccb8cfd1.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM35 Men Mechanical Watch"
 brand: "Richard Mille"
 sku: "RM-K-035-020"
 category: "Richard Mille > RM 35"
 image: "/cdn-image/4104ae35fb80238998174e58.jpg"
 images: ["/cdn-image/4104ae35fb80238998174e58.jpg", "/cdn-image/d4e978947c546e5befcb3762.jpg", "/cdn-image/cb3fd519614286bee96077c3.jpg", "/cdn-image/81f4a8763e1e3853678358c7.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

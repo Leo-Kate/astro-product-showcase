@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM S05 Replica &#8211; Mechanical Fountain Pen"
 brand: "Richard Mille"
 sku: "RMS05SCA-T1/01"
 category: "Richard Mille > RM S05"
 image: "/cdn-image/36106c9914de52336a47d138.jpeg"
 images: ["/cdn-image/36106c9914de52336a47d138.jpeg", "/cdn-image/f2d5c2a1ea59f5f9334d3d38.jpeg", "/cdn-image/930cfe3ca0b56ec472bbf88c.jpeg", "/cdn-image/a09756e83c6b0236becd0675.jpeg", "/cdn-image/dbf38b438c483713b6b26342.jpeg", "/cdn-image/914adceea00d2977d607ad97.jpeg", "/cdn-image/72a3458ce00721dfcd920b56.jpeg", "/cdn-image/e0d4e1afd156f7778fa6b49f.jpeg", "/cdn-image/688c4f2ea1148fb25da0a2b2.jpeg", "/cdn-image/8c85d8a429cdf9cb820746f9.jpeg", "/cdn-image/86fff01b24a1cc0c41f06f05.jpeg", "/cdn-image/c04d6615bd8e172b7027b94b.jpeg"]
-price: 169900.0
 in_stock: true
 ---
 

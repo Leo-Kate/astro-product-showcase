@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM011-01 R Mancini Chrono Forged Carbon Black Dial 7750"
 brand: "Richard Mille"
 sku: "RMTO2466"
 category: "Richard Mille > RM 011-01"
 image: "/cdn-image/5b99245d6a4802160dae263f.jpg"
 images: ["/cdn-image/5b99245d6a4802160dae263f.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

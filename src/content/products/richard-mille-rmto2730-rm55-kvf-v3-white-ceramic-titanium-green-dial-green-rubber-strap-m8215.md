@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM55 KVF V3 White Ceramic &amp; Titanium Green Dial Green Rubber Strap M8215"
 brand: "Richard Mille"
 sku: "RMTO2730"
 category: "Richard Mille > RM 55"
 image: "/cdn-image/8bfabb9a4b177a1025dc319c.jpg"
 images: ["/cdn-image/8bfabb9a4b177a1025dc319c.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

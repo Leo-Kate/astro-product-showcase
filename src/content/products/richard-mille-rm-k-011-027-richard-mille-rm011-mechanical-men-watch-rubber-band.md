@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Mechanical Men Watch Rubber Band"
 brand: "Richard Mille"
 sku: "RM-K-011-027"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/cd681d0d2e28d701d93b06e8.jpg"
 images: ["/cdn-image/cd681d0d2e28d701d93b06e8.jpg", "/cdn-image/58b019b4ba4a756050ed32d6.jpg", "/cdn-image/03b6140c7ecc94db3d670359.jpg"]
-price: 49900.0
 in_stock: true
 ---
 

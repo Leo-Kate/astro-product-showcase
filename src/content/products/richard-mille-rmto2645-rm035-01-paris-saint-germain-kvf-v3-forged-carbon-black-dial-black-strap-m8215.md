@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM035-01 Paris Saint Germain KVF V3 Forged Carbon Black Dial Black Strap M8215"
 brand: "Richard Mille"
 sku: "RMTO2645"
 category: "Richard Mille > RM 035-01"
 image: "/cdn-image/86507c25ead09836859726e6.jpg"
 images: ["/cdn-image/86507c25ead09836859726e6.jpg"]
-price: 169900.0
 in_stock: true
 ---
 

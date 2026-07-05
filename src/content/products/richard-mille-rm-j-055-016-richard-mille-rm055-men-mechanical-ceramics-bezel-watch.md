@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM055 Men Mechanical Ceramics Bezel Watch"
 brand: "Richard Mille"
 sku: "RM-J-055-016"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/35cf63964df267acbbbe959f.jpg"
 images: ["/cdn-image/35cf63964df267acbbbe959f.jpg", "/cdn-image/5df726a7fb3a8cd09e968aec.jpg", "/cdn-image/28a464d51bc9547933ed1a2a.jpg"]
-price: 79900.0
 in_stock: true
 ---
 

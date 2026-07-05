@@ -1,11 +1,10 @@
----
+﻿---
 title: "Richard Mille RM011 Automatic Watch &#8211; RMT062"
 brand: "Richard Mille"
 sku: "RMT062"
 category: "Richard Mille > RM 011"
 image: "/cdn-image/beb7305990295a192f1f7a77.jpg"
 images: ["/cdn-image/beb7305990295a192f1f7a77.jpg"]
-price: 169900.0
 in_stock: true
 ---
 
@@ -15,5 +14,4 @@ in_stock: true
 <p>3. **Chronograph Function**: The RM011 typically includes a chronograph function, allowing the wearer to measure elapsed time with precision. This is a useful feature for timing events or activities.</p>
 <p>4. **Skeletal Dial**: Many Richard Mille watches, including the RM011, have a skeletal dial design that showcases the intricate inner workings of the watch. This design not only looks visually striking but also allows enthusiasts to appreciate the craftsmanship that goes into each timepiece.</p>
 <p>5. **Limited Editions**: Richard Mille often releases limited edition versions of their watches, featuring unique designs, materials, and color schemes. These limited editions can be highly sought after by collectors and enthusiasts.</p>
-<p>6. **High Price**: Richard Mille watches are considered some of the most expensive timepieces in the world, with prices often reaching into the hundreds of thousands or even millions of dollars. The high price tag reflects the brand’s commitment to using the best materials and craftsmanship available.</p>
 <p>Overall, the Richard Mille RM011 Automatic Watch is a symbol of luxury, innovation, and precision in the world of high-end watchmaking.</p>

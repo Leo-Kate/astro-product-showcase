@@ -1,11 +1,10 @@
----
+﻿---
 title: "RM055 KVF V2 Ceramic Gold Dial M8215"
 brand: "Richard Mille"
 sku: "RMTO2708"
 category: "Richard Mille > RM 055"
 image: "/cdn-image/a74b3fc1d96549544aaabcf3.jpg"
 images: ["/cdn-image/a74b3fc1d96549544aaabcf3.jpg"]
-price: 169900.0
 in_stock: true
 ---
 
